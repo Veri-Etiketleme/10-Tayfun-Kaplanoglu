@@ -105,3 +105,4 @@ Pthon
 Yardımcı Teknolojiler
     PyTorch
     jupyter notebook
+    Python Pickle Module

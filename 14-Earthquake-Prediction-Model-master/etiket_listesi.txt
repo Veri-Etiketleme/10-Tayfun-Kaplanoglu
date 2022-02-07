@@ -1,0 +1,53 @@
+Python
+
+    numpy
+        zeros
+        mean
+    pandas
+        read_csv
+        concat
+        Series
+        DataFrame
+    scipy
+    matplotlib
+        pyplot
+    seaborn
+    gc
+    warnings
+        filterwarnings
+        simplefilter
+    os
+        listdir
+    tqdm
+        tqdm_notebook
+    datetime
+    time
+    random
+    joblib
+        Parallel
+        delayed
+    catboost
+        pool
+        CatBoostRegressor
+    sklearn
+        preprocessing
+            StandardScaler
+        Metrics
+            mean_absolute_error
+        model_selection
+            Kfold
+        feature_selection
+            RFECV
+            SelectFromModel
+    keras
+        models
+        optimizers
+        regularizers
+        layers
+        backend
+        callback
+        Sequential
+
+
+Yardımcı Teknolojiler
+    jupyter notebook

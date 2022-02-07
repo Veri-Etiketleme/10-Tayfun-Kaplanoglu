@@ -1,0 +1,53 @@
+
+Python
+    keras
+        models
+            Sequential
+            load_model
+        layers
+            convolutional
+                Conv2D
+                MaxPooling2D
+            core
+                Activation
+                Flatten
+                Dense
+        backend
+        preprocessing
+            image
+                img_to_array
+                ImageDataGenerator
+                
+    sklearn
+        preprocessing
+            MultiLabelBinarizer
+        model_selection
+            train_test_split
+    numpy
+        expand_dims
+        argsort
+
+    ARCHITECTURE
+        lenet
+            LeNet
+                build
+
+    cv2
+        imread
+        resize
+        imshow
+        FONT_HERSHEY_SIMPLEX
+    pickle
+        loads
+    imutils
+        resize
+        paths
+    os
+        path
+            sep
+    random
+    matplotlib
+        pyplot
+
+Yardımcı Teknolojiler
+    jupyter notebook

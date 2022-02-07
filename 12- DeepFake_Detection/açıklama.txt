@@ -1,0 +1,2 @@
+Deepfake teknolojisi kullanın yüzleri tanımlamak ve deepfake maskesini 
+resmi Python uygulamasının basit belirli özellikleriyle kaldırılmasını amaçlamaktadır. 

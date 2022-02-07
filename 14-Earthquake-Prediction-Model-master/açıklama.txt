@@ -1,0 +1,3 @@
+depremlerin ne zaman gerçekleşeceği ele alınmaktadır. Eşzamanlı sismik verileri ile
+Cat Boost algoritma yapısını kullanılarak makina öğrenmesinin gerçeklemesi ve yaşanabilecek
+depremin zamanını öngörmeyi amaçlamaktadır.

@@ -1,0 +1,56 @@
+Python
+    keras
+        preprocessing
+            image
+                ImageDataGenerator
+        models
+            load_model
+            Sequential
+        layers
+            Convolution2D
+            MaxPooling2D
+            Flatten
+            Dense
+            Dropout
+            normalization
+            BatchNormalization 
+        optimizers
+            SGD
+    
+    numpy
+    matplotlib
+        pyplot
+            plot
+            title
+            ylabel
+            xlabel
+            legend
+            show
+
+    seaborn
+        set
+    PySimpleGUI
+        Text
+        Combo
+        user_settings_get_entry
+        WINDOW_CLOSE_ATTEMPTED_EVENT
+        user_settings_set_entry
+        VerticalSeparator
+        Column
+        Button
+        Frame
+        Window
+        popup
+    tensorflow
+        get_default_graph
+    PIL
+        Image
+            ANTIALIAS
+            open
+    Base64
+        b64decode
+    io
+        BytesIO
+    
+Yardımcı Teknolojiler
+    h5py

@@ -1,0 +1,56 @@
+Python
+
+    cv2
+        imread
+    numpy
+        zeros
+        fft
+            fft2
+            fftshift
+            ifftshift
+        log
+        abs
+        linspace
+        std
+        mean
+        concatenate
+        arange
+        indices
+        argsort
+        where
+        cumsum
+        ogrid
+        invert
+
+    os
+        walk
+    radialProfile
+        azimuthalAverage
+    glob
+        glob
+
+    matplotlib
+        pyplot
+            plot
+            subplots
+            tick_params
+            xlabel
+            ylabel
+        image
+            imread
+    Pickle
+        dump
+        load
+    scipy
+        interpolate
+            griddata
+    sklearn
+        svm
+            SVC
+        linear_model
+        LogisticRegression 
+
+
+Yardımcı Teknolojiler
+    Python Pickle Module
+    jupyter notebook

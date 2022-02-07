@@ -1,0 +1,2 @@
+Lenet mimarisi kullanılarak trafik yol durumu sınıflandırılması. 
+Makine öğrenmesi ve derin öğrenme ile görselleri yol özelliğini ve durumunu belirleyip sınıflandırmaktadır.

@@ -1,0 +1,4 @@
+Bitki yaprağında bulunan hastalığı tanımlamak için eğitimli
+ bir evrişimli sinir ağı (AlexNet) kullanılmaktadır. 
+ 38 farklı sağlıklı ve hastalıklı bitki yaprağı sınıfı bulunmaktadır.
+ Makina öğrenmesiyle bitki hastalıkları tahmin edilmesi amaçlanmıştır.
