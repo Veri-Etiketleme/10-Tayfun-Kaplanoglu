@@ -1,0 +1,2 @@
+makine öğrenmesi kullanılarak altın oranlarını tahmin etme ve 
+altın oranlarını yüksek derecede etkileyen faktörlerin tespit edilmesi.

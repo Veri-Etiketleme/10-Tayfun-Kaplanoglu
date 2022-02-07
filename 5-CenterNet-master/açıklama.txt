@@ -1,0 +1,2 @@
+Nesne algılama, 3 boyutlu algılama ve  
+merkez noktasını tesip ederek duruş tahmini yapma.

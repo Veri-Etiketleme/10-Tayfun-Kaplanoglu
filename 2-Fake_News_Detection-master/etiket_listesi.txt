@@ -1,0 +1,112 @@
+
+python
+
+
+
+    Dataprep
+    FeatureSelection
+        countV
+        tfidf_ngram
+    
+    
+    numpy
+        mean
+        std
+        array
+        zeros
+
+
+    pandas
+        read_csv
+
+   
+    pickle
+        dump
+    
+    
+    sklearn
+        feature_extraction
+            text
+                CountVectorizer
+                TfidfTransformer
+                TfidfVectorizer
+        pipeline
+            Pipeline
+                fit
+                predict       
+        naive_bayes
+            MultinomialNB
+        linear_model
+            LogisticRegression
+            SGDClassifier
+        svm
+            LinearSVC
+
+        ensemble
+            RandomForestClassifier
+        model_selection
+            KFold
+            GridSearchCV
+            learning_curve
+        metrics
+            confusion_matrix
+            f1_score
+            classification_report
+            average_precision_score
+            precision_recall_curve
+                     
+    matplotlib
+        pylpot
+            figure
+            title
+            legend
+            xlabel
+            ylabel
+            grid
+            gca
+            fill_between
+            plot
+            ylim
+
+    
+    nltk
+        stem
+            Snowballstemmer
+            porter
+                PorterStemmer
+        tokenize
+            word_tokenize
+        corpus
+            stopwords
+            append
+    seaborn
+
+        countplot
+     print
+    
+    
+    gensim
+        models
+            word2vec
+                word2Vec
+                    itervalues
+
+    re
+    pickle
+
+    def
+    if-else
+    return
+    for
+    print
+
+HTML
+CSS
+YAML
+    bootstrap
+Yardımcı Teknolojiler
+    Jupyter Notebook
+    SPSS
+    Python's Pickle Module
+
+

@@ -1,0 +1,93 @@
+Python
+    pandas
+        read_json
+        concat
+        DataFrame
+        get_dummies
+        Series
+
+    numpy
+        arrange
+        newaxis
+    
+    os
+        Path
+            isfile
+    IPython
+        display
+            Markdown
+            display
+            clear_output
+        core
+            debugger
+                set_trace
+
+
+    nltk
+        tokenize
+            sent_tokenize
+            word_tokenize
+    scipy
+        stats
+    
+    pathlib
+        Path
+
+    _pickle
+        dump
+        load
+
+    spacy
+        displacy
+        load
+        lang
+            en
+                stop_words
+                    STOP_WORDS
+    collection
+        Counter
+    tqdm
+        tqdm
+    time
+        sleep
+
+    sklearn
+        model_selection
+            train_test_split
+
+        naive_bayes
+            GaussianNB
+        metrics
+            confusion_matrix
+    itertools
+    matplotlib
+        pylot
+            cm
+                Blues
+                figure
+                imshow
+                title
+                colorbar
+                xticks
+                yticks
+                text
+                tight_layout
+                xlabel
+                ylabel
+
+    gensim
+        test
+            utils
+                datapath
+                get_tmpfile
+            models
+                KeyedVectors
+                    load_word2vec_format
+        scripts
+            glove2word2vec
+                glove2word2vec
+
+
+Yardımcı Teknolojiler
+    Jupyter Notebook
+    Python's Pickle Module

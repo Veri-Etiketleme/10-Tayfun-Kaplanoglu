@@ -1,0 +1,2 @@
+sinir ağı modeli InceptionV3 modelini eğitmek için 
+Python openCV ve tensorflow kullanarak işaret dili alfabesi tanımlayıcıdır.

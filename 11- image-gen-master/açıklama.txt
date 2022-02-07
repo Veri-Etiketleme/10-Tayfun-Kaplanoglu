@@ -1,0 +1,3 @@
+proje nvidia tarafından geliştirilen yüz verileri üreten StyleGAN2'yi kullanmaktadır.
+StyleGAN2'nin işlevi var olmayan görüntülerin oluşturulmasıdır.
+Projede bu yetenekleri içeren belirtili olmayan değişkenler  sıralı düzen modeline sokulup ayrıştırılmaktadır.

@@ -1,0 +1,58 @@
+python
+    
+
+    numpy
+        argsort
+        unique
+        arange
+        mean
+        where
+                                                                              
+    pandas
+        read
+        DataFrame
+
+    matlplot
+        pyplot
+            scatter
+            figure
+                add_subplot
+                    spines
+                    set_frame_on
+                    get_xaxis
+                    get_yaxis
+                    set_xlabel
+                    set_title
+                    ticklabel_format
+                    barh
+                    set_yticks
+                    sey_ylim
+            subplot_adjust
+
+    sklearn
+        feature_extraction
+            TfidfVectorizer
+            ENGLISH_STOP_WORDS
+        pipeline
+        decomposition
+            PCA
+            TruncatedSVD
+        cluster
+            Kmeans
+            MiniBatchMeans
+        manifold
+            TSNE
+        preprocessing 
+            normalize
+        metrics
+            pairwise
+                linear_kernel
+    helpers
+        parse_into_emails
+    def
+    if-else
+    return
+    for
+    print
+        
+    

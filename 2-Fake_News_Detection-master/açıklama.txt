@@ -1,0 +1,5 @@
+python dilinde sahte haber tespit etme
+
+Bu projede, python'dan sci-kit kütüphanelerini kullanılarak
+sahte haberleri sınıflandırmak için çeşitli  dil işleme teknikleri
+ve makine öğrenme algoritmaları kullanılmıştır.

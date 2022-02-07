@@ -1,0 +1,49 @@
+Python
+    os
+    
+    pandas
+        read_csv
+        concat
+        DataFrame
+    numpy
+    time
+        time
+    sklearn
+        tree        
+            DecisionTreeClassifier
+            export_graphviz
+            DecisionTreeRegressor
+        linear_model
+            LinearRegression
+            SGDRegressor
+        preprocessing
+            StandardScaler
+        cross_validation
+            train_test_split
+            cross_val_score
+        cross_validation
+        metrics
+            roc_auc_score
+            classification_report
+            mean_squared_error
+            r2_score
+            precision_score
+            recall_score
+            accuracy_score
+        grid_search
+            GridSearchCV
+
+        pipeline
+            Pipeline
+        feature_selection
+            *
+        ensemble
+            RandomForestRegressor
+    seaborn
+        set
+        pairplot
+    matplotlib
+        pylplot
+Yardımcı Teknolojiler
+    Jupyter Notebook
+    Excel

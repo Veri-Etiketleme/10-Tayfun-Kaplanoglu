@@ -1,0 +1,27 @@
+python
+    numpy
+    cv2
+        imread
+        imshow
+        cvtColor
+        bilateralFilter
+        Canny
+        findContours
+        RETR_LIST
+        CHAIN_APPROX_SIMPLE
+        contourArea
+        arcLength
+        approxPolyDP
+        drawContours
+        waitKey
+    imutils
+        resize
+
+
+    def
+    if-else
+    return
+    for
+    print
+
+

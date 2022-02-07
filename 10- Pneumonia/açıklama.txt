@@ -1,0 +1,1 @@
+Özel Derin Konvololüsyonlu Sinir Ağı kullanılarak InceptionV3 modelinin eğitilmesiyle göğüs röntgenlerinde Pneumonia tespit edilmesi.

@@ -1,0 +1,3 @@
+karmaşık soruları basit adımlara bölerek çoktan seçmeli soru hazırlama
+metin içerisindeki anahtar kelimeler seçilir, kelime cevap olarak kabul edilir ve 
+kelimeyi tanımlayan metin soru olarak sorulur. Aynı zamanda anahtar kelimeye benzer yanlış cevaplar seçenek olarak eklenir.

@@ -1,0 +1,70 @@
+Python
+    pandas
+        read_csv
+        DataFrame
+    numpy
+        sqrt
+        array
+        argsort
+        arange
+
+
+
+    matplotlib
+        pyplot
+            figure
+            axvline
+            title
+            show
+            subplots
+            plot
+            ylabel
+            gca
+            legend
+            bar
+            xticks
+            xlabel
+
+
+        dates
+            DateFormatter
+            MonthLocator
+
+    sklearn
+        preprocessing
+            MinMaxScaler
+        ensemble
+            RandomForestRegressor
+            GradientBoostingRegressor
+        model_selection
+            GridSearchCV
+            TimeSeriesSplit
+            TimeSeriesSplit
+        
+        linear_model
+            LassoCV
+            RidgeCV
+            BayesianRidge
+            SGDRegressor
+        svm
+            SVM
+        feature_selection
+            SelectFromModel
+        tree
+            DecisionTreeRegressor
+    seaborn
+        heatmap
+
+    
+    def
+    print
+    for
+    return
+
+
+
+
+
+
+Yardımcı Teknolojiler
+    Jupyter Notebook

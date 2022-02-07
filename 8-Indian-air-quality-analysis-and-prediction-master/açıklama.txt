@@ -1,0 +1,1 @@
+makine öğrenmesi ile geçmişteki verileri kullanarak gelecek yıl için hava kalite endeksinin tahmin edilmesi
