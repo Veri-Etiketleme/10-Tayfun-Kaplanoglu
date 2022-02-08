@@ -1,0 +1,1 @@
+mamografi görüntülerinde meme kanserini tesip etmek üzere derin öğrenme kullanımı
