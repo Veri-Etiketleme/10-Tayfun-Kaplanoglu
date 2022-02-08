@@ -1,0 +1,59 @@
+Python
+    
+    numpy
+        mean
+    pandas
+        read_csv
+        notna
+        DataFrame
+    sklearn
+        preporcessing
+            MinMaxScaler
+            StandarddScaler
+        model_selection
+            train_test_split
+            GridSearchCV
+            cross_val_score
+            Kfold
+        experimental
+            ennable_iterative_imputer
+        impute
+            SimpleImputer
+            IterativeImputer
+            KNNImputer
+        metrics
+            Classification_report
+            log_loss
+        svm
+            SVC
+        ensemble
+            RamdomForestClassifier
+    warnings
+        filterwarnings
+    matplotlib
+        pyplot
+        subplot
+        show
+        figure
+    seaborn
+        boxplot
+        displot
+        distplot
+        countplot
+        heatmap
+    xgboost
+        XGBClassifier
+
+    imblearn
+        over_sampling
+            SMOTE
+    
+
+
+
+
+Yardımcı Teknolojiler
+    jupyter notebook
+    xgboost
+    imblearn
+    
