@@ -1,0 +1,154 @@
+Python
+    logging
+    os
+        mkdir
+        path
+            isdir
+
+    csv
+    matplotlib
+        pylot
+            figure
+            xticks
+            yticks
+            title
+            xlabel
+            ylabel
+    numpy
+        arrange
+        array
+    pandas
+        concat
+        DataFrame
+        notnull
+        to_datetime
+        get_dummies
+        read_csv
+    seaborn
+        heatmap
+    sklearn
+        datasets
+        model_selection
+            train_test_split
+        metrics
+            confusion_matrix
+            classification_report
+            mean_squared_error
+        linear_model
+            LogisticRegression
+        preprocessing
+            StandardScaler 
+            OneHotEncoder
+
+
+
+    pkg_resources
+    azureml
+        data
+            datapath
+                DataPath
+        core
+            run
+                Run
+            
+            webservice
+                AciWebservice
+                Webservice
+            experiment
+                Experiment
+                    submit
+            workspace
+                Workspace
+            dataset
+                Dataset
+            dataset_factory
+                TabularDatasetFactory
+            compute
+                AmlCompute
+                ComputeTarget
+            compute_target
+                ComputeTargetException
+            model
+                Model
+                InferenceConfig
+            environment
+                Environment
+            authentication
+                InteractiveLoginAuthentication
+            VERSION
+            PipelineData
+            TrainingOutput
+            ScriptRunConfig
+            shared
+                logging_utilities
+                    log_traceback
+                log_server
+                    enable_telemetry
+                    set_verbosity
+                    update_custom_dimensions
+        train
+            automl
+                AutoMLConfig
+            sklearn
+                RunDetails
+            hyperdrive
+                run
+                    PrimaryMetricGoal
+                policy
+                    BanditPolicy
+                sampling
+                    RandomParameterSampling
+                runconfig
+                    HyperDriveConfig
+                parameter_expressions
+                    uniform
+                    choice
+
+        telemetry
+            INSTRUMENTATION_KEY
+            
+        widgets
+            RunDetails
+
+        pipeline
+            steps
+                AutoMLStep
+            core
+                Pipeline
+                run
+                    PipelineRun
+ 
+ 
+    inference_schema
+        schema_decorators
+            input_schema
+            output_schema
+        parameter_types
+            numpy_parameter_type
+                NumpyParameterType
+            pandas_parameter_type
+                PandasParameterType
+
+    Pickle
+        load
+
+    requests
+        post
+    pprint
+        pprint
+    json
+        dumps     
+        loads
+
+        
+    joblib
+        load
+
+YAML
+
+
+
+Yardımcı Teknolojiler
+    jupyter notebook
+    Python Pickle Module
+    Azure Machine Learning

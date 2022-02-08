@@ -163,3 +163,4 @@ Python
 Yardımcı Teknolojiler
     Shell script
     jupyter notebook
+    python pickle module

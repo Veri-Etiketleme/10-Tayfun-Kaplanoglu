@@ -1,0 +1,2 @@
+makine öğrenmesi kullanarak  kötü niyetli websitesileri(spam,e-dolandırıcılık, güvenlik ihmalleri vb.)
+ belirlenmesi ve snıflandırılması.

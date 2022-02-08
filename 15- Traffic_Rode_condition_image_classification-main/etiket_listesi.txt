@@ -51,3 +51,4 @@ Python
 
 Yardımcı Teknolojiler
     jupyter notebook
+    python pickle module

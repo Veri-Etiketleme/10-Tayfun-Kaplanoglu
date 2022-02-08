@@ -133,11 +133,12 @@ C
                 adapted
                     c_array
 
-Shell script
+
 YAML
 JSON
 Yardımcı Teknolojiler
-    Markdown 
+    Markdown
+    Shell script
     pyrex
     opencv-python
     Cython
