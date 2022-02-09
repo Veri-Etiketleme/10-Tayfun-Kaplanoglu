@@ -1,0 +1,1 @@
+{{sender}} invites you to {% if group %}a Team in {% endif%}eScriptorium!

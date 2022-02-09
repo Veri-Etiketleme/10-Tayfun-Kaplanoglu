@@ -1,0 +1,24 @@
+Python
+    flask
+        Flask
+        render_template
+    fask_cors
+        CORS
+        cross_origin
+    numpy
+        array
+    pandas
+        read_csv
+    datetime
+        datetime
+            now
+    random
+
+
+
+YAML
+HTML
+CSS
+
+Yardımcı Teknolojiler
+    IntelliJ IDEA

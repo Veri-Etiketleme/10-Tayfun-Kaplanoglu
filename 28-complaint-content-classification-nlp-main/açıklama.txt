@@ -1,0 +1,4 @@
+
+proje, anlatıların metnini işlemek ve şikayetleri
+ beş sınıftan birine kategorize etmek için Doğal Dil İşleme (NLP) 
+ makine öğrenimi modelleri geliştirir. 

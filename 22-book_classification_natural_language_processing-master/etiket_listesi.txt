@@ -1,0 +1,46 @@
+Python
+    pip
+        _vendor
+            html5lib
+                treeadapters
+                    sax
+                        namespace
+
+
+    jpype
+        startJVM
+        JClass
+        shutdownJVM
+    nltk
+        download
+        corpus
+            stoprwords
+                words
+    time
+        sleep
+    random
+        uniform
+    pandas
+    numpy
+    sklearn
+        preprocessing
+            LabelEncoder
+        feature_extraction
+            text
+                TfidVectorizer
+        naive_bayes
+            MultinomialNB
+        metrics
+            classification_report
+            confusion_matrix
+            accuracy_score
+        model_selection
+            train_test_split
+        svm
+            SVC
+            fit
+            predict
+
+    
+Yardımcı Teknolojiler
+    Jar

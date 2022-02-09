@@ -1,0 +1,46 @@
+Python
+
+    pandas
+    numpy
+        array
+    matplotlib
+        pyplot
+            figure
+            plot
+            xlabel
+            ylabel
+            title
+            grid
+            show
+    seaborn
+        set
+        countplot
+        boxplot
+        heatmap
+
+    sklearn
+        model_selection
+            train_test_split
+            RamdomizedSearchCV
+            GridSearchCV
+        preprocessing
+            StandardScalar
+            LabelEncoder
+            LabelBinarizer
+        linear_model
+            LogisticRegression
+        externals
+            joblib
+        metrics
+            roc_auc_score
+            roc_curve
+            auc
+            log_loss
+            cunfusion_matrix
+    math
+        log
+    warnings
+        filterwarnings
+
+Yardımcı Teknolojiler
+    SPSS

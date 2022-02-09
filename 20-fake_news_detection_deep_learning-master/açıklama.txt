@@ -1,0 +1,1 @@
+Derin öğrenme modeli kullanarak sahte haberlerin belirlenmesi

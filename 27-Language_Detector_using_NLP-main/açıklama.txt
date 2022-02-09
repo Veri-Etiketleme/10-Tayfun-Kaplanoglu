@@ -1,0 +1,1 @@
+NLP modeli Naive Bayes algoritmasını kullanarak 17 farklı dili algılamaktadır.

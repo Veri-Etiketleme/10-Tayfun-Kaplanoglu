@@ -1,0 +1,34 @@
+Python
+    pandas
+        read_csv
+    numpy
+    re
+        sub
+    seaborn
+        heatmağ
+    matplotlib
+        pyplot
+            figure
+            show
+        warnings
+            simplefilter
+    sklearn
+        preprocessing
+            LabelEncoder
+        feature_extraction
+            text
+                CountVectorizer
+        model_selection
+            train_test_split
+        naive_bayes
+            MultinomialNB
+        metrics
+            accuracy_score
+            confusion_matrix
+            classification_report
+    Pickle
+        dump
+
+Yardımcı Teknolojiler
+    Shell script
+    Python Pickle Module

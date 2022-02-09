@@ -1,0 +1,101 @@
+Python
+    pandas
+        read_csv
+        DataFrame
+            from_dict
+    numpy
+        mean
+        array
+        nan
+
+    matplotlib
+        pyplot
+            grid
+            show
+            subplot
+            plot
+
+    plotly
+        graph_objects
+            Figure
+            Bar
+        express
+            Bar
+            pie
+
+    gensim
+        corpora
+            Dictionary
+        utils
+            simple_preprocess
+        models
+            TfidfModel
+            ldamodel
+                LdaModel
+
+    nltk
+        corpus
+            stopwords
+        word_tokenize
+        FreqDist
+        stem
+            wordnet
+                WordNetLemmatizer
+
+    pyLDAvis
+        gensim
+            prepare
+
+    string
+        punctuation
+    sklearn
+        feature_extraction
+            text
+                TfidVectorizer
+                CountVectorizer
+        decomposition
+            NMF
+            LatentDirichletAllocation
+        model_selection
+            train_test_split
+            GridSearchCV
+            cross_val_score
+        naive_bayes
+            MultinomialNB
+        metrics
+            classification_report
+            accuracy_score
+            confusion_matrix
+            ConfusionMatrixDisplay
+            plot_confusion_matrix
+            recall_score
+            precision_score
+        tree
+            DecisionTreeClassifier
+        ensemble
+            GradientBoostingClassifier
+        pipeline
+            Pipeline
+        neighbors
+            KNeighborsClassifier
+
+    xgboost
+        XGBClassifier
+    imblearn
+        over_sampling
+            SMOTE
+
+    imp
+        reload
+    requests
+        get
+    pickle
+        load
+
+
+HTML
+CSS
+
+Yardımcı Teknolojiler
+    jupyter Notebook
+    XGBoost

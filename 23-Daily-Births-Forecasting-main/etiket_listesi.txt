@@ -1,0 +1,20 @@
+Python
+    pandas
+        read_csv
+        to_datetime
+    numpy
+    fbprophet
+        plot
+            add_changepoints_to_plot  
+        Prophet
+    warnings
+        catch_warnings
+        simplefilter
+    matplotlib
+        pyplot
+            plot
+            title
+
+
+Yardımcı Teknolojiler
+    Jupyter Notebook

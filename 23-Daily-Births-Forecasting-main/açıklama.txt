@@ -1,0 +1,1 @@
+makine öğrenmesi algoritmaları ile günlük doğum oranlarını tahmin etme

@@ -1,0 +1,192 @@
+Python
+
+    numpy
+        random
+            shuffle
+        arange
+        array
+        zeros
+        sum
+        logical_and
+        array
+        count_nonzero
+        std
+        max
+
+
+    matplotlib
+        pyplot
+            legend
+            grid
+            rc
+            shw
+            subplots
+            matshow
+            colorbar
+            show
+    os
+        listdir
+        mkdir
+        path
+            isfile
+            join
+            exists
+    random
+        random
+    shutil
+        rmtree
+        copyfile
+    pandas
+        read_csv
+    collection
+        defaultdict
+    re
+        split
+    gensim
+        models
+            KeyedVectors
+                load_word2vec_format
+    bs4
+        BeautifulSoup
+        element
+            Comment
+    sys
+        exc_info
+    time
+        time
+        sleep
+    datetime
+    scipy
+        sparce
+    Ipython
+        display
+            display
+            HTML
+            Image
+            clear_output
+    
+
+    tensorflow
+        concat
+        variable
+        array_ops
+        name_scope
+        variable_scope
+        tanh
+        tensordot
+        random_normal
+        reset_default_graph
+        placeholder
+        reshape
+        shape
+        matmul
+        log
+        cast
+        argmax
+        Session
+        stack
+        assert_equal
+        InteractiveSession
+        GraphDef
+        range
+        transpose
+        multiply
+        layers
+            conv2d
+            dense
+        compat
+            as_bytes
+        summary
+            scalar
+            merge
+            FileWriter
+        
+        train
+            AdamOptimizer
+            Saver
+        nn
+            softmax
+            embedding_lookup
+            dropout
+            top_k
+        reduce_mean
+        expand_dims
+        pytohn
+            ops
+                rnn
+                    bidirectional_dynamic_rnn
+        contrib
+            rnn
+                GRUCell
+        examples
+            tutorials
+                mnist
+                    input_data
+
+    sklearn
+        feature_extraction
+            text
+                TfidfVectorizer
+                CountVectorizer
+                HashingVectorizer
+                TfidfTransformer
+        decomposition
+            NMF
+            LatentDirichletAllocation
+        metrics
+            accuracy_score
+            confusion_matrix
+            classification_report
+        ensemble
+            RamdomForestClassifier
+        naive_bayes
+            MultibominalNB
+        linear_model
+
+    xgboost
+        XGBClassifier
+
+    __future__
+        absolute_import
+        division
+        print_function
+    
+
+
+    keras
+        preprocessing
+            text
+                Tokenizer
+                text_to_word_sequence
+            sequence
+                pad_sequences
+        utils
+            to_categorical
+        
+    attention
+        *
+
+    nltk
+        corpus
+            stopwords
+        tokenize
+            sent_tokenize
+        word_tokenize
+    
+    scrapy
+        crawler
+            CrawlerProcess
+    requests
+        get
+    selenium
+        webdriver
+    
+
+    json
+    urllib
+
+HTML
+CSS
+
+Yardımcı Teknolojiler
+    jupyter Notebook

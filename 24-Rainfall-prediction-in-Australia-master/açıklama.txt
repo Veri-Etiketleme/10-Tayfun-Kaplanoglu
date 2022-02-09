@@ -1,0 +1,2 @@
+avustralya'daki yağış verilerini makine öğrenmesi ile değerlendirerek
+ ileride yağış olup/olmama durumunun tahmin edilmesi

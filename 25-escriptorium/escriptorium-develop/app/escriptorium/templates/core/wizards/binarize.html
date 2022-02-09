@@ -1,0 +1,22 @@
+{% extends 'core/wizards/_base.html' %}
+{% load i18n bootstrap %}
+
+{% block wizard_help %}
+<p>{% trans "Binarization is NOT a mandatory step any more, and might even decrease quality." %}</p>
+{% endblock %}
+
+{% block wizard_fields %}
+<div class="form-group">
+  <h5>{% trans "Manually" %}</h5>
+  {% render_field binarize_form.bw_image class="js-proc-settings" %}
+</div>
+<div class="form-group">
+  <h5>{% trans "Or automatically" %}</h5>
+  {# render_field process_form.binarizer class="js-proc-settings" #}
+
+  {% trans "Contrast" %}
+  {% render_field binarize_form.threshold class="js-proc-settings" %}
+</div>
+{% endblock %}
+
+{% block wizard_submit %}{% trans "Upload or Binarize" %}{% endblock %}

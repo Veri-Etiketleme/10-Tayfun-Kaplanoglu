@@ -1,0 +1,15 @@
+{% extends 'core/wizards/_base.html' %}
+{% load i18n bootstrap %}
+
+{% block wizard_help %}
+<p>{% trans "Make sure that the segmentation is good before going forward because resegmenting will delete all bound transcriptions." %}
+{% endblock %}
+
+{% block wizard_fields %}
+<div class="form-group">
+  <h5>{% trans "Select a model" %}</h5>
+  {% render_field transcribe_form.model class="js-proc-settings" data_document=document.pk %}
+</div>
+{% endblock %}
+
+{% block wizard_submit %}{% trans "Transcribe" %}{% endblock %}

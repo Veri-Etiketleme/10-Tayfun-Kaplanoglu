@@ -1,0 +1,121 @@
+version: "3.9"
+
+services:
+  app: &app
+    image: registry.gitlab.com/scripta/escriptorium:latest
+    build:
+      context: .
+    env_file: variables.env
+    volumes:
+      # - ./app/:/usr/src/app/
+      - static:/usr/src/app/static
+      - media:/usr/src/app/media
+    command: /bin/true
+
+  web:
+    <<: *app
+    command: uwsgi --ini /usr/src/app/uwsgi.ini
+    expose:
+      - 8000
+
+  channelserver:
+    <<: *app
+    command: daphne --bind 0.0.0.0 --port 5000 -v 1 escriptorium.asgi:application
+    expose:
+      - 5000
+
+  db:
+    image: docker.io/library/postgres:10.5-alpine
+    volumes:
+      - postgres:/var/lib/postgresql/data/
+    env_file: variables.env
+
+  redis:
+    image: docker.io/sickp/alpine-redis:4.0.6
+
+  nginx:
+    image: registry.gitlab.com/scripta/escriptorium/nginx
+    build: ./nginx
+    environment:
+      - SERVERNAME=${DOMAIN:-localhost}
+    volumes:
+      - type: bind
+        source: $PWD/nginx/nginx.conf
+        target: /etc/nginx/conf.d/nginx.conf
+      - static:/usr/src/app/static
+      - media:/usr/src/app/media
+    ports:
+      - 8080:80
+
+  # elasticsearch:
+  #   image: docker.elastic.co/elasticsearch/elasticsearch:6.5.1
+  #   environment:
+  #     - cluster.name=docker-cluster
+  #     - bootstrap.memory_lock=true
+  #     - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+  #   ulimits:
+  #     memlock:
+  #       soft: -1
+  #       hard: -1
+  #   volumes:
+  #     - ./esdata/:/usr/share/elasticsearch/data
+  #   #expose:
+  #   #   - 9200
+  #   # ports:
+  #   #  - 9200:9200
+  #   # networks:  # use this if adding nodes
+  #   #   - esnet
+
+  celery-main:
+    <<: *app
+    environment:
+      - OMP_NUM_THREADS=1
+    command: "celery worker -l INFO -E -A escriptorium -Ofair --prefetch-multiplier 1 -Q default -c ${CELERY_MAIN_CONC:-10} --max-tasks-per-child=10"
+
+  celery-live:
+    <<: *app
+    command: "celery worker -l INFO -E -A escriptorium -Ofair --prefetch-multiplier 1 -Q live -c ${CELERY_LIVE_CONC:-10} --max-tasks-per-child=10"
+
+  celery-low-priority:
+    <<: *app
+    command: "celery worker -l INFO -E -A escriptorium -Ofair --prefetch-multiplier 1 -Q low-priority -c ${CELERY_LOW_CONC:-10} --max-tasks-per-child=10"
+
+  celery-gpu: &celery-gpu
+    <<: *app
+    environment:
+      - KRAKEN_TRAINING_DEVICE=cpu
+    command: "celery worker -l INFO -E -A escriptorium -Ofair --prefetch-multiplier 1 -Q gpu -c 1 --max-tasks-per-child=1"
+    shm_size: '3gb'
+
+  flower:
+    image: docker.io/mher/flower
+    command: ["celery", "flower", "--broker=redis://redis:6379/0", "--port=5555"]
+    ports:
+      - 5555:5555
+
+  # No need while we don't have regular tasks
+  # celerybeat:
+  #   build:
+  #     context: ./app
+  #   env_file: variables.env
+  #   volumes:
+  #     - ./static/:/usr/src/app/static
+  #     - ./media/:/usr/src/app/media
+  #     - static:./static/
+  #     - media:./media/
+  #   command: celery -E -A escriptorium beat -l INFO
+
+  mail:
+    build: ./exim
+    image: registry.gitlab.com/scripta/escriptorium/mail
+    expose:
+      - 25
+    environment:
+      - PRIMARY_HOST=${DOMAIN:-localhost}
+      - ALLOWED_HOSTS=web ; celery-main ; celery-low-priority; docker0
+
+volumes:
+   static:
+   media:
+   postgres:
+   esdata:

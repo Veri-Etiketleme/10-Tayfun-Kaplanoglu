@@ -1,0 +1,24 @@
+{% extends 'core/wizards/_base.html' %}
+{% load i18n bootstrap %}
+
+{% block wizard_help %}
+<p>{% trans "The training data will be generated from the selected images and transcription." %}</p>
+<p>{% trans "Empty lines will be ignored." %}</p>
+<p>{% trans "Gathering data can take time and the model won't be available in the models tab until then." %}</p>
+{% endblock %}
+
+{% block wizard_fields %}
+<div class="form-group">
+  {% render_field rectrain_form.transcription class="js-proc-settings" required="true" %}
+  <h5>{% trans "New model" %}</h5>
+  {% render_field rectrain_form.model_name class="js-proc-settings" %}
+</div>
+
+<div class="form-group">
+  <h5>{% trans "Or select an existing one" %}</h5>
+  {% render_field rectrain_form.model class="js-proc-settings" %}
+  {% render_field segtrain_form.override class="js-proc-settings" %}
+</div>
+{% endblock %}
+
+{% block wizard_submit %}{% trans "Train" %}{% endblock %}

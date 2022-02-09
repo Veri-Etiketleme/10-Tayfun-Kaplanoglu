@@ -1,0 +1,3 @@
+Türkçe Kitapların Paragraflarına Göre Sınıflandırılması
+Türkçe metinlerin dil işleme ile işlenmesi ve numaralandırılması
+ ve makine öğrenmesi algoritmalarının uygulanması
