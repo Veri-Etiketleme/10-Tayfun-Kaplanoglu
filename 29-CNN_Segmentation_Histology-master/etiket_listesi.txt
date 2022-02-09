@@ -1,0 +1,62 @@
+Python
+    numpy
+        sqrt
+        linspace
+        random
+            shuffle
+        zeros
+        argmax
+        mean
+        absolute
+        any
+        concatenate
+        std
+
+    scipy
+        misc
+            imsave
+
+    tensorflow
+        name_scope
+        image
+            convert_image_dtype
+        variable_scope
+        nn
+            conv2d
+            relu
+            moments
+            batch_normalization
+            sparse_softmax_cross_entropy_with_logits
+        variable
+        truncated_normal
+        identity
+        constant
+        cond
+        tile
+        reduce_mean
+        stack
+        argmax
+        train
+            AdamOptimizer
+            Saver
+        summary
+            FileWriter
+            merge_all
+            scalar
+        session
+        placeholder
+        global_variables_initializer
+
+
+    os
+        path
+            exists
+        makedirs
+        
+    logging
+        basicConfig
+        info
+    sys
+    network
+        CNN
+        TRAIN_CNN

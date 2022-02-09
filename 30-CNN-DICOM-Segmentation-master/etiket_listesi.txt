@@ -1,0 +1,136 @@
+Python
+    numpy
+        abs
+        stack
+        array
+        save
+        load
+        unique
+        zeros_like
+        ogrid
+        mran
+        reshape
+        prod
+        where
+        ones
+        isfinite
+        copy
+
+    dicom
+        read_file
+    os
+        listdir
+    matplotlib
+        pyplot
+            hist
+            xlabel
+            ylabel
+            show
+            subplots
+            cm
+            Circle
+            imshow
+
+        patches
+            Ellipse    
+
+    glob
+        glob
+    mpl_toolkits
+        mplot3d
+            art3d
+                Poly3DCollection
+    
+
+    scipy
+        ndimage
+        optimize
+            fmin
+        misc
+    skimage
+        morphology
+            erosion
+            dilation
+        measure
+        transform
+            resize
+        io
+        color
+        measure
+        draw
+        img_as_bool
+    shutil
+        rmtree
+
+    PIL
+        Image
+            fromarray
+    sklearn
+        clus1r
+            KMeans
+                cluster_centers_
+    zipfile
+        ZIP_DEFLATED
+        ZipFile
+    tarfile
+        open
+
+    plotly
+        __version__
+        offline
+            download_plotlyjs
+            init_notebook_mode
+            plot
+            iplot
+        tools
+            FigureFactory
+        graph_objs
+            *
+
+    tensorflow
+        ConfigProto
+        slice
+        reshape
+        transpose
+        reduce_min
+        reduce_max
+        stack
+        constant
+        truncated_normal
+        variable
+        nn
+            conv2d_transpose
+            max_pool
+            relu
+        reverse
+        tile
+        div
+        reduce_mean
+        pad
+        log
+        summary
+            image
+            histogram
+        reset_default_graph
+        placeholder
+        argmax
+        multiply
+        global_variables_initializer
+        Session
+        train
+            Saver
+        python
+            client
+                device_lib
+
+
+    __future__
+        division
+        print_fuction
+        absolute_import
+        unicode_literals
+
+Yardımcı teknolojiler
+    Jupyter notebook
+
+        
