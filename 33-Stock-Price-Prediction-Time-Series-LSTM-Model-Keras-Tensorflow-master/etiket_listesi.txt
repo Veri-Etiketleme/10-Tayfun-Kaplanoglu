@@ -1,0 +1,33 @@
+Python
+    pandas_datareader
+    pandas
+        read_csv
+    matplotlib
+        pyplot
+            plot
+            show
+
+    numpy
+        array
+
+    sklearn
+        preprocessing
+            MinMaxScaler
+        metrics
+            mean_squared_error
+
+    math
+        sqrt
+
+
+    
+    tensorflow
+        __version__
+        keras
+            models
+                Sequential
+            layers
+                Dense
+                LSTM
+Yardımcı Teknolojiler
+    Jupyter Notebook

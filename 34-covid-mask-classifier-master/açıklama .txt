@@ -1,0 +1,1 @@
+Machine Learning SVM ile Maske var/yok Sınıflandırma

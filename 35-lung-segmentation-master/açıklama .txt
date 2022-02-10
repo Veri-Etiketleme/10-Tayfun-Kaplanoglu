@@ -1,0 +1,2 @@
+Akciğer alanını tespit etmek için mevcut veriler 
+üzerinde piksel bazında segmentasyon uygulama.

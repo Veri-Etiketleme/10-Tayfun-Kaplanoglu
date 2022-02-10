@@ -1,0 +1,220 @@
+Python
+    pandas
+        read_sql_query
+        Series
+    numpy
+        sum
+        squeeze
+        asarray
+        array
+        zeros
+        save
+        add
+        load
+        exp
+        dot
+        outer
+        random
+        dtype
+        seterr
+        vstack
+        argsort
+        fromstring
+        sqrt
+        newaxis
+        ndarray
+        empty
+
+    sqlite3
+        connect
+    seaborn
+        countplot
+
+    matplotlib
+        pyplot
+            title
+            figure
+            imshow
+            axis
+            show
+
+    re
+        compile
+        sub
+        UNICODE
+
+    itertools
+        chain
+        islice
+        cycle
+    shutil
+        copy2
+        copytree
+    tempfile
+        gettempdir
+    functools
+        wraps
+    multiprocessing
+    gensim
+        matutils
+            unitvec
+
+    sklearn
+        feature_extraction
+            text
+                CountVectorizer
+        model_selection
+            StratifiedKFold
+            cross_val_score
+            train_test_split
+        linear_model
+            LogisticRegression
+        svm
+            SVC
+        metrics
+            accuracy_score
+    bs4
+        BeautifulSoup
+
+
+    keras
+        preprocessing
+            text
+                Tokenizer
+            sequence
+                pad_sequences
+        models
+            Sequential
+        layers
+            CuDNNLSTM
+            Dense
+            Bidirectional
+        utils
+            plot_model
+        optimizers
+            SGD
+        wrappers
+            scikit_learn
+                KerasClassifier
+
+    __future__
+        with_statement
+
+    logging
+        getLogger
+    traceback
+
+    html
+        entities
+            name2codepoint
+    htmlentitydefs
+        name2codepoint
+
+    nltk
+        __version__
+        tokenize
+            WordPunctTokenizer
+        download
+        corpus
+            stopwords
+                words
+
+    collections
+        Counter
+    contextlib
+        contextmanager
+    wordcloud
+        WordCloud
+
+    Pyro4
+        naming
+        locateNS
+        Daemon
+
+    warnings
+        warn
+        
+    six
+        iteritems
+        u
+        string_types
+        moves
+            xrange
+    
+    pattren
+        en
+            parse
+
+    scipy
+        sparse
+            data
+            indptr
+            indices
+            csr_matrix
+
+    google
+        colab
+            drive
+                mount
+
+    importlib
+        machinery
+            SourceFileLoader
+
+    socket
+        AF_INET
+        SOCK_DGRAM
+        gethostbyname
+        socket
+
+
+    cPickle
+    pickle
+        dum
+        load
+    math
+    time
+    tqdm
+        tqdm
+    random
+        seed
+        randint
+    
+    unicodedata
+        normalize
+        category
+
+    os
+        environ
+        path
+            join
+            splitext
+        link
+        name
+        system
+
+    sys
+        version_info
+
+
+
+
+
+    def
+    for
+    while
+    len
+    if/else
+    return
+    with
+    print
+    try
+    except
+    finally
+    pass
+    yield
+
+
+yardımcı Teknolojiler
+    SQLite
+    jupyter notebook

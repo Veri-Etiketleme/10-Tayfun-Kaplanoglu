@@ -1,0 +1,8 @@
+pandas
+numpy
+bs4
+nltk
+sklearn
+jupyter
+keras
+tqdm

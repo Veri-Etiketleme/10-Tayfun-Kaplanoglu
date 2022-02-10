@@ -1,0 +1,85 @@
+Python
+    numpy
+        set_printoptions
+        max
+        meshgrid
+        arange
+        c_
+    pandas
+        DataFrame
+        read_csv
+        merge
+    seaborn
+        set_context
+        set_context
+        lmplot
+    matplotlib
+        pyplot
+            plot
+            title
+            figure
+            clf
+            imshow
+            scatter
+            ylim
+            xlim
+            xticks
+            yticks
+            show
+            cm
+                Paired
+    
+    sklearn
+        cluster
+            KMeans
+                fit
+                labels_
+                cluster_centers_
+                inertia_
+                predic
+        decomposition
+            PCA
+                fit
+                components_
+                explained_variance_ratio_
+                transform
+        metrics
+            silhouette_score
+        datasets
+        preprocessing
+            StandardScaler
+        manifold
+            TSNE
+        discriminant_analysis
+            LinearDiscriminantAnalysis
+        
+
+
+    selenium
+        webdriver
+            common
+                keys
+                    Keys
+                action_chain
+                    ActionChains
+                by
+                    By
+                        XPATH
+                        CLASS_NAME
+            support
+                ui
+                    WebDriverWait
+                expected_conditions
+                    element_to_be_clickable
+
+
+    re
+        findall
+
+    glob
+
+    def
+    for
+    if/else
+    return
+    print

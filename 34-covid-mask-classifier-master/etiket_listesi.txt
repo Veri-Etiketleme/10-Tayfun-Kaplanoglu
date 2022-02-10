@@ -1,0 +1,229 @@
+Python
+
+
+
+    matplotlib
+        pyplot
+            scatter
+            xlabel
+            ylabel
+            title
+            show
+            subplots
+            plot
+
+        cm
+    cv2
+        cvtColor
+        COLOR_BGR2GRAY
+        imwrite
+        resize
+        IMREAD_COLOR
+        applyColorMap
+        COLORMAP_JET
+        CascadeClassifier
+        CASCADE_DO_ROUGH_SEARCH
+        FONT_HERSHEY_SIMPLEX
+        rectangle
+        putText
+        COLOR_BGR2RGB
+        waitKey
+        dnn
+            blobFromImage
+            readNet
+
+    INTER_AREA
+    pandas
+        read_csv
+        get_dummies
+        DataFrame
+    numpy
+        array
+        round
+        argmax
+        zeros_like
+        linspace
+    joblib
+        dump
+        load
+
+    os
+        listdir
+        path
+            join
+    io
+        BytesIO
+    PIL
+        Image
+            fromarray
+    shutil
+
+    sklearn
+        ensemble
+            RandomForestClassifier
+            GradientBoostingClassifier
+            AdaBoostRegressor
+            GradientBoostingRegressor
+            RandomForestRegressor
+            ExtraTreesRegressor
+
+        neighbors
+            KNeighborsClassifier
+            kneighbors_graph
+            KNeighborsRegressor
+        svm
+            SVC
+            SVR
+
+            LinearSVC
+        model_selection
+            KFold
+            train_test_split
+            GridSearchCV
+            RandomizedSearchCV
+            cross_val_score
+        naive_bayes
+            GaussianNB
+        linear_model
+            LogisticRegression
+            LinearRegression
+            RANSACRegressor
+            SGDRegressor
+            HuberRegressor
+            TheilSenRegressor
+            Lasso
+            Ridge
+            ElasticNet
+        tree
+            DecisionTreeRegressor
+        pipeline
+            Pipeline
+                fit
+                score
+        preprocessing
+            MinMaxScaler
+            StandardScaler
+            PolynomialFeatures
+        decomposition
+            PCA
+        datasets
+            load_digits
+            make_moons
+            load_sample_image
+            load_boston
+            load_diabetes
+        metrics
+            confusion_matrix
+            precision_score
+            recall_score
+            accuracy_score
+            f1_score
+            mean_squared_error
+            mean_absolute_error
+            median_absolute_error
+
+        manifold
+            TSNE
+        cluster
+            KMeans
+            SpectralClustering
+            AgglomerativeClustering
+            DBSCAN
+
+    pickle
+        dump
+        load
+    ipywidgets
+    argparse
+    json
+    scipy
+        mode
+        signal
+            find_peaks
+        misc
+            electrocardiogram
+    skl2onnx
+        convert_sklearn
+        common
+            data_types
+                FloatTensorType
+    onnxruntime
+        InferenceSession
+    seaborn
+        set
+        heatmap
+    tensorflow
+        keras
+            preprocessing
+                image
+                    ImageDataGenerator
+                    img_to_array
+                    load_img
+                LabelBinarizer
+            applications
+                mobilnet_v2
+                    preprocess_input
+                Xception
+                VGG16
+                ResNet50V2
+                NASNetMobile
+            models
+                load_model
+            layers
+                AveragePooling2D
+                GlobalAveragePooling2D
+                Dropout
+                Flatten
+                Dense
+                Input
+                Model
+            optimizers
+                Adam
+            utils
+                to_categorical
+            model_selection
+                train_test_split
+            metrics
+                classification_report
+            callbacks
+                ModelCheckpoint
+
+
+
+    plotly
+        graph_objects
+            Figure
+            Box
+            Scatter
+            
+    IPython
+        display
+            display
+            Javascript
+            Image
+    google
+        colab
+            output
+                eval_js
+            files
+    base64
+        b64decode
+
+    imutils
+        paths
+
+
+    def
+    for
+    while
+    if/else
+    yield
+    return
+    open
+    round
+    
+XAML
+
+Yardımcı Teknolojiler
+    Jupyter Notebook
+    ONNX 

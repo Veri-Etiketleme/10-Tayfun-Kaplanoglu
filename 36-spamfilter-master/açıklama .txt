@@ -1,0 +1,2 @@
+Makine Öğrenmesi - Farklı türdeki iletileri "Spam Posta" veya "Normal Posta"
+ olarak sınıflandırmak için ML (Scikit-Learn Framework) kullanılması.

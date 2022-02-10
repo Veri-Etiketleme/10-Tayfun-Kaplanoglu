@@ -1,0 +1,86 @@
+Python
+    numpy
+        random
+            permutation
+            choice
+            randint
+        set_printoptions
+        array
+        nan
+
+    pandas
+        pd.DataFrame
+        concat
+
+    matplotlib
+        pyplot
+            imshow
+            plot
+            xlabel
+            legend
+            show
+            matshow
+            cm
+                gray
+            scatter
+            
+    warnings
+        filterwarnings
+
+    sklearn
+        datasets
+            fetch_mldata
+        preprocessing
+            StandardScaler
+        linear_model
+            SGDClassifier
+        model_selection
+            cross_val_predict
+        metrics
+            f1_score
+            precision_recall_curve
+            confusion_matrix
+        neighbors
+            KNeighborsClassifier
+        feature_extraction
+            text
+                CountVectorizer
+        base
+            BaseEstimator
+            TransformerMixin
+        pipeline
+            Pipeline
+            FeatureUnion
+        svm
+        utils
+            shuffle
+
+    collections
+        OrderedDict
+        Counter
+
+    operator
+        itemgetter
+    os
+        listdir
+
+    re
+        findall
+        sub
+        compile
+    email
+        message_from_string
+    mailparser
+        parse_from_string
+
+    codecs
+        open
+
+
+
+    def
+    print
+    len
+    for
+    if/else
+    return

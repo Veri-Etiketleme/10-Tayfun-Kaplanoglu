@@ -1,0 +1,69 @@
+Python
+    torch
+        ones
+        nn
+            ConvTranspose2d
+            functional
+                nl1_loss
+                log_softmax
+        device
+        cuda
+            is_available
+            empty_cache
+        utils
+            data
+                DataLoader
+        optim
+            Adam
+            SGD
+        no_grad
+        save
+        load
+        stack
+        argmax
+    torchvision
+
+    sklearn
+        model_selection
+            train_test_split
+    PIL
+        Image
+            open
+    glob
+        glob
+    numpy
+        array
+        inf
+        random
+            rndint
+        
+    matplotlib
+        pyplot
+            hist
+
+    os
+        path
+            isfile
+    time
+        time
+    pathlib
+        Path
+
+    pickle
+        dump
+        load
+
+    def
+    if/else
+    return
+    print
+    len
+    with
+    for
+    enumerate
+    open
+
+
+ Yardımcı Teknolojiler
+    Perl
+    Jupyter Notebook
