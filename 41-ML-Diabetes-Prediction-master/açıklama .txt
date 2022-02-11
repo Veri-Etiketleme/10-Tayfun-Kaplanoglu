@@ -1,0 +1,4 @@
+Diabet tahmini için makine öğrenme modelini eğitmek ve 
+  web uygulama ile dağıtmak
+
+

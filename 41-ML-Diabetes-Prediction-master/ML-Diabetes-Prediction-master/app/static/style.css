@@ -1,0 +1,102 @@
+body {
+    background-color: #c1cad7;
+}
+
+#homepage {
+  background-color: #eee;
+}
+
+#homepagebackground {
+    background: url(ai_background_trans.jpg);
+    background-color: #7285a3;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 600px) {
+  #homepagebackground {
+    background-size: 200% auto;
+  }
+}
+
+#navbar {
+    background-color: #7285a3;
+}
+
+#content {
+    max-width: 1080px;
+}
+
+.scrollme {
+    overflow-x: auto;
+}
+
+/* hide result div initially, required for fade effects */
+#diagnosis-result { display:none; }
+
+/* page load animations */
+.fadeInUp {
+  -webkit-animation-name: fadeInUp;
+  animation-name: fadeInUp;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+@-webkit-keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+.fadeInUp.first {
+  -webkit-animation-delay: 0.2s;
+  -moz-animation-delay: 0.2s;
+  animation-delay: 0.2s;
+}
+
+.fadeInUp.second {
+  -webkit-animation-delay: 0.4s;
+  -moz-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+}
+
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+
+.fadeIn {
+  opacity:0;
+  -webkit-animation:fadeIn ease-in 1s;
+  -moz-animation:fadeIn ease-in 1s;
+  animation:fadeIn ease-in 1s;
+
+  -webkit-animation-fill-mode:forwards;
+  -moz-animation-fill-mode:forwards;
+  animation-fill-mode:forwards;
+
+  -webkit-animation-duration:1ss;
+  -moz-animation-duration:1s;
+  animation-duration:1s;
+}

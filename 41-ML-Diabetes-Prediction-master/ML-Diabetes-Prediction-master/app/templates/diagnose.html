@@ -1,0 +1,97 @@
+{% extends "template.html" %}
+
+{% set active_page = "diagnose" %}
+
+{% block content %}
+<div class="container shadow rounded fadeIn p-5 my-5 bg-white" id="content">
+    <h2>Diabetes Status Diagnosis </h2>
+    <br>
+    <div class="container">
+        <form action="" id="diagnosis-form" method="post">
+            {{ form.hidden_tag() }}
+            <div class="row">
+                <div class="form-check mb-4 col-md-2">
+                    {{ form.age.label(class_="visually-hidden") }}
+                    {{ form.age(class_="form-control", placeholder="Age") }}
+                </div>
+                <div class="form-check mb-4 col-md-1"></div>
+                {% for subfield in form.gender %}
+                <div class="form-check mb-4 col-lg-1">
+                    {{ subfield(class_="form-check-input") }}
+                    {{ subfield.label(class_="form-check-label") }}
+                </div>
+                {% endfor %}
+
+                {% if form.gender.errors %}
+                <ul class="errors">
+                    {% for error in form.gender.errors %}
+                    <li>{{ error }}</li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+                <div class="form-check mb-4 col-md-4"></div>
+            </div>
+            <p>Please select if you have any of the following health conditions:</p><br>
+            <div class="row">
+                <div class="form-check mb-4 col-md-3">
+                    {{ form.polyuria(class_="form-check-input") }}
+                    {{ form.polyuria.label(class_="form-check-label") }}
+                </div>
+                <div class="form-check mb-4 col-md-3">
+                    {{ form.polydipsia(class_="form-check-input") }}
+                    {{ form.polydipsia.label(class_="form-check-label") }}
+                </div>
+                <div class="form-check mb-4 col-md-3">
+                    {{ form.sudden_wl(class_="form-check-input") }}
+                    {{ form.sudden_wl.label(class_="form-check-label") }}
+                </div>
+                <div class="form-check mb-4 col-md-3">
+                    {{ form.genital_thrush(class_="form-check-input") }}
+                    {{ form.genital_thrush.label(class_="form-check-label") }}
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="form-check mb-4 col-md-3">
+                    {{ form.irritability(class_="form-check-input") }}
+                    {{ form.irritability.label(class_="form-check-label") }}
+                </div>
+                <div class="form-check mb-4 col-md-3">
+                    {{ form.delayed_healing(class_="form-check-input") }}
+                    {{ form.delayed_healing.label(class_="form-check-label") }}
+                </div>
+                <div class="form-check mb-4 col-md-3">
+                    {{ form.muscle_stiffness(class_="form-check-input") }}
+                    {{ form.muscle_stiffness.label(class_="form-check-label") }}
+                </div>
+                <div class="form-check mb-4 col-md-3">
+                    {{ form.alopecia(class_="form-check-input") }}
+                    {{ form.alopecia.label(class_="form-check-label") }}
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="form-check mb-4 col-md-3">
+                    {{ form.obesity(class_="form-check-input") }}
+                    {{ form.obesity.label(class_="form-check-label") }}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                </div>
+                <div class="my-4 col-12">
+                    {{ form.submit(class_="btn-primary form-control") }}
+                </div>
+                <div class="col">
+                </div>
+            </div>
+        </form>
+
+        <br>
+
+        <div class="alert alert-primary shadow" id="diagnosis-result" role="alert"></div>
+
+    </div>
+</div>
+
+{% endblock %}

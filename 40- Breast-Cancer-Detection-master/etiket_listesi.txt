@@ -1,0 +1,43 @@
+Python
+    numpy
+        c_
+        append
+
+    matplotlib
+        pyplot
+            figure
+    
+    pandas
+        DataFrame
+
+    seaborn
+        pairplot
+        countplot
+        scatterplot
+        heatmap
+
+    sklearn
+        datasets
+            load_breast_cancer
+        
+        model_selection
+            train_test_split
+            GridSearchCV
+        svm
+            SVC
+
+        metrics
+            classification_report
+            confusion_matrix
+
+    
+    print
+    values
+    keys
+    shape
+    head
+    tail
+    drop
+
+Yardımcı Teknolojiler
+    Python notebook

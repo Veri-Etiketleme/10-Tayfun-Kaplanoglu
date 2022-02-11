@@ -1,0 +1,57 @@
+Python
+
+    numpy
+    pandas
+        read.csv
+    
+    matplotlib
+        pyplot
+            subplots
+            xticks
+            yticks
+            plot
+            xlabel
+            ylabel
+
+
+
+
+
+
+
+    sklearn
+        linear_model
+            LogisticRegression
+        model_selection
+            train_test_split
+        preprocessing
+            Imputer
+        naive_bayes
+            GaussianNB
+        metrics
+            accuracy_score
+            confusion_matrix
+            classification_report
+            recall_score
+
+
+    shape
+    head
+    tail
+    isnull
+    values
+    any
+    del
+    print
+    format
+    len
+    if/else
+    while
+
+
+Json
+HTML
+
+Yardımcı Teknolojiler
+    Python pickle module
+    Jupyter notebook

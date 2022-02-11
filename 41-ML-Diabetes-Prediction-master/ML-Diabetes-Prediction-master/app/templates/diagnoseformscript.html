@@ -1,0 +1,30 @@
+<script>
+    $(document).ready(function() {
+        $('#diagnosis-form').submit(function (e) {
+
+            e.preventDefault(); // block the traditional submission of the form.
+
+            var url = "{{ url_for('diagnosis') }}"; // send the form data here.
+
+            $.ajax({
+                type: "POST",
+                url: url,
+                data: $('form').serialize(), // serializes the form's elements.
+                success: function (data) {
+                  $('#diagnosis-result').fadeOut('fast', () => {
+                      $('#diagnosis-result').html("Prediction diagnosis: <strong>" + data.prediction + "</strong><br> Prediction accuracy: <strong>" + data.accuracy + "</strong>");
+                  }).fadeIn('slow');
+                }
+            });
+        });
+
+        // Inject our CSRF token into our AJAX request.
+        $.ajaxSetup({
+            beforeSend: function(xhr, settings) {
+                if (!/^(GET|HEAD|OPTIONS|TRACE)$/i.test(settings.type) && !this.crossDomain) {
+                    xhr.setRequestHeader("X-CSRFToken", "{{ form.csrf_token._value() }}")
+                }
+            }
+        })
+    });
+</script>

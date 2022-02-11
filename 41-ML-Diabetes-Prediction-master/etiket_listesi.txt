@@ -1,0 +1,107 @@
+Python
+    Numpy
+        random
+            seed
+        mean
+        linspace
+
+    pandas
+        Series
+        read_csv
+        DataFrame
+    seaborn
+        heatmap
+    dash
+        Dash
+    dash_table
+        DataTable
+    dash_html_components
+        Div
+        Br
+        H5
+    dash_core_components
+        Graph
+    
+    plotly
+        graph_objects
+            Figure
+            Scatter
+        express
+            imshow
+            bar
+            colors
+                sequential
+    
+    flask
+        Flask
+        render_template
+        current_app
+    flask_wtf
+        FlaskForm
+    config
+        Config
+    
+    pickle
+        load
+        dump
+
+    wtforms
+        BooleanField
+        RadioField
+        IntegerField
+        SubmitField
+        validators
+            InputRequired
+        widgets
+            html5
+
+    os
+        environ
+            get
+
+    sklearn
+        linear_model
+            LogisticRegression
+        neighbors
+            KneighborsClassifier
+        ensemble
+            RandomForestClassifier
+        tree
+            DecisionTreeClassifier
+        feature_selection
+            selectFromModel
+        model_selection
+            train_test_split
+            cross_val_score
+            RamdomizedSearchCV
+            GridSearchCV
+        metrics
+            confusion_matrix
+            classification_report
+            precision_score
+            recall_score
+            f1_score
+            plot_roc_curve
+
+
+
+
+
+    def
+    return
+    layout
+    with
+    if/else
+    for
+    value_counts
+    values
+    drop
+    replace
+    head
+
+
+HTML
+CSS
+Yardımcı teknolojiler
+    Jupyter Notebook
+    Python pickle module

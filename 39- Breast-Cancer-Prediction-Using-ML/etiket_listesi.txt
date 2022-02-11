@@ -1,0 +1,66 @@
+Python
+    pandas
+        read_csv
+    
+    matplotlib
+        pyplot
+            show
+            subplots
+            countplot
+            figure
+            bar
+            xlabel
+            ylabel
+            bar
+
+    seaborn
+        pairplot
+        countplot
+        heatmap
+        show
+        boxplot
+    
+    sklearn
+        preprocessing
+            LabelEncoder
+        
+        model_selection
+            train_test_split
+            cross_validate
+        
+        metrics
+            accuracy_score
+            confusion_matrix
+            make_scorer
+            roc_auc_score
+            accuracy_score
+
+        linear_model
+            LogisticRegression
+        
+        svm
+            SVC
+        
+        neighbors
+            KneighborsClassifier
+        
+        ensemble
+            RandomForestClassifier
+        
+        naive_bayes
+            GaussianNB
+    
+    warnings
+        filterwarnings
+
+    def
+    return
+    drop
+    dtypes
+    isnull
+    values
+    any
+    value_counts
+    print
+    for
+    

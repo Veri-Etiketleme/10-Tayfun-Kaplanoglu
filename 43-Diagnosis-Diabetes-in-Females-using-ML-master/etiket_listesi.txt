@@ -1,0 +1,65 @@
+Python
+
+    numpy
+        meshgrid
+        arange
+        array
+        unique
+    pandas
+        read_csv
+    seaborn
+        set
+        countplot
+        distplot
+        boxplot
+    matplotlib
+        pylot
+            title
+            subplot
+            boxplot
+            legend
+            savefig
+            xlabel
+            ylabel
+            show
+            scatter
+            contourf
+            ylim
+            xlim
+        colors
+            ListedColormap
+
+    sklearn
+        preprocessing
+            LabelEncoder
+            StandardSclaer
+        model_selection
+            train_test_split
+        tree
+            DecisionTreeClassifier
+        metrics
+            confusion_matrix
+        decomposition
+            PCA
+                transform
+                explained_variance_ratio_
+        naive_bayes
+            Gaussian
+        ensemble
+            RandomForestClassifier
+        
+
+
+
+    print
+    len
+    for
+    describe
+    fit_transform
+    min
+    max
+    print
+    
+
+
+
