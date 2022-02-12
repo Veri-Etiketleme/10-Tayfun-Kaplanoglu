@@ -199,20 +199,20 @@ Python
 
 
 
-
-    def
-    for
-    while
-    len
-    if/else
-    return
-    with
-    print
-    try
-    except
-    finally
-    pass
-    yield
+    default
+        def
+        for
+        while
+        len
+        if/else
+        return
+        with
+        print
+        try
+        except
+        finally
+        pass
+        yield
 
 
 yardımcı Teknolojiler

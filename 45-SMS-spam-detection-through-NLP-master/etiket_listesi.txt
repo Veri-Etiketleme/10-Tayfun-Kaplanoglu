@@ -1,0 +1,72 @@
+Python
+    warnings
+        filterwarnings
+    
+    pandas
+        read_csv
+        DataFrame
+    
+    numpy
+        arange
+
+    matplotlib
+        pyplot
+            figure
+            title
+            xlabel
+            ylabel
+            pie
+            show
+            hist
+            xticks
+            subplot
+    
+    seaborn
+        barplot
+
+    sklearn
+        model_selection
+            train_test_split
+            GridSearchCVs
+        feature_extraction
+            text
+                TfidfVectorize
+        naive_bayes
+            MultionamialNB
+        metrics
+            accuracy_score
+            confusion_matrix
+        ensemble
+            RandomForestClassifier
+
+    nltk
+        corpus
+            stopwords
+        stem
+            PorterStemmer
+        tokenize
+            word_tokenize
+        
+
+
+    re
+        compile
+        sub
+        index
+
+
+    defaults
+        def
+        if/else
+        return
+        for
+
+        print
+        head
+        columns
+        describe
+        groupby
+        list
+
+Yardımcı Teknolojiler
+    Jupyter Notebook

@@ -77,10 +77,10 @@ Python
         open
 
 
-
-    def
-    print
-    len
-    for
-    if/else
-    return
+    default
+        def
+        print
+        len
+        for
+        if/else
+        return

@@ -213,14 +213,15 @@ Python
         paths
 
 
-    def
-    for
-    while
-    if/else
-    yield
-    return
-    open
-    round
+    default
+        def
+        for
+        while
+        if/else
+        yield
+        return
+        open
+        round
     
 XAML
 

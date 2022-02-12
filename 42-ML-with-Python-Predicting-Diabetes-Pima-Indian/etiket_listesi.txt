@@ -34,19 +34,19 @@ Python
             classification_report
             recall_score
 
-
-    shape
-    head
-    tail
-    isnull
-    values
-    any
-    del
-    print
-    format
-    len
-    if/else
-    while
+    default
+        shape
+        head
+        tail
+        isnull
+        values
+        any
+        del
+        print
+        format
+        len
+        if/else
+        while
 
 
 Json

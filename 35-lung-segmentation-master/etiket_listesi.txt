@@ -53,15 +53,16 @@ Python
         dump
         load
 
-    def
-    if/else
-    return
-    print
-    len
-    with
-    for
-    enumerate
-    open
+    default
+        def
+        if/else
+        return
+        print
+        len
+        with
+        for
+        enumerate
+        open
 
 
  Yardımcı Teknolojiler

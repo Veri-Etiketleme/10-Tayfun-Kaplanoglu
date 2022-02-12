@@ -1,0 +1,150 @@
+Python
+
+    pandas
+        read_csv
+        DataFrame
+
+    numpy
+        array
+
+    myplotlib
+        pyplot
+            figure
+            axis
+            imshow
+            show
+            title
+            xlabel
+            ylabel
+            subplots
+            Customer-Segmentation
+    
+    seaborn
+        countplot
+    warnings
+        filterwarnings
+    
+    flask
+        Flask
+        request
+        jsonify
+        render_template
+    
+    nltk
+        corpus
+            stopwords
+                words
+        stem
+            porter
+                PorterStemmer
+        download
+        SnowballStemmer
+        tokenize
+            word_tokenize
+        FreqDist
+
+    string
+        punctuation
+
+    re
+        split
+
+    sklearn
+        preprocessing
+            StandardScaler
+        pipeline
+            Pipeline
+            make_pipeline
+        feature_extraction
+            text
+                TfidfVectorizer
+                CountVectorizer
+        model_selection
+            train_test_split
+        naive_bayes
+            MultinomialNB
+        metrics
+            accuracy_score
+            confusion_matrix
+            classification_report
+            f1_score
+            precision_score
+            recall_score
+        linear_model
+            LogisticRegression
+        ensemble
+            RandomForestClassifier
+        svm
+            SVC
+        tree
+            DecisionTreeClassifier
+
+    pickle
+        load
+        dump
+
+    requets
+        post
+
+    wordcloud
+        WordCloud
+        STOPWORDS
+
+    xgboost
+        XGBClassifier
+            predict
+
+    default
+        def
+        if/else
+        return
+        str
+        describe
+        rename
+        info
+        shape
+        len
+        drop
+        items
+        head
+        print
+
+
+HTML
+CSS
+
+requirements
+    brotlipy
+    certifi
+    cffi 
+    charset-normalizer 
+    click 
+    colorama
+    cryptography
+    idna
+    importlib-metadata
+    itsdangerous
+    Jinja2
+    joblib
+    MarkupSafe
+    mkl-fft
+    mkl-random
+    mkl-service
+    pycparser
+    pyOpenSSL 
+    PySocks
+    scikit-learn
+    scipy
+    six
+    threadpoolctl
+    urllib3
+    Werkzeug
+    win-inet-pto
+    wincertstore
+    zipp
+
+
+Yardımcı Teknolojiler
+    Python pickle module
+    xgboost
+    Jupyter Notebook

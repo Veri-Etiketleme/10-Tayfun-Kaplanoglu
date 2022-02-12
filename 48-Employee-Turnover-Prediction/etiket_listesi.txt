@@ -1,0 +1,86 @@
+Python
+    warnings
+        filterwarnings
+    numpy
+        zeros_like
+        triu_indices_from
+        bool
+        mean
+        sqrt
+
+    pandas
+        read_csv
+        DataFrame
+    matplotlib
+        pyplot
+            subplots
+            show
+            title
+            figure
+            plot
+            xlabel
+            ylabel
+            legend
+            ylim
+            xlim
+
+    seaborn
+        heatmap
+        boxplot
+        despine
+        distplot
+        color_palette
+
+
+    sklearn
+        model_selection
+            train_test_split
+            GridSearchCV
+            RandomizedSearchCV
+            cross_val_score
+            KFold
+            LeaveOneOut
+        feature_selection
+            SelectFromModel
+        preprocessing
+            StandardScaler
+            RobustScaler
+        ensemble
+            RandomForestClassifier
+        neighbors
+            KneighborsClassifier
+        linear_model
+            LogisticRegression
+        svm
+            SVC
+        metrics
+            roc_curve
+            auc
+            accuracy_score
+            confusion_matrix
+            classification_report
+
+    imblearn
+        under_sampling
+            RandomUnderSampler
+        over_sampling
+            SMOTE
+            fit_resample
+
+
+    default
+        info
+        def
+        if/else
+        shape
+        columns
+        isnull
+        sum
+        head
+        describe
+        value_counts
+        groupby
+        print
+
+Yardımcı Teknolojiler
+    jupyter notebook

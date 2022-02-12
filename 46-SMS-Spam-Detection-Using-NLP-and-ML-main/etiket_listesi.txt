@@ -1,0 +1,58 @@
+Python
+
+    numpy
+    pandas
+        read_csv
+    matplotlib
+        pyplot
+            subplots
+    
+
+    sklearn
+        naive_bayes
+            MultinomialNB
+        feature_extraction
+            text
+                TfidfTransformer
+                CountVectorizer
+        model_selection
+            train_test_split
+        metrics
+            accuracy_score
+            confusion_matrix
+            roc_auc_score
+
+        linearmodel
+            LogisticRegression
+        svm
+            SVC
+        ensemble
+            RandomForestClassifier
+        
+    re
+    itertools
+
+    nltk
+        stem
+            WordNetLemmatizer
+        corpus
+            stopwords
+    
+    string
+        punctuation
+
+    collections
+        Counter
+    
+    default
+        def
+        for
+        if/else
+        return
+        head
+        describe
+        groupby
+        print
+        lower
+        split
+        

@@ -1,0 +1,33 @@
+Python
+    sys
+        argv
+        exit
+    getopt
+        getopt
+        GetoptError
+    
+    pandas
+        read_csv
+        to_datetime
+
+    datetime
+        datetime
+        strptime
+
+    warnings
+        warnings.filterwarnings
+
+
+
+    default
+        def
+        try
+        except
+        for
+        if/else
+        print
+
+JSON
+HTML
+Yardımcı Teknolojier
+    jupyter notebook

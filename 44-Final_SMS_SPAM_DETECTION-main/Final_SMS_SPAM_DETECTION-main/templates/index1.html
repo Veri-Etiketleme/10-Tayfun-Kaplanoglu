@@ -1,0 +1,36 @@
+<html>
+<head>
+<link href="/templates/message_style.css" type="text/css" rel="stylesheet"/>
+<meta charset="UTF-8">
+  <title>SMS SPAM DETECTION WEB APP</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body background="templates\nlp.jpg">
+<div id="image" style="background:url(/templates/nlp.jpg) center / cover no-repeat;"></div>
+<h1 style="background-color:tomato;">SMS SPAM DETECTION SYSTEM</h1>
+<h3 style="background-color:white;">IACSD</h3>
+
+  <br>
+     <br>
+     <br><br><br><br><br><br><br><br><br><br><br>
+     <form action="{{ url_for('predict')}}"method="post">
+  <textarea name="message" placeholder="Enter Message Text"></textarea>
+  <br>
+<!--  <input type="submit" name="send_message" value="SEND MESSAGE">-->
+     <button class="btn success">SUBMIT</button>
+    </form>
+     <br>
+   <br><br><br>
+<font color="red">
+  <h1><b>
+   {{ prediction_text }}
+    </b>
+  </h1>
+</font>
+
+</body>
+</html>

@@ -53,14 +53,15 @@ Python
     warnings
         filterwarnings
 
-    def
-    return
-    drop
-    dtypes
-    isnull
-    values
-    any
-    value_counts
-    print
-    for
+    default
+        def
+        return
+        drop
+        dtypes
+        isnull
+        values
+        any
+        value_counts
+        print
+        for
     

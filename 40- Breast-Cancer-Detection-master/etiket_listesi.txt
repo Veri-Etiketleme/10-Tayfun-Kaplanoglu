@@ -30,14 +30,14 @@ Python
             classification_report
             confusion_matrix
 
-    
-    print
-    values
-    keys
-    shape
-    head
-    tail
-    drop
+    default
+        print
+        values
+        keys
+        shape
+        head
+        tail
+        drop
 
 Yardımcı Teknolojiler
     Python notebook

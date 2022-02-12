@@ -78,8 +78,9 @@ Python
 
     glob
 
-    def
-    for
-    if/else
-    return
-    print
+    default
+        def
+        for
+        if/else
+        return
+        print
