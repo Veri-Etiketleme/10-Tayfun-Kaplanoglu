@@ -1,0 +1,1 @@
+Ses özelliği çıkarma, sınıflandırma, segmentasyon ve uygulamalar için bir Python kitaplığı

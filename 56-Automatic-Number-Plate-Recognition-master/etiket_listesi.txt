@@ -1,0 +1,78 @@
+Python
+
+    os
+        chdir
+
+    numpy
+        floor
+        arange
+        random
+            shuffle
+        zeros
+        ones
+        array
+        expand_dims
+
+    cv2
+    itertools
+        groupby
+    
+    glob
+        glob
+    tqdm
+        tqdm_notebook
+    matplotlib
+        pyplot
+            subplots
+            setp
+            show
+            title
+            imshow
+
+    
+    keras
+        backend
+            ctc_batch_cost
+            set_learning_phase
+        layers
+            Conv2D
+            MaxPooling2D
+            Input
+            Dense
+            Activation
+            Reshape
+            Lambda
+            BatchNormalization
+            CuDNNLSTM
+            merge
+                add
+                concatenate
+        models
+            Model
+        optimizers
+            Adadelta
+        callbacks
+            EarlyStopping
+            ModelCheckpoint
+        utils
+            plot_model
+            Sequence
+
+    default
+        enumerate
+        for
+        if/else
+        reshape
+        try
+        except
+        pass
+        return
+        len
+        image_path
+        image_list
+        image_width
+        image_height 
+        list
+
+Yardımcı teknolojiler
+    jupyter notebook

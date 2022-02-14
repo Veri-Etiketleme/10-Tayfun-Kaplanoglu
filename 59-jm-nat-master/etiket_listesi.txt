@@ -1,0 +1,368 @@
+Python
+
+    warnings
+        warn
+
+    collections
+        defaultdict
+        OrderedDict
+        defaultdict
+        namedtuple
+        Counter
+        Iterable
+        abc
+            Iterable
+    
+    math
+        inf
+        pow
+        log
+        sqrt
+
+    re
+        compile
+    
+    fnmatch
+        filter
+
+    functools
+        wraps
+
+    fileinput
+        input
+        hook_encoded
+    os
+        path
+            exists
+            join
+            realpath
+            abspath
+            split
+            lexists
+        remove
+        close
+        remove
+        walk
+        fdopen
+        makedirs
+        listdir
+        fstat
+
+    shlex
+        quote
+
+    types
+        GeneratorType
+
+    apex
+        optimizers     
+            FuseAdam
+        normalization
+            FusedLayerNorm
+
+    ctypes
+        c_size_t
+        byref
+        c_void_p
+        c_int
+        cdll
+            LoadLibrary
+
+    sys
+        version_info
+        exit
+        stdin
+        argv
+        stdout
+        stderr
+        maxsize
+
+    random
+        randint
+        randrange
+
+    argparse
+        ArgumentParser
+        Namespace
+        SUPPRESS
+
+    gzip
+        open
+
+    sacrebleu
+        compute_bleu
+        corpus_bleu
+
+    numpy
+        exp
+        random
+            seed
+            random
+            randint
+            rand
+            choice
+        mean
+        argmax
+        tile
+        concatenate
+        empty
+        full
+        arange
+
+    bisect
+        bisect_right
+
+    struct
+        unpack
+        pack
+
+    importlib
+        util
+        import_module
+
+    shutil
+        copyfile
+        rmtree
+        move
+        copyfileobj
+
+    copy
+        copy
+        deepcopy
+
+    itertools
+        zip_longest
+        islice
+        count
+        chain
+            from_iterable
+
+    io
+        StringIO
+        open
+    
+    logging
+        getLogger
+        error
+
+    tempfile
+        TemporaryDirectory
+        mkdtemp
+        NamedTemporaryFile
+
+    multiprocessing
+        Lock
+        Pool
+            close
+            join
+
+    json
+        loads
+        dumps
+    
+    inspect
+        getargspec
+
+    time
+        time
+    
+    subprocess
+        check_output
+        CalledProcessError
+    pickle
+        loads
+        UnpicklingError
+    typing
+        Dict
+        List
+        Union
+        Tuple
+        Optional
+        Any
+
+    socket
+        gethostname
+    numbers
+        Number
+    tqdm
+        tqdm
+            set_postfix
+            write
+            desc
+
+    hashlib
+        sha256
+    operator
+        mul
+
+    functools
+        reduce
+
+    torch
+        cuda
+            is_avaible
+            set_device
+            device_count
+            empty_cache
+        LongTensor
+        FloatTensor
+        HalfTensor
+        randn
+        IntTensor
+        tensor
+        is_tensor
+        load
+        save
+        triu
+        topk
+        cat
+        stack
+        div
+        zeros
+        add
+        from_numpy
+        no_grad
+        long
+        gather
+        arange
+        logsumexp
+        multinomial
+        multiprocessing
+        manual_seed
+        zeros_like
+        optim
+            SGD
+            Adam
+            Adagrad
+            Adafactor
+            optimizer
+                Optimizer
+                required
+
+        autograd
+            Variable
+                _execution_engine
+                    queue_callback
+        rand
+            spawn
+            Pool
+                apply_async
+                close
+                join
+        
+        serialization
+            default_restore_location
+        utils
+            data
+                DataLoader
+        onnx
+            operators
+                shape_as_tensor
+                reshape_from_tensor_shape
+        mm       
+        nn
+            Embedding
+            Linear
+            ReLU
+            GLU
+            ModuleList
+            Parameter
+            Sequential
+            ReLU
+            Module
+            parallel
+                DistributedDataParallel
+            init
+                constant_
+                normal_
+                xavier_uniform_
+            functional
+                softmax
+                log_softmax
+                relu
+                cross_entropy
+                nll_loss
+                pad
+                dropout
+                linear
+                conv1d
+
+            modules
+                loss
+                    _Loss
+                utils
+                    _single
+            utils
+                clip_grad_norm_
+        distributed
+            init_process_group
+            all_reduce
+            get_world_size
+            reduce_op
+            group
+                WORLD
+
+    __future__
+        absolute_import
+        division
+        print_function
+        unicode_literals
+
+    sentencepiece
+        SentencePieceTrainer
+            Train
+
+    setuptools
+        setup
+        find_packages
+        Extension
+
+    contextlib
+        redirect_stdout
+        ExitStack
+            enter_context
+
+    default
+        if/else
+        print
+        def
+        for
+        sum
+        continue
+        return
+        len
+        assert
+        with
+        end
+        the
+        local
+        yield
+        key
+        try
+        except
+        while
+
+C++
+    Python.h
+    map
+    array
+    cstring
+    cstdio
+    static strcuct
+
+    default
+        void
+        if/else
+        while
+        return
+        break
+
+CSS 
+
+Yardımcı Teknolojiler
+    shell script
+    Lua
+    Python pickle module
+    reStructuredText 
+    Batch file
+

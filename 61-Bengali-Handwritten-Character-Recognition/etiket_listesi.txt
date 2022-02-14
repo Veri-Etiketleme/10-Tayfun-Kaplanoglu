@@ -1,0 +1,77 @@
+Python
+    __future__
+        print_function
+    
+    matplotlib
+        pyplot
+
+    numpy
+        arange
+        sum
+        argmax
+    
+    os
+    sys
+    tarfile
+
+    tensorflow
+        Graph
+        placeholder
+        constant
+        Variable
+        truncated_normal
+        zeros
+        session
+        initialize_all_variables
+        train
+            exponential_decay
+            GradientDescentOptimizer
+        matmul
+        nn
+            dropout
+            relu
+            softmax_cross_entropy_with_logits
+            softmax
+
+    IPython
+        display
+            display
+            Image
+    scipy
+        ndimage
+    
+    sklearn
+        linear_model
+            LogisticRegression
+    six
+        moves
+            urllib
+                request
+                    urlretrieve
+            cPickle
+                load
+                HIGHEST_PROTOCOL
+            range
+    
+    PIL
+        Image
+    
+
+
+    default
+        with
+        del
+        return
+        with
+        if/else
+        minimize
+        print
+        sorted
+        raise
+        try
+        except
+        def
+        
+
+Yardımcı Teknolojiler
+    jupyter notebook

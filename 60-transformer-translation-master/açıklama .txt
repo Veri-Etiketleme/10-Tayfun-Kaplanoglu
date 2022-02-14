@@ -1,0 +1,1 @@
+İngilizce'den Fransızca'ya sinirsel makine çeviri modeli oluşturmak için Python torch  modülünü kullanma

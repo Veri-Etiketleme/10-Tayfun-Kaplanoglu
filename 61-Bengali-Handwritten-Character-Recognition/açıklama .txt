@@ -1,0 +1,1 @@
+Convolutional Neural Networks(CNN'ler) kullanarak Bengalce El Yazısı Karakter Tanıma

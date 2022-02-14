@@ -1,0 +1,87 @@
+Python
+    matplotlib
+        pyplot
+            hist
+            xlabel
+            ylabel
+            title
+            savefig
+            show
+    pickle
+        load
+    math
+        sqrt
+    einops
+        rearrange
+    spacy
+        load
+
+    torch
+        load
+        tensor
+        triu
+        arange
+        exp
+        cos
+        sin
+        float
+        nn
+        optim
+            Adam
+            zero_grad
+        utils
+            data
+                DataLoader
+                Dataset
+    
+    dataset
+        ParallelLanguageDataset
+    
+    model
+        LanguageTransformer
+
+    click
+        command
+        argument
+
+    pathlib
+        Path
+
+    tqdm
+        tqdm
+
+    numpy
+        power
+        min
+
+    re
+        split
+
+    random
+        shuffle
+
+    collections
+        Counter
+    
+    pickle
+        dump
+
+    default
+        with
+        for
+        long
+        to
+        return
+        if/else
+        def
+        shape
+        len
+
+
+YAML
+
+Yardımcı Teknolojiler
+    Python pickle module
+    jupyter notebook
+    Gravit Designer
+    

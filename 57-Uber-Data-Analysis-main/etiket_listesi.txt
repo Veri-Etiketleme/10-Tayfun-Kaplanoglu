@@ -1,0 +1,74 @@
+Python
+    IPython
+        display
+            Image
+    
+    pandas
+        read_csv
+
+    matplotlib
+        pyplot
+            scatter
+            xlabel
+            ylabel
+
+    numpy
+        sqrt
+        where
+        zeros
+
+    seaborn
+        stripplot
+        distplot
+        regplot
+
+    
+    datetime
+        datetime
+            fromtimestamp
+    sklearn
+        preprocessing
+            LabelEncoder
+        feature_selection
+            SelectKBest
+            chi2
+            RFE
+                support_
+                fit
+
+        model_selection
+            train_test_split
+            ShuffleSplit
+            cross_val_score
+        metrics
+            accuracy_score
+            mean_absolute_error
+        linear_model
+            LinearRegression
+            LogisticRegression
+        tree
+            DecisionTreeRegressor
+        ensemble
+            RandomForestRegressor
+            GradientBoostingRegressor
+
+    default
+        head
+        info
+        describe
+        isnull
+        sum
+        print
+        value_counts
+        enumarate
+        for
+        if/else
+        median
+        fillna
+        dtype
+        astype
+        drop
+        return
+
+Yardımcı teknolojiler
+    jupyter notebook

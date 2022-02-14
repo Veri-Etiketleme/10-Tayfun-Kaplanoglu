@@ -1,0 +1,204 @@
+Python
+    __future__
+        print_function
+
+    os
+        path
+            dirname
+            realname
+            realpath
+    numpy
+        array
+        asarray
+        Inf
+        NaN
+        sym
+        abs
+        diff
+        sign
+        floor
+        log2
+        arange
+        sqrt
+        cumsum
+        nonzero
+        zeros
+        correlate
+        zeros
+        argmax
+        log10
+        dot
+        round
+        unique
+        ceil
+        double
+        repeat
+        hamming
+        arctan2
+        imag
+        real
+        concatenate
+
+    scipy
+        fftpack
+            realtransforms
+                dct
+        signal
+            lfilter
+        spatial
+            distance
+                squareform
+                pdist
+        linalg
+            eig
+        spatial
+            distance
+        io
+            wavfile
+                read
+                write
+
+    pydub
+        AudioSegment
+            from_file
+    shutil
+
+    struct
+        pack
+
+    simplejson
+
+    ntpath
+        basename
+    tqdm
+        tqdm
+    math
+        pi
+    csv
+        reader
+    eyed3
+        load
+    pickle
+        HIGHEST_PROTOCOL
+        dump
+        load
+    time
+        time
+    sys
+        path
+            realpath
+            insert
+        exit
+        float_info
+            epsilon
+        argv
+    pylab
+        *
+    matplotlib
+        pyplot
+            gca
+            hold
+            plot
+            show
+            draw
+            subplots
+            colorbar
+            imshow
+            ylim
+            xlim
+            ylabel
+            xlabel
+        patches
+            Ellipse
+
+    glob
+        glob
+    
+    aifc
+
+
+    argparse
+        ArgumentParser
+
+    matplotlib
+        pyplot
+            subplot
+            plot
+            xlabel
+            ylabel
+            show
+
+    imblearn
+        under_sampling
+            RandomUnderSampler
+        over_sampling
+            SMOTE
+
+
+    sklearn
+        discriminant_analysis
+        preprocessing
+            StandardScaler
+        model_selection
+            GroupShuffleSplit
+            train_test_split
+        metrics
+            confusion_matrix
+            f1_score
+            precision_recall_curve
+            accuracy_score
+        svm
+            SVC
+            fit
+            predict
+        decomposition
+        ensemble
+            ExtraTreesClassifier
+            RandomForestClassifier
+            GradientBoostingClassifier
+        cluster
+            KMeans
+
+    hmmlearn
+        hmm
+            GaussianHMM
+            covars_
+            means_ 
+            startprob_
+            transmat_
+            predict
+    plotly
+        express
+        subplots
+        graph_objs
+            Bar
+            Heatmap
+            Scatter
+
+    default
+        def
+        if/else
+        return
+        add_argument
+        assert
+        shape
+        try
+        except
+        len
+        while
+        for
+        range
+        replace
+        open
+        raise
+
+
+
+HTML
+CSS
+
+
+
+Yardımcı teknolojiler
+    shell script
+    Waveform Audio

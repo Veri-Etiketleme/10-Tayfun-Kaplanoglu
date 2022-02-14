@@ -1,0 +1,54 @@
+Python
+    
+    
+    re
+        split
+        findall
+        escape
+        compile
+
+    jovian
+        commit
+
+    numpy
+        array
+    pandas
+        to_datetime
+        DataFrame
+
+    matplotlib
+        pyplot
+            figure
+
+    seaborn
+        countplot
+        heatmap
+
+    wordcloud
+        WordCloud
+        STOPWORDS
+            update
+        to_image
+    emoji
+        UNICODE_EMOJI
+            keys
+    collections
+        Counter
+
+    default
+        with
+        as
+        for
+        if/else
+        return
+        tail
+        head
+        shape
+        groupby
+        count
+        sort_values
+        value_counts
+        tolist
+        sum
+        size
+        reset_index
