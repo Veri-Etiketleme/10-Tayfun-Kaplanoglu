@@ -1,0 +1,2 @@
+Automatic Number Plate Recognition (ANPR)
+yüksek hızlarda çekilen görsellerde otomatik plaka tanımlama

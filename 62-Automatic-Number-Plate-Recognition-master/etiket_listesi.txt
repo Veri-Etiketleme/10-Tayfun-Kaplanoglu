@@ -1,0 +1,161 @@
+Python
+
+    pytesseract
+        tesseract_cmd
+        image_to_string
+    cv2
+        imread
+        imwrite
+        resize
+        GaussianBlur
+        medianBlur
+        threshold
+        THRESH_OTSU
+        INTER_CUBİC
+        THRESH_BINARY_INV
+        MORPH_RECT
+        dilate
+        waitKey
+        findContours
+        RETR_TREE
+        CHAIN_APPROX_SIMPLE
+        boundingRect
+        destroyAllWindows
+        rectangle
+        COLOR_BGR2RGB
+        cvtColor
+        bitwise_not
+    os
+        environ
+    
+    random
+        seed
+        shuffle
+
+    numpy
+        fromfile
+        product
+        array
+        full
+        pi
+        concatenate
+        newaxis
+        ones
+        argmax
+        exp
+
+    colorsys
+        hsv_to_rgb
+    absl
+        app
+        flags
+            DEFINE_string
+            DEFINE_boolean
+            DEFINE_integer
+            FLAGS
+                size
+                video
+                framework
+                weights
+                output
+                output_format
+                tiny
+                model
+                iou
+                score
+                crop
+                info
+                dont_show
+                dataset
+        logging
+            info
+
+    tensorflow
+        compat
+            v1
+                ConfigProto
+                InteractiveSession
+        python
+            saved_model        
+                tag_constants
+            compiler
+                tensorrt
+                    trt_convert
+                        DEFAULT_TRT_CONVERSION_PARAMS
+                        TrtPrecisionMode
+                        TrtGraphConverterV2
+        logical_and
+        constant
+        split
+        random_normal_initializer
+        constant_initializer
+
+        keras   
+            layers
+                Input
+                Lambda
+                MaxPool2D
+            Model
+            regularizers
+        concat
+        config
+            experimental
+                set_memory_growth
+        
+        nn
+            leaky_relu
+            max_pool
+        image
+            resize
+
+    core
+        yolov4
+            YOLO
+            decode
+            filter_boxes
+            YOLOv4
+            YOLOv3
+            YOLOv3_tiny
+            decode
+        utils
+            load_config
+            load_weights
+            read_class_names
+            format_boxes
+            draw_bbox
+            image_preporcess
+        config
+            cfg
+        functions
+            *
+        backbone
+            darknet53
+            cspdarknet53
+            cspdarknet53_tiny
+        common
+            convolutional
+            route_group
+    PIL
+        Image
+
+    easydict
+        EasyDict
+
+
+
+    default
+        print
+        if/else
+        continue
+        for
+        sorted
+        try
+        except
+        pass
+        break
+        list
+        def
+        yield
+        range
+        
+YAML
