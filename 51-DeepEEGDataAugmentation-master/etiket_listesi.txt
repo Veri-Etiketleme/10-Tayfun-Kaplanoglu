@@ -1,0 +1,133 @@
+Python
+    mne
+        io
+            concatenate_raws
+            find_edf_events
+            read_raw_edf
+            
+    braincode
+        mne_ext
+            signalproc
+                concatenate_raws_with_events
+        models
+            shallow_fbcsp
+                ShallowFBCSPnet
+        torch_ext
+            util
+                set_random_seeds
+                np_to_var
+            functions
+                safe_log
+                square
+            modules
+                Expression
+        models
+            util
+                to_dense_prediction_model
+        experiments
+            monitors
+                compute_preds_per_trial_from_crops
+        
+    ShallowFBCSP_LSTM0
+        ShallowFBCSPLSTM
+             n_classes
+            input_time_length
+            n_filters_time
+            filter_time_length
+            n_filters_spat
+            pool_time_length
+            pool_time_stride
+            lstm_layers
+            lstm_size
+            final_conv_length
+            conv_nonlin
+            pool_mode
+            pool_nonlin
+            split_first_layer
+            batch_norm
+            batch_norm_alpha
+            drop_prob
+            __dict__
+                update
+
+    os
+        path
+    
+    eeg_io_pp
+
+    pyriemann
+        tangentspace
+            FGDA
+        classification
+            MDM
+        estimation
+            Covariances
+
+    torch
+        load
+        nn
+            AvgPool2d
+            MaxPool2D
+            sequential
+            Conv2D
+            BatchNorm2d
+            Dropout
+            LSTM
+            LogSoftMax
+            Module
+        optim
+            nn
+                functional
+
+    matplotlib
+        pyplot
+            plot
+            show
+
+    sklearn
+        pipeline
+            Pipeline
+        metrics
+            confusion_matrix
+    pandas
+
+    scipy
+        signal
+            hilbert
+    
+    math
+
+    time
+        clock
+
+    numpy
+        ones
+        array
+        zeros
+        mean
+        argmax
+        asarray
+        transpose
+        savetxt
+
+    default
+        if/else
+        return
+        continue
+        for
+        while
+        def
+        shape
+        print
+        save
+        astype
+        range
+        len
+        format
+        try
+        except
+        size
+        permute
+
+
+

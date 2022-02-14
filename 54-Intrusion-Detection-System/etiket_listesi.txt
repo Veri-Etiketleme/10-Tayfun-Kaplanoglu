@@ -1,0 +1,123 @@
+Python
+    warnings
+        filterwarnings
+    
+    numpy
+        ravel
+        concatenate
+        zeros
+
+    pandas
+        read_csv
+        Series
+        DataFrame
+
+    seaborn
+        heatmap
+
+
+    matplotlib
+        pyplot
+            subplots
+            xlabel
+            ylabel
+            show
+
+    hyperopt
+        hp
+            quniform
+            normal
+            choice
+
+        fmin
+        tpe
+            suggest
+
+        STATUS_OK
+        Trials
+
+    skopt
+        space
+            Real
+            Integer
+        utils
+            use_named_args
+    sklearn
+        preprocessing
+            LabelEncoder
+            Imputer
+        model_selection
+            train_test_split
+            cross_val_score
+            StratifiedKfold
+        metrics
+            classification_report
+            confusion_matrix
+            accuracy_score
+            precision_recall
+            fscore_support
+            f1_score
+        ensemble
+            RandomForestClassifier
+            ExtraTreesClassifier
+        tree
+            DecisionTreeClassifier
+        feature_selection
+            mutual_info_classif
+        cluster
+            MiniBatchKMeans
+            KMeans
+            DBSCAN
+            MeanShift
+            SpectralClustering
+            AgglomerativeClustering
+            AffinityPropagation
+            Birch
+            MiniBatchKMeans
+            MeanShift
+        mixture
+            GaussianMixture
+            BayesianGaussianMixture
+        decomposition
+            KernelPCA
+
+    FCBF_module
+        FCBF
+            fit_transform
+            fit
+
+        FCBFK
+        FCBFiP
+        get_i  
+    
+    xgboost
+        plot_importance
+        XGBClassifier
+
+    imblearn
+        over_sampling
+            SMOTE
+                    fit_sample
+    time
+        time
+
+    default
+        print
+        predict
+        reshape
+        shape
+        value_counts
+        for
+        if/else
+        break
+        return
+        len
+        round
+        sorted
+        zip
+        range
+        value_counts
+        replace
+
+Yardımcı teknolojiler
+    jupyter notebook

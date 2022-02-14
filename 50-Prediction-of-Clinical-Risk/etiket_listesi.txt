@@ -1,0 +1,127 @@
+Python
+    copy
+
+    sklearn
+        preprocessing
+            MinMaxScaler
+            StandardScaler
+            LabelEncoder
+        svm
+            SVC
+        naive_bayes
+            GaussianNB
+        Linear_model
+            LogisticRegression
+        Model_selection
+            train_test_split
+            GridSearchCV
+            Kfold
+            cross_val_score
+            ShuffleSplit
+            StratifiedKFold
+        metrics
+            accuracy_score
+            cunfusion_matrix
+            classification_report
+            plot_roc_curve
+            roc_curve
+            auc
+        feature_selection
+            SelectKbest
+                get_support
+                scores_
+            f_classif
+
+        ensemble
+            RandomForestClassifier
+            VotingClassifier
+        datasets
+            load_iris
+        tree
+            DecisionTreeClassifier
+
+    mlxtend
+        plotting
+            plot_confusion_matrix
+            plot_decision_regions
+    statsmodels
+        api
+            
+
+
+    tensorflow
+        keras
+            models
+                Sequential
+            layers
+                Dense
+                
+    
+    os
+
+
+    patsy
+        dmatrices
+
+    statsmodels
+        api
+            OLS
+    pandas
+        read_excel
+        DataFrame
+
+    matplotlib
+        pyplot
+            subplots
+            xticks
+            figure
+            show
+            boxplot
+            ylabel
+            xlabel
+
+    
+    numpy
+        random
+            seed
+        mean
+        std
+        min
+        max
+        mean
+        linspace
+
+
+
+    seaborn
+        heatmap
+        set
+
+    default
+        def
+        add
+        fit
+        compile
+        summary
+        head
+        value_counts
+        describe
+        columns
+        isnull
+        shape
+        info
+        if/else
+        return
+        for
+        print
+        range
+        len
+        values
+        drop
+        astype
+        enumerate
+
+
+
+Yardımcı Teknolojiler
+    jupyter notebook

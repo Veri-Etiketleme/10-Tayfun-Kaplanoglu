@@ -1,0 +1,256 @@
+Python
+
+    time
+        time
+
+    tensorflow
+        nn
+            leaky_relu
+        python
+            saved_model
+                tag_constants
+        compat
+            v1
+                ConfigProto
+                InteractiveSession
+        config
+            experimental
+                set_memory_growth
+        constant
+        reshape
+        shape
+        concat
+
+        image
+            combined_non_max_suppression
+            resize
+        lite
+            Interpreter
+        saved_model
+            load
+        keras
+            Model
+            optimizers
+                Adam
+            layers
+                Input
+                Conv2D
+            regularizers
+        summary
+            scalar
+        math
+            divide_no_nan
+            atan
+        split        
+        random_normal_initializer
+        constant_initializer
+        logical_and
+
+
+    absl
+        app
+        flags
+            FLAGS
+                DEFINE_string
+                DEFINE_integer
+                DEFINE_boolean
+                DEFINE_float
+                size
+                video
+                framework
+                weights
+                output
+                output_format
+                model
+                tiny
+                iou
+                score
+                dont_show
+                output
+        logging
+
+    PIL
+        Image
+            fromarray
+        ImageTk
+            PhotoImage
+
+
+    pickle
+        dump
+        load
+        HIGHEST_PROTOCOL
+    
+    sys
+        exc_info
+        stdout
+            write
+    
+    core
+        utils
+            utils
+            load_config
+            draw_bbox
+        yolov4
+            filter_boxes
+            decode
+        common
+            convolutional
+            residual_block
+
+
+        config
+            cfg
+                YOLO
+                    CLASSES
+                    STRIDES
+                    IOU_LOSS_THRESH
+                    XYSCALE
+                    ANCHORS
+                    STRIDES_TINY
+                    ANCHORS_TINY
+                    ANCHORS_V3
+                    ANCHOR_PER_SCALE
+                    
+                Test
+                    ANNOT_PATH
+                    INPUT_SIZE
+                    BATCH_SIZE
+                    DATA_AUG
+                TRAIN
+                    ANNOT_PATH
+                    INPUT_SIZE
+                    BATCH_SIZE
+                    DATA_AUG
+
+        backbone
+            backbone
+        common
+            common
+
+    easydict
+        EasyDict
+    
+    cv2
+        VideoCapture
+        CAP_PRP_FRAME_WIDTH
+        CAP_PRP_FRAME_HEIGHT
+        CAP_PROP_FPS
+        VideoWriter_fourcc
+        VideoWriter
+        cvtColor
+        COLOR_BGR2RGB
+        resize
+        WINDOW_AUTOSIZE
+        namedWindow
+        imshow
+        waitKey
+        destroyAllWindows
+        FONT_HERSHEY_PLAIN
+        putText
+        getTextSize
+        copyMakeBorder
+        BORDER_CONSTANT
+        imread
+        FONT_HERSHEY_SIMPLEX
+        rectangle
+        warpAffine
+
+
+    mtplotlib
+        pyplot
+            barh
+            legend
+            gcf
+            gca
+            cla      
+            text
+            yticks
+            xlabel
+            ylabel
+            show
+            close
+            plot
+            fill_betweeb
+            title
+            waitforbuttonpress
+
+    glob
+        glob
+        glob1
+
+    json
+        load
+        dumps
+    
+    shutil
+        rmtree
+
+    operator
+        itemgetter
+
+    argparse
+        ArgumentParser
+
+    numpy
+        newaxis
+        asarray
+        array
+
+    os
+        path
+            exists
+            join
+        remove
+        listdir
+        chdir
+        rename
+
+    tkinter
+        filedialog
+        Tk
+        Canvas
+        Frame
+        Label
+        Button
+        TOP
+
+    tqdm
+    pillow
+    opencv     
+
+
+    xml
+        etree
+            ElementTree
+                parse
+
+    default
+        def
+        if/else
+        range
+        print
+        try
+        except
+        while
+        for
+        pass
+        enumerate
+        range
+        len
+        with
+        continue
+        find
+        strip
+        endswith
+        return
+        remove
+        lower
+        replace
+
+HTML
+XAML
+
+Yardımcı Teknolojiler
+    script shell
+    jupyter notebook

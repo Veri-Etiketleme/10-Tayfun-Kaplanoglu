@@ -1,0 +1,112 @@
+Python
+    
+    tensorflow
+        keras
+            applications
+                mobilenet_v2
+                    preprocess_input
+            preporcessing
+                image
+                    img_to_array
+                    load_img
+       
+            models
+                load_model
+            layers
+                AvaragePooling2D
+                Dropout
+                Flatten
+                Dense
+                Input
+            models
+                Model
+                load_model
+            optimizers
+                Adam
+            utils
+                to_categorical
+            
+    sklearn
+        model_selection
+            train_test_split
+        preprocessing
+            LabelBinarizer
+        metrics
+            classification_report
+    
+    imutils
+        video
+            VideStream
+        paths
+    
+    google
+        colab
+            patches
+                cv2_imshow
+            drive
+    
+    numpy
+        array
+        shape
+
+
+    pickle
+        load
+        dump
+        arange
+        argmax
+
+    joblib
+
+
+    argparse
+
+    random
+        shuffle
+    time
+        sleep
+
+    matplotlib
+        pyplot
+            style
+                use
+            figure
+            plot
+            title
+            xlabel
+            ylabel
+            legend
+    cv2
+        dnn
+            blbFromImage
+            readNet
+        cvtColor
+        resize
+        putText
+        FONT_HERSHEY_SIMPLEX
+        COLOR_BGR2RGB
+        rectangle
+        waitKey
+        destroyAllWindows
+        
+    os
+        path
+            sep
+
+    default
+        print
+        for
+        if/else
+        len
+        range
+        max
+        min
+        zip
+        while
+        
+
+
+
+Yardımcı Teknolojiler
+    Hierarchical Data Format(HDF)
+    Jupyter Notebook

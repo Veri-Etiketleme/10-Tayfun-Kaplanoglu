@@ -1,0 +1,53 @@
+Python
+    numpy
+        array
+    matplotlib
+        pyplot
+    
+    pandas
+        read_csv
+
+    sklearn
+        naive_bayes
+            GaussianNB
+        metrics
+            r2_score
+            mean_squared_error
+            mean_absolute_error
+            accuracy_score
+            confusion_matrix
+            classification_report
+        ensemble
+            RandomForestClassifier
+        svm
+            LinearSVC
+            SVC
+
+    pickle
+        dump
+        load
+
+    flask
+        Flask
+        request
+        jsonify
+        render_template
+
+    default
+        print
+        predict
+        fit
+        open
+        return
+        try
+        except
+        if/else
+        values
+        predict
+
+
+HTML
+CSS
+Yardımcı Teknolojiler
+    Jupyter Notebook
+    Python Pickle Module
