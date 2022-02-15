@@ -1,0 +1,57 @@
+Python
+    re
+        findall
+        split
+    collection
+        defaultdict
+    xlwt
+    xlrd
+        open_workbook
+
+    xlutils
+        copy
+            copy
+    
+    ntlk
+        corpus
+            stopwords
+        data
+            append
+    string
+        punctuation
+        ascii_uppercase
+        digits
+
+    
+    enchant
+        checker
+            SpellChecker
+        tokenize
+            EmailFilter
+            URLFilter
+        request_dict
+        Dict
+    difflib
+
+    random
+        sample
+
+    norvig
+        BasicSpellCorrector
+
+
+    default
+        if/else
+        for
+        enumerate
+        len
+        break
+        print
+        range
+
+
+XML
+
+Yardımcı Teknolojiler
+    python pickle module
+    LISCAD

@@ -1,0 +1,90 @@
+Python
+    numpy
+        nan
+        mean
+    
+    pandas
+        DataFrame
+        concat
+        to_numeric
+    
+    matplotlib
+        pyplot
+            figure
+        
+    seaborn
+        set_theme
+        barplot
+    
+    re
+        findall
+
+    os
+        getenv
+    
+    tiime
+        sleep
+
+    datetime
+        strptime 
+        today
+        date
+        timedelta
+    
+    tweepy
+        OAuthHandler
+        API
+        Cursor
+    
+    dotenv
+        load_dotenv
+    
+    preprocessor
+        clean
+        get_height
+        get_width
+        get_x
+
+    nltk
+        download
+        semtiment
+            vader
+                SentimentIntensityAnalyzer
+            
+    textblob
+        textblob
+    
+    flair
+        models
+            TextClassifier
+                load
+        data
+            Sentence
+                labels
+
+    stanza
+        download
+        Pipeline
+
+
+    pycorenlp
+        StanfordCoreNLP
+
+    default
+        for
+        def
+        if/else
+        print
+        sort_values
+        return
+        head
+        tail
+        len
+        round
+        describe
+        range
+        max
+        
+
+Yardımcı teknolojiler
+    jupyter notebook

@@ -1,0 +1,5428 @@
+index,error,correct form,edit distance
+5407,nite,night,3
+56,dutsh,dutch,1
+431,admitt,admit,1
+149,milano,milan,1
+4585,its',it's,2
+3882,hallidays,holiday,3
+1300,bread winner,bread-winner,1
+5185,monitering,monitoring,1
+7647,streches,stretches,1
+6626,recource,resources,2
+7000,scearsly,scarcely,3
+1291,brakke,brake,1
+1691,class mate,classmates,2
+5907,permisable,permissible,2
+751,apriciate,appreciate,2
+548,allready,already,1
+8321,transision,transition,1
+8303,traffick,traffic,1
+6386,psycial,psychical,2
+2890,embrasse,embarrass,3
+4465,insum,insurmountable,9
+281,abo,absorbed,5
+7005,scenary,scenery,1
+5331,necesserily,necessarily,1
+22,buckhingham,buckingham,1
+1747,cocroches,cockroaches,2
+6930,sacrement,sacrament,1
+1122,beifited,benefitted,3
+7497,speakless,speechless,3
+1620,childs,children,3
+8369,trye,try,1
+564,althrough,although,1
+2278,defenition,definition,1
+4790,life times,lifetimes,1
+7740,suddently,suddenly,1
+3980,headeke,headache,3
+6042,pleasent,pleasant,1
+2711,down stair,downstairs,2
+463,afarid,afraid,2
+1713,climat,climate,1
+5838,payd,paid,1
+283,abolishion,abolition,2
+4592,jamed,jammed,1
+3727,glasess,glasses,2
+82,gartha,carta,2
+7573,stasion,station,1
+4030,hering,hearing,1
+5366,nessassary,necessary,3
+7119,self respect,self-respect,1
+1161,besids,besides,1
+3445,firend,friend,2
+1852,complementar,complimentary,2
+2256,decidet,decided,1
+8227,to receive,receiving,6
+2946,engeneering,engineering,1
+9004,writting,writing to,4
+6535,rayin,reign,3
+627,angerly,angrily,2
+521,aislated,isolated,2
+5604,opertor,operator,1
+1936,conmotion,commotion,1
+275,abel,able,2
+5686,others member,other members,2
+4226,immediatly,immediately,1
+3884,hammerskjold,hammarskjold,1
+765,aquainted,acquainted,1
+5279,my self,myself,1
+3596,frinds,friends,1
+3467,flag raising,flag-raising,1
+8853,what ever,whatever,1
+1638,choped,chopped,1
+605,an half hour,half an hour,6
+1145,benefites,benefits,1
+7988,ten speed,ten-speed,1
+4972,manifactured,manufactured,1
+7543,spreat,spread,1
+8848,whalefishing,whale fishing,1
+582,ames,aims,2
+2899,emminent,imminent,1
+1047,beated,beats,2
+3179,exibition,exhibition,1
+3718,girls's,girls',1
+8350,troble,trouble,1
+2902,emotinally,emotionally,1
+2047,conviently,conveniently,2
+4390,informatic,information,2
+3958,have taken,took,9
+3527,forien,foreign,2
+1036,be come,become,1
+4307,inconvenite,inconvenient,3
+8488,unfortunaly,unfortunately,2
+7958,tecnology,technology,1
+1841,competely,completely,1
+8952,woht,what,2
+6314,proffit,profit,1
+7783,suporse,suppose,2
+6507,radio-cassett,radio-cassette,1
+4393,infroductio,introduction,2
+7738,suddendly,suddenly,1
+8212,to help,in helping,5
+8595,usaly,usually,2
+6514,raido-cassette,radi-cassette,2
+7899,table cloth,tablecloth,1
+4244,implyed,implied,1
+338,accordind,according,1
+5439,norish,nourish,1
+6804,respectless,without respect,12
+985,bak,back,1
+6730,rendevous,rendezvous,1
+4971,mangment,management,2
+1074,becouse,because,1
+6382,prush,brush,1
+4698,lafe,laugh,3
+3945,hasn't signed,didn't sign,5
+4825,litriture,literature,2
+7572,startin,starting,1
+2065,cordonnin,cordoning,2
+4614,jopping,shopping,2
+1210,bith,birth,1
+8177,time table,timetable,1
+21,brittish,british,1
+1619,childrens,children's,1
+8169,tieing,tying,2
+7855,swidish,swedish,1
+7487,space suit,space-suit,1
+6761,represntative,representatives,2
+5339,negativ,negative,1
+3657,gan,gun,1
+1951,consderin,considering,2
+4308,inconvi,inconvenient,5
+5607,opinnions,opinions,1
+7126,selle,sell,1
+5492,obied,obeyed,2
+5947,pertaning,pertaining,1
+4067,hiting,hitting,1
+8164,tibets,titbits,2
+2496,differn,different,2
+1767,collegues,colleagues,1
+853,assigmment,assignments,2
+6372,prouve,prove,1
+5223,moter,motor,1
+4481,intercource,intercourse,1
+7763,summure,summer,2
+255,viena,vienna,1
+8398,twentineth,twentieth,1
+7580,staye,stay,1
+373,acompaning,accompanying,2
+8118,though out,throughout,2
+6376,provisoe,proviso,1
+3075,every thing,everything,1
+588,ammusement,amusement,1
+8356,trouble causer,trouble-causer,1
+4878,loveaffair,love affair,1
+1653,cientific,scientific,1
+8251,togegether,together,2
+1903,condact,contact,1
+1432,calulate,calculated,2
+3322,famili,family,1
+6239,previouly,previously,1
+4271,in-vited,invited,1
+7451,sophiscated,sophisticated,2
+5561,okey,ok,2
+4123,hown,shown,1
+6523,ranning,running,1
+4601,jepardy,jeopardy,1
+4646,keept,kept,1
+5,aprile,april,1
+6049,plentyful,plentiful,1
+3946,hassel,hassle,2
+5143,mischevious,mischievous,2
+3517,foreing,foreign,2
+3199,expences,expenses,1
+9033,your's,your,2
+8892,wholed,world,3
+683,apendix,appendix,1
+7673,strugles,struggles,1
+1711,clift,cliff,1
+5702,ourselvs,ourselves,1
+6848,rhuburb,rhubarb,1
+339,accostumed,accustomed,2
+3873,hadn't accepted,did not accept,6
+4493,intergration,integration,1
+557,alow,allow,1
+4285,inccident,incident,1
+7996,terestial,terrestrial,2
+4518,interwiewed,interviewed,1
+8022,thanks giving,thanksgiving,1
+4446,inquirys,inquiries,2
+4576,is gone bad,went wrong,11
+3310,falsety,falsity,1
+324,acciden,accident,1
+3355,fatest,fattest,1
+3505,for turnning,to turn,6
+6216,presedent,president,1
+1735,clumsey,clumsy,1
+6632,rediculase,ridiculous,4
+7222,shooes,shoes,1
+6504,radio-casette,radio-cassette,1
+6463,quesionnair,questionnaire,2
+7431,some where,somewhere,1
+2717,drammatic,dramatic,1
+6021,plage,plague,1
+2972,enought,enough,1
+6094,polucated,polluted,3
+5995,picnicing,picnicking,1
+7176,seroundings,surroundings,2
+644,anounced,announced,1
+5129,minigolf,mini-golf,1
+8140,threatan,threaten,1
+1981,consisit,consist,1
+2366,describtion,description,1
+5955,pettyness,pettiness,1
+9011,yars,years,1
+6532,rason,reason,1
+6668,regga,reggae,1
+1604,check up,check-ups,2
+7998,terminel,terminal,1
+3063,everbody,everybody,1
+2763,dunts,dunce,2
+6645,refernc,reference,2
+4206,imbaresed,embarrassed,4
+830,asch,ash,1
+4898,luxorious,luxurious,1
+7440,sommer,summer,1
+4511,intertion,intention,1
+131,japanise,japanese,1
+6649,refference,reference,1
+8361,trouzers,trousers,1
+1947,conrol,control,1
+5092,metropolitian,metropolitan,1
+1880,concedered,considered,2
+1282,boxom,buxom,1
+3746,golb,globe,3
+7453,sophmore,sophomore,1
+4807,liquify,liquefy,1
+2254,deci,decide,2
+8755,was passing,passed,7
+6462,querrelling,quarrelling,1
+6549,reail,reality,3
+1169,beyons,beyond,1
+5861,pendantry,pedantry,1
+1165,beutician,beautician,1
+4771,leval,level,1
+4568,irrespect,irrespectively,5
+2998,envolope,envelope,1
+1855,completly,completely,1
+3846,guerilja,guerilla,1
+6843,revesment,refreshment,3
+6389,psycologically,psychologically,1
+5888,perents,parents,1
+3019,equiptments,equipment,2
+921,aukward,awkward,1
+1512,casset,cassette,2
+655,answeres,answers,1
+4110,hotelroom,hotel room,1
+3056,even body,everybody,2
+6105,popolution,population,2
+7912,takin,taking,1
+8338,trembelling,trembling,2
+7937,teamsports,team sports,1
+3690,gehettoes,ghettos,2
+4380,infectous,infectious,1
+215,scottich,scottish,1
+940,avaiabl,available,2
+1133,belive,believe,1
+3224,explotive,explosive,1
+72,finisch,finnish,2
+7334,singnher,signature,5
+3923,happly,happily,1
+4968,manerd,mannered,2
+6475,quickily,quickly,1
+68,europian,european,1
+2801,economie,economy,2
+4623,juce,juice,1
+5945,persuit,pursuit,1
+7516,spendide,splendid,2
+7333,singinging,singing,3
+5935,personnified,personified,1
+5195,mony,money,1
+863,associat,associate,1
+6708,relly,really,1
+3698,genra,general,2
+2024,contries,countrys,3
+5251,mud caked,mud-caked,1
+2777,eaq,equal,3
+6774,rerved,reserved,2
+2156,crime's amount,amount of crime,15
+3404,ferced,forced,1
+8057,thei,they,1
+5158,mitey,mighty,3
+4430,innoculate,inoculate,1
+947,avantages,advantage,2
+6131,possesed,possessed,1
+1479,carefuly,carefully,1
+5566,olds,older people,9
+454,advicing,advising,1
+1166,beutiful,beautiful,1
+6378,provocates,provokes,3
+1060,beautufully,beautifully,1
+3979,headek,headache,4
+6474,quicked,kicked,2
+6257,prisonner's,prisoners,2
+140,maroc,morocco,3
+4837,living rooms,living-rooms,1
+7934,teached,taught,5
+998,bancelor,bachelor,2
+4143,hunggrly,hungrily,2
+8116,thorts,thoughts,3
+865,asspelly,especially,5
+63,estwood,eastwood,1
+8047,theacher,teacher,1
+929,authencity,authenticity,2
+7030,schooltrip,school trip,1
+7983,tempeture,temperature,2
+2668,do'nt,don't,2
+8069,ther,there,1
+2286,definate,definite,1
+5903,permantly,permanently,2
+6880,robbering,robbing,2
+4145,huose,house,2
+7907,take sunbath,sunbathe,6
+5877,peple,people,1
+4799,likly,likely,1
+1089,been travelling,travelled,8
+6705,relised,realised,1
+8087,thievs,thieves,1
+1335,brust,brush,1
+2765,durty,dirty,1
+8817,well educated,well-educated,1
+6650,refferre,referred,2
+4940,magnigicient,magnificent,2
+7462,sorroundings,surroundings,1
+6357,propension,propensity,2
+2538,directio,direction,1
+203,scothisch,scottish,2
+5597,opend,opened,1
+6207,preocupied,preoccupied,1
+4338,inded,indeed,1
+6029,plannets,plans,3
+1391,busling,bussling,1
+1354,bullding,building,1
+2821,effectivity,effectiveness,5
+568,alweis,always,2
+3812,gratefull,grateful,1
+8716,voteing,voting,1
+646,anouncing,announcing,1
+846,assasinated,assassinated,1
+5866,pennance,penance,1
+4497,internationll,internationally,2
+4958,mamoth,mammoth,1
+3936,harrass,harass,1
+6472,queu,quay,2
+5952,pessemistic,pessimistic,1
+4603,jes,yes,1
+6377,provisons,provisions,1
+270,a sort,sorts,3
+4340,indentified,identified,1
+6833,retirment,retirement,1
+102,i'm,i,2
+7550,squality,squalidity,2
+8041,the old age,olden times,10
+2885,embarrested,embarrassed,2
+2511,dignatary,dignitary,1
+2909,emply,imply,1
+6048,plentl,plenty,1
+9008,wull,will,1
+7971,tem,teams,2
+518,airhpstess,air-hostess,2
+1912,conection,connection,1
+4065,histeric,hysterical,3
+815,arrenge,arrange,1
+8120,thoughtfull,thoughtful,1
+1095,beeween,between,1
+5837,pay day,payday,1
+6172,practictione,practitioner,2
+8358,trouble some,troublesome,1
+5738,pacaged,packaged,1
+756,apropriation,appropriation,1
+4397,infurtile,infertile,1
+6392,psysical,physical,1
+8265,tomuch,too much,2
+4871,lote,lot,1
+1860,componant,component,1
+4429,innocient,innocent,1
+3385,feelling,feeling,1
+1406,buttle,bottles,2
+6534,ratial,racial,1
+8567,unusal,unusual,1
+2484,diffences,differences,2
+7454,sorce,source,1
+1299,breacks,brakes,3
+910,attendents,attendants,1
+7750,sugar cane,sugar-cane,1
+4431,innosant,innocent,2
+8328,travell,travelled,2
+8991,would have taken,had to take,9
+69,eygpt,egypt,2
+4778,libraie,libraries,2
+6447,quarell,quarrelling,4
+8950,wod,wood,1
+772,ar,are,1
+6720,rememebered,remembered,1
+3260,eyery one,everyone,2
+8544,unresponsible,irresponsible,2
+2592,disillutionment,disillusionment,1
+6464,question ing,questioning,1
+5482,nusience,nuisance,3
+7788,suppart,support,1
+5549,officicial,official,2
+6247,primeminister,prime minister,1
+2563,disck-jockey,disc-jockey,1
+2534,dinning room,dining-room,2
+2567,discotec,discotheque,4
+4489,interferred,interfered,1
+5069,menation,mention,1
+6078,polatics,politics,1
+4008,heddeik,headache,5
+2922,encorage,encourage,1
+4893,lunactics,lunatics,1
+6886,rocksacks,rucksacks,1
+4036,heydey,heyday,1
+5511,occasionaly,occasionally,1
+3486,folk dancing,folk-dancing,1
+8639,vanilla flavour,vanilla-flavour,1
+7801,suprising,surprising,1
+4700,laggages,luggage,2
+8573,unwrightable,unwritable,2
+6567,reat,relatively,6
+7533,spoild,spoil,1
+7747,suffuring,suffering,1
+7827,surroud,surround,1
+1109,beginnig,beginning,1
+8270,torists,tourists,1
+1535,cautch,coach,3
+3783,governament,government,1
+3850,guidence,guidance,1
+5531,occussion,occasion,2
+2528,dimocratic,democratic,1
+7266,sick-ness,sickness,1
+2761,dugged,dug,3
+80,friday's,friday,2
+5611,oportunity,opportunity,1
+3547,fortunitly,fortunately,2
+3479,fluor,flour,2
+7952,techonologies,technology,4
+821,arrond,around,2
+2974,enourmously,enormously,1
+8470,unecessary,unnecessary,1
+4874,loud speakers,loudspeakers,1
+5282,mysteri,mystery,1
+2912,emprace,embrace,1
+4652,kind manerdly,kind manneredly,2
+109,im,i'm,1
+4355,indipendent,independent,1
+483,afterall,after all,1
+3353,fast running,fast-running,1
+3209,expirienced,experienced,1
+4921,madicene,medicine,2
+4015,heirarch,hierarchy,3
+4091,hopeing,hoping,1
+8304,traffig,traffic,1
+4628,jumed,jumped,1
+7084,seasice,scissors,6
+4586,its',its,1
+5304,natur's,nature's,1
+7598,stigit,ticket,4
+8540,unproper,improper,2
+3744,goind,going,1
+3095,evry,every,1
+3313,falt,fault,1
+452,adviced,advised,1
+2871,embarassed,embarrassed,1
+8308,trafick,traffic,2
+3729,glass case,glas-case,2
+2784,easy influendly,easily influenced,5
+3719,girrife,giraffe,2
+9042,yuo,you,2
+8239,to use,for using,5
+3998,heartly,hearty,1
+3270,facillate,facilitated,3
+8888,whobbly,wobbly,1
+2061,coply,copy,1
+7264,siccors,scissors,3
+1232,blussed,blushed,1
+5671,origion,origin,1
+1870,comsumer,consumer,1
+4812,lissten,listen,1
+4321,incourage,encourage,1
+4294,includind,included,2
+8876,whife,wife.,2
+7010,scheem,scheme,2
+7308,simles,simplest,2
+5389,nice looking,nice-looking,1
+2977,enterence,entrance,2
+816,arrengiments,arrangements,2
+5481,nuses,nurses,1
+4990,manutriction,malnutrition,2
+369,acksident,accident,2
+4094,horible,horrible,1
+5375,netr,entry,3
+3765,goodby,good-bye,2
+5112,milions,millions,1
+8005,terrifide,terrified,2
+2245,deathed,death,2
+3738,godbay,good-bye,4
+7354,sitting room,sitting-room,1
+1058,beautifull,beautiful,1
+1183,big damage on,major damage to,7
+5334,necklasses,necklaces,2
+170,norwey,norway,1
+6683,relabl,reliable,2
+5200,moove,move,1
+8701,vistit,visit,1
+2604,dismised,dismissed,1
+5557,og,organisations,11
+2243,deaseas,disease,3
+1340,buetiful,beautiful,3
+4531,intresting about,interested in,9
+7648,streching,stretching,1
+2937,enecial,initials,4
+3737,god's mother,mother of god,11
+5826,patiantly,patiently,1
+3965,head mistress,headmistress,1
+5541,of weight,in weight,2
+2811,educationals,education,3
+1410,by cause,because,2
+7097,sed,said,2
+8542,unreluctantly,reluctantly,2
+3696,genious,genius,1
+1853,complet,complete,1
+6990,scacally,scarcely,3
+2577,discresion,discretion,1
+8128,thourough,thorough,1
+5970,phisician,physician,1
+2122,courntry,country,1
+4239,impecably,impeccably,1
+6089,polluated,polluted,1
+4840,livingstone,livingstone's,2
+989,ballance,balance,1
+2247,deceide,decide,1
+5452,notice board,noticeable,5
+8045,the tecknology's progress,the progress of technology,21
+3817,greated,greeted,1
+2812,eerly,early,1
+991,ballons,balloons,1
+2789,eazy,easy,1
+2311,delite,delight,3
+3866,had been,was,7
+5208,more over,moreover,1
+874,aswered,answered,1
+1310,bride's maid,bridesmaid,2
+7649,streit,strait,1
+753,aproached,approached,1
+3826,gretae,greater,3
+5415,nocternal,nocturnal,1
+4124,howve,however,2
+3435,finilly,finally,1
+4410,initiary,itinerary,4
+412,addmited,admitted,2
+7551,squandling,squandering,2
+8843,wethe,whether,2
+5959,pharmacians,pharmacists,2
+4554,invironment,environment,1
+6598,recieved,received,2
+2264,decited,decided,1
+681,apeals,appeals,1
+1717,climit,climate,2
+4072,hoby,hobby,1
+2307,delinquences,delinquencies,1
+7961,teenages,teenagers,1
+343,accrude,accrued,2
+995,baloons,balloons,1
+4544,invaluble,invaluable,1
+4667,knoledge,knowledge,1
+5944,persues,pursues,1
+267,a rapresentation,representative,5
+5634,oppsite,opposite,1
+1760,colate,collate,1
+2860,eleventh hours,eleven o'clock,8
+4348,independency,independence,1
+598,amout,amount,1
+3725,glamourous,glamorous,1
+622,ancle,ankle,1
+8628,valnerability,vulnerability,1
+8662,vegatable,vegetable,1
+3442,firced,forced,1
+7435,somethink,something,1
+5804,parton,pardon,1
+2646,distirbed,disturbed,1
+6224,presure,pressure,1
+4703,lagr,large,2
+7653,strenghtening,strengthening,2
+7407,socable,sociable,1
+8685,vilence,violence,1
+5495,obligng,obliging,1
+6052,plesent,pleasant,2
+8058,their's child,their child,2
+942,avaiblity,availability,3
+629,angrey,angry,1
+4050,high way,highway,1
+143,mediterranee,mediterranean,2
+8777,watercycling,water-cycling,1
+8978,worsed,worse,1
+5116,milliainere,millionaire,4
+7493,speach,speech,1
+1594,chating,chatting,1
+3508,forbiden,forbidden,1
+3000,envolving,involving,1
+5264,murmers,murmurs,1
+366,acident,accident,1
+2509,difrent,different,2
+6379,provoketed,provoked,2
+1934,congueror,conqueror,1
+4269,impurs,impulse,2
+6129,possablities,possibilities,2
+358,acheivement,achievement,2
+643,anoucement,announcement,2
+8553,unsucessful,unsuccessful,1
+8659,ve,leave,3
+5545,offened,offended,1
+313,acceed,accede,2
+2114,countriman,countryman,1
+5058,meen,meet,1
+2964,ennumerate,enumerate,1
+3842,guarnty,guarantee,3
+4937,magnifinct,magnificent,3
+8798,weding,wedding,1
+8347,triped,tripped,1
+2877,embarrased,embarrassed,1
+8816,well dressed,well-dressed,1
+6487,quitely,quietly,2
+6616,recomanded,recommended,2
+3279,facultes,faculties,1
+1244,bolling,bowling,1
+7252,showen,shown,1
+1346,buiscits,biscuits,2
+8786,wealh,wealth,1
+2959,enjured,injured,1
+2542,disaggreaget,disaggregate,3
+3593,frightfull,frightful,1
+4759,leiuse,leisure,2
+4157,hygenic,hygienic,1
+4920,mades,makes,1
+7766,sunddenly,suddenly,1
+1776,colourfull,colourful,1
+4344,independance,independence,1
+1242,boicotted,boycotted,1
+7501,specialisises,specialises,2
+8836,were celebrating,celebrated,8
+2210,cyl,cycle,2
+8724,wagish,waggish,1
+1255,bore hols,bore-holes,2
+367,acieve,achieved,2
+71,fincancers,financiers,2
+4560,invstor,investors,2
+4538,intulectual,intellectual,2
+8577,up lift,uplifts,2
+6374,provid,provide,1
+1187,bigest,biggest,1
+4024,hemorrage,hemorrhage,1
+5672,origional,original,1
+3439,finnest,finest,1
+1361,bungerlow,bungalow,2
+5019,mathematicaly,mathematically,1
+6098,polution,pollution,1
+7380,slimer,slimmer,1
+1485,carn't,can't,1
+1976,conservativ,conservative,1
+3149,excuese me,excuse me,1
+1756,cogradulate,congratulate,2
+217,scotts,scots,1
+8635,vanderlisium,vandalism,4
+503,agressive,aggressive,1
+4129,human's weights,human rights,4
+2242,deam,deem,1
+321,accheive,achieved,4
+7590,steril,sterile,1
+3711,gir,girl,1
+8254,toght,thought,2
+5041,mecanic,mechanics,2
+8574,up-to date,up-to-date,1
+2263,decissions,decisions,1
+5436,noone,no-one,1
+325,accidentaly,accidentally,1
+1707,clerck,clerk,1
+4905,luying,lying,1
+5020,mather,mother,1
+3226,expor,exporting,4
+5018,mathamatics,mathematics,1
+584,amibuit,ambiguity,3
+3611,full time,full-time,1
+8718,vqrie,varied,2
+1132,beligerant,belligerent,2
+447,adventerous,adventurous,1
+6450,quarelling,quarrelling,1
+1153,benifit,benefit,1
+757,aproximate,approximate,1
+5638,oprators,operators,1
+5777,paren't,parents,2
+7564,standed,stood,4
+128,japaneese,japanese,1
+6338,promissed,promised,1
+1878,comunuating,communicating,3
+4488,interfer,interfered,2
+7538,spontanous,spontaneous,1
+2973,enourmous,enormous,1
+7375,sli,silent,4
+684,aplicable,applicable,1
+6961,san,son,1
+915,attornies,attorneys,2
+1818,communitte,community,2
+4198,imaginatious,imaginative,3
+6488,quites,quiets,2
+6429,puting,putting,1
+5280,mybe,maybe,1
+1824,companys,companies,2
+1435,camar,camera,2
+1954,consecuence,consequence,1
+8861,whe-ever,whenever,1
+3207,experments,experiments,1
+2520,dilirious,delirious,1
+7404,so soon as,as soon as,2
+6364,prosecueted,prosecuted,1
+4943,maine,main,1
+6041,pleaces,places,1
+2480,diferent,different,1
+3247,extention,extension,1
+1798,commerse,commerce,1
+1744,cocain,cocaine,1
+1670,cistin,citing,2
+3686,gaves,gave,1
+6879,roand,road,1
+7863,swin,swim,1
+6214,prepetual,perpetual,2
+3060,evenually,eventually,1
+4833,liveing,living,1
+4162,ideale,ideal,1
+8690,vioiln,violin,2
+5522,occurance,occurrence,2
+5909,permited,permitted,1
+3622,fundanental,fundamental,1
+1199,bipass,bypass,1
+3262,fabulose,fabulous,2
+7825,surprized,surprise,2
+6828,resuld,result,1
+2813,ef,ever,3
+5809,pash,push,1
+1037,bea,belts,3
+5575,omnisient,omniscient,1
+7547,sprllin,spelling,2
+4710,langage,language,1
+1050,beatifus,beautiful,2
+3691,generall,general,1
+1148,benfit,benefit,1
+8552,unsually,unusually,1
+1235,boarding school,boarding-school,1
+5252,mud splotched,mud-splotched,1
+5170,modle's,models,2
+3491,fomerly,formally,3
+3720,giveing,giving,1
+701,appearin,appearing,1
+2306,deliguent,delinquent,2
+5086,metaphores,metaphors,1
+7848,swedesh,swedish.,2
+4764,lessone,lesson,1
+5678,orself,ourself,1
+2462,didn'd,didn't,1
+2316,delvin,delving,1
+1865,compromice,compromise,1
+2778,eard,heard,1
+6781,reseaved,reserved,1
+3223,explotion,explosion,1
+379,acount,account,1
+8999,writte,write,1
+4644,keap,keep,1
+6223,presuposes,presupposes,1
+4512,interuduce,introduce,2
+1702,clearity,clarity,1
+2325,demostrating,demonstrating,1
+8912,wiev,view,2
+3984,headquats,headquarters,3
+2155,crimamel,criminal,3
+7552,squards,squads,1
+1056,beauteful,beautiful,1
+823,arte,are,1
+448,adventureous,adventurous,1
+7144,senscebul,sensible,4
+3058,eventuallity,eventuality,1
+768,aquantences,acquaintances,3
+6121,posioning,poisoning,2
+342,accruatel,accurately,3
+413,addresable,addressable,1
+802,arlegy,allergy,2
+4964,manager assistent,assistant manager,17
+7276,sighteseing,sightseeing,2
+5228,motor-bika,motorbike,2
+7729,sucessful,successful,1
+6427,pused,pushed,1
+779,aranging,arrangeing,2
+3638,fusalage,fuselage,1
+5408,niternationa,international,3
+3683,gaurdian,guardian,2
+7979,temperatured,temperature,1
+8996,wounderful,wonderful,1
+7524,spilend,splendid,3
+4959,mamured,murmur,4
+912,attening,attending,1
+6749,repleid,replied,2
+4680,koings,coins,2
+5072,ment,meant,1
+7432,somebodys,somebody's,1
+5435,nonsens,nonsense,1
+7473,sourroundings,surroundings,1
+7292,silouettes,silhouettes,1
+5242,movaless,marvellous,6
+6975,satisfactery,satisfactory,1
+2608,dispair,despair,1
+5839,pe,predictions,9
+3152,excusema,excuse me,2
+4724,lasy,lazy,1
+6937,safing,saving,1
+780,araond,around,2
+4280,in the farer places,to more distant places,12
+5862,pendelum,pendulum,1
+4684,kows,knows,1
+390,acters,actors,1
+5025,mattres,mattress,1
+6466,questionare,questionnaire,2
+2188,cultur,culture,1
+3289,fairy land,fairyland,1
+7181,servays,surveys,2
+6234,preventation,prevention,2
+5664,orgi's,orgies,1
+3100,exactely,exactly,1
+8842,western styled,western-style,2
+3020,equiries,inquiries,2
+3133,excetera,etcetera,1
+8728,waiked,waked,1
+5416,nodles,noodles,1
+6109,poralised,paralysed,2
+6801,respectered,respected,2
+6104,poors,poor people,7
+7341,sirenes,sirens,1
+1096,bef,benefits,5
+7419,soli,solving,3
+2038,convential,conventional,2
+4042,hier,here,2
+8037,the cassetes english,the english cassettes,15
+130,japanisch,japanese,3
+4498,interogationg,interrogating,2
+1503,cartshipe,cartridges,5
+1784,comerades,comrades,1
+1885,concequently,consequently,1
+4330,increasinl,increasingly,2
+994,baloon,balloon,1
+661,anwering,answering,1
+5568,oly,only,1
+3275,factory processed,factory-processed,1
+6023,plaigarism,plagiarism,2
+7466,sosial,social,1
+6358,properganda,propaganda,2
+8708,vollyball,volley-ball,2
+5695,our's,ours,1
+7886,synfony,symphony,3
+3915,happenes,happens,1
+6509,radio controlled,radio-controlled,1
+7114,selebrated,celebrated,1
+6385,psychonalist,psychoanalyst,2
+2342,depleated,depleted,1
+5443,not notice,no sign,6
+2435,devlopping,developing,2
+6783,resentely,recently,2
+3689,geece,geese,1
+2116,country side,countryside,1
+8348,tripp,trip,1
+924,aurgument,argument,1
+6548,ready made,ready-made,1
+7367,skisaly,scarcely,5
+7070,se,side,2
+3895,handicapt,handicapped,3
+7189,severeal,several,1
+4885,lsit,lists,3
+4746,leasons,lessons,1
+8121,thoughth,thought,1
+4368,ineffiect,inefficient,3
+6993,scarcily,scarcely,1
+6061,pluss,plus,1
+7127,selled,sold,3
+2654,disturbents,disturbance,3
+3098,exa,exhausted,6
+7786,supose,suppose,1
+3276,factorys,factories,2
+5215,mort,more,1
+6304,profesionals,professionals,1
+7268,side step,sidestep,1
+4260,improbabiliti,improbability,1
+1752,coffe,coffee,1
+8528,unluncky,unlucky,1
+1390,businness,business,1
+7844,swalow,shallow,2
+2445,diceded,decided,2
+1652,cielings,ceilings,2
+6744,repetative,repetitive,1
+7304,simililar,similar,2
+4876,lounlyness,loneliness,3
+1328,brothe,brother,1
+8926,windness,windless,1
+7122,selfe,self,1
+5414,nocks,knocks,1
+4727,lateyst,latest,1
+6656,reforced,reinforced,2
+3708,ghotic,gothic,2
+6859,riden,rode,2
+7890,syntethic,synthetic,2
+8973,world wide,world-wide,1
+3379,feasable,feasible,1
+6191,predudice,prejudice,1
+8520,universitys,universities,2
+6585,recet,receipt,2
+8451,understan,understand,1
+1069,beceming,becoming,1
+6606,recit,recite,1
+3610,full grown,fully-grown,2
+74,finnis,finnish,1
+1285,boys',boys,1
+3851,guidlines,guidelines,1
+2455,dicrease,decrease,1
+236,thams,thames,1
+6701,reliefed,relieved,1
+2535,dinningroom,dining-room,2
+3039,especialy,especially,1
+306,abule,able,1
+7541,spot lights,spotlights,1
+5478,numbuers,numbers,1
+4853,lonelynes,loneliness,2
+3134,excetly,exactly,2
+2159,crimerate,crime rate,1
+2519,diligense,diligence,1
+6107,populair,popular,1
+4291,incidently,incidentally,2
+3881,hall departure,departure hall,10
+2678,doing a search,making a search,3
+6571,recate,relate,1
+4281,in to,into,1
+4018,helpfll,helpful,1
+7180,servaying,surveying,2
+4137,hundered,hundred,1
+774,ar,our,2
+6887,rocord,record,1
+4875,loudspeak,loudspeaker,2
+8370,tryed,tried,1
+398,acuaintance,acquaintance,1
+8855,whatch,watch,1
+104,i'm trying,i try,5
+5864,pengiuns,penguins,2
+7465,sosciety,society,1
+8968,worht while,worthwhile,2
+1989,constitit,constitutes,3
+2956,enjoye,enjoy,1
+446,adventageous,advantageous,1
+3041,espect,expect,1
+5329,necessaties,necessities,1
+6210,prepareng,preparing,1
+2921,encompasing,encompassing,1
+1839,competant,competent,1
+2750,drunked,drunken,1
+8056,thei,there,2
+7016,school children's,schoolchildren's,1
+5417,noe,now,1
+1907,condicions,conditions,1
+6746,repititiou,repetitious,2
+7199,sharpner,sharpener,1
+3679,gasolinde,gasoline,1
+7782,supliment,supplement,2
+4361,individul,individual,1
+2021,contracter,contractor,1
+738,appropi,appropriate,4
+8245,to wear,for wearing,5
+1597,cheaf,cheap,1
+3641,futhermore,furthermore,1
+4394,infromatio,information,3
+5751,paitient,patient,1
+3231,expt,except,2
+8097,thinke,think,1
+6184,precison,precision,1
+3981,headidch,headache,3
+6494,qvickly,quickly,1
+7940,teatch,teach,1
+8658,vater,water,1
+5805,party gooers,party-goers,2
+591,amoebid,amoebic,1
+8720,wa,wide,3
+1684,cizeres,scissors,5
+6867,ripered,repaired,3
+6637,ree,reasons,5
+199,sciente,scientists,4
+5237,mountaneous,mountainous,2
+5310,nealy,nearly,1
+8781,wating,waiting,1
+6342,pronaunce,pronounce,1
+2919,enclosured,enclosed,2
+5732,owful,awful,1
+6936,safegaurd,safeguard,2
+5214,morover,moreover,1
+6232,prevelant,prevalent,2
+3271,facinate,fascinate,1
+6345,pronouncment,pronouncements,2
+7045,scisors,scissors,1
+7121,selfconsciousness,self-consciousness,1
+4977,manoue,manouver,2
+8476,uneque,unique,1
+8127,thoun,thrown,2
+6217,presion,position,4
+4828,litted,lit,3
+3892,handeling,handling,1
+2572,discoverd,discovery,1
+797,arguement,argument,1
+3374,feal,feel,1
+3371,favulouse,fabulous,2
+6145,potateos,potatoes,2
+1193,binefit,benefit,1
+6046,pleasuru,pleasure,1
+7731,sucinctly,succinctly,1
+8699,vist,visit,1
+8260,tolking,talking,1
+4788,life time,lifetime,1
+5547,offerred,offered,1
+7500,spechless,speechless,1
+40,commonwelth,commonwealth,1
+2823,effeicienc,efficiency,2
+8758,was teached,taught,9
+2541,disabelled,disabled,2
+2724,dream land,dreamland,1
+5259,mumies,mummies,1
+8484,unforgetable,unforgettable,1
+5840,pe,purpose,5
+7111,selberate,celebrate,3
+6754,representant,representative,4
+8168,tid-bits,titbits,2
+4282,inabitants,inhabitants,1
+496,aginst,against,1
+1749,coeffcien,coefficient,2
+7296,simblicity,simplicity,1
+6555,realiable,reliable,1
+6085,politicans,politicians,1
+7787,suposed,supposed,1
+197,schwedish,swedish,2
+7995,tere,there,1
+4375,infact,in fact,1
+3081,everyones',everyone's,2
+7038,scienee,science,1
+8274,torwads,towards,2
+8944,wittes,whites,2
+4268,impurite,impurities,2
+3120,excample,example,1
+6281,probebly,probably,1
+6662,refreshmend,refreshment,1
+6715,rembered,remembered,2
+6652,refising,revising,1
+2109,counsil,council,1
+4063,his self,himself,2
+158,normandie,normandy,2
+3552,fosscil,fossil,1
+1660,cinama,cinema,1
+8887,who ever,whoever,1
+877,asyncronousl,asynchonously,2
+1859,compltin,completing,2
+7150,separat,separate,1
+1996,contaiminated,contaminated,1
+296,abse,abstract,5
+1459,canditat,candidate,2
+4075,holiday makers,holidaymakers,1
+6115,posess,possesses,3
+179,phillipienes,philippines,3
+8430,unborne,unborn,1
+5135,minory,minority,2
+4776,lias,liaise,2
+6459,queched,quenched,1
+4978,manourvred,manoeuvred,2
+4683,kold,cold,1
+6950,salecte,selected,2
+1985,consistant,consistent,1
+2843,eisenhhower,eisenhower,1
+394,activitys,activities,2
+7889,synshronis,synchronise,2
+2201,currers,careers,2
+3057,eventhough,even though,1
+1000,bank robbery,bank-robbery,1
+7794,supposidly,supposedly,1
+7768,sunsight,sunlight,1
+3609,ful,full,1
+665,any helping,some help,7
+895,atleast,at least,1
+4339,indefinate,indefinite,1
+3405,fere,fare,1
+2850,electrict,electric,1
+3514,foreget,forget,1
+3489,follo,follow,1
+4598,jees,yes,2
+514,air hostess,air-hostess,1
+2290,definetely,definitely,1
+6940,said me,say to me,4
+5179,momment,moment,1
+1053,beaty,beauty,1
+2334,departemental,departmental,1
+7864,swith,switch,1
+5741,paerticulaur,particular,2
+6671,regn,reign,1
+8569,unusuoally,unusual,3
+3926,happyly,happily,1
+4062,hinderence,hindrance,2
+7903,tackeling,tackling,1
+2194,cupbroad,cupboard,2
+5598,openned,opened,1
+7039,scienfic,scientific,2
+4218,imigrants,immigrants,1
+1470,capabity,capability,2
+7666,structru,structure,2
+5535,od,order,3
+7133,senc,sense,2
+6547,readible,readable,1
+8248,tobbaco,tobacco,2
+1529,catle,castle,1
+1134,belive,believes,2
+7792,suppore,supported,2
+1010,barchelor,bachelor,1
+4751,leavs,leaves,1
+8444,under norished,undernourished,2
+7461,sorrounding,surroundings,2
+228,svedish,swedish,1
+4460,instintively,instinctively,1
+5095,miake,make,1
+687,apointments,appointments,1
+5964,phenomeno,phenomenon,1
+6949,sale assistant,sales-assistant,2
+5593,ont,one,1
+6367,prostitude,prostitute,1
+5351,neigbour,neighbour,1
+4199,imaginativ,imaginative,1
+4611,jocking,jogging,2
+1462,cannto,cannot,2
+976,bad tempered,bad-tempered,1
+2619,diss,disolved,5
+4973,maniputaltatio,manipulation,4
+3706,getto,ghetto,1
+710,appitite,appetite,1
+7421,solomn,solemn,1
+5255,muisic,music,1
+2055,coontry,country,1
+3395,felxibilit,flexibility,3
+4453,inspite,in spite,1
+1827,comparision,comparison,1
+8592,upto,up to,1
+4587,itsef,itself,1
+7100,seeen,seen,1
+7423,sombody,somebody,1
+1723,clossed,closed,1
+1526,catastrophy,catastrophe,1
+954,awaiti,awaiting,2
+973,bactirias,bacteria,2
+935,autorety's,authorities,4
+416,adjacn,adjacent,2
+7254,showin,showing,1
+53,duschman,dutchman,1
+6028,plannet,planet,1
+5429,non strict,lax,10
+459,aereoplane,aeroplane,1
+8668,veist,waist,2
+7430,some times,sometimes,1
+2029,controvercy,controversy,1
+1695,cleand,cleaned,1
+4976,mannage,manage,1
+8870,wheras,whereas,1
+1309,brice,price,1
+6211,prepearing,preparing,1
+3666,garantye,guarantee,2
+2978,enterpretor,interpreter,2
+2523,dimand,demands,2
+9006,wronge,wrong,1
+5571,ommission,omissions,2
+4449,insistance,insistence,1
+3013,equinoxe,equinox,1
+7784,suport,support,1
+6074,poisining,poisoning,1
+2267,declair,declare,2
+8768,wat,wet,1
+7822,surprices,surprises,1
+8980,worsest,worst,2
+6977,satsfactor,satisfactory,2
+5445,notced,noticed,1
+3091,evin,even,1
+2689,dont,don't,1
+4687,labell,label,1
+3987,health ways,healthwise,4
+3778,govenor,governor,1
+3843,guarrantee,guarantee,1
+6159,povety,poverty,1
+3928,happyness,happiness,1
+5752,paitients,patients,1
+6910,rubish,rubbish,1
+4006,hedache,headache,1
+8193,to behave,behaving,6
+8977,worring,worrying,1
+3997,heartly,heartily,1
+3764,goodbuy,goodbye,2
+5730,owens,owns,1
+7383,sliper,slipper,1
+4233,immidiatly,immediately,2
+6058,plodderly,ploddingly,3
+8963,woning,warning,2
+5224,mothercountry,mother country,1
+7212,shieking,shrieking,1
+8295,trables,troubles,2
+1378,buscates,biscuits,4
+1775,colosium,coliseum,2
+6922,rymes,rhyme,2
+5647,optium,optimum,1
+4473,inteligent,intelligent,1
+8223,to prevent,of preventing,5
+7146,sensetive,sensitive,1
+8384,tupes,types,1
+8479,unessessay,unnecessary,4
+6423,purpul,purple,2
+1659,cilivized,civilized,2
+1516,cassets,cassettes,2
+5588,onest,honest,1
+2379,desesperatly,desperately,3
+8376,tuckshop,tuck shop,1
+181,plastis,plastics,1
+1725,cloude,cloud,1
+7962,teeths,teeth,1
+5596,opean,open,1
+3786,governements,governments,1
+6898,rooring,roaring,1
+8039,the happening,this happened,5
+3955,have making,made,9
+4076,holliday,holiday,1
+5936,persperation,perspiration,1
+4399,ingenius,ingenious,1
+6546,readed,read,2
+2440,diagreed,disagreed,1
+1243,boks,books,1
+5446,noteics,notice,2
+7280,significative,significant,4
+2272,decresin,decreasing,2
+8285,touris,tourists,2
+4966,manegement,management,1
+7238,shortend,shortened,1
+6252,prisens,prisons,1
+4276,in garantee,under guarantee,5
+6987,savthm,southern,5
+3398,femal,female,1
+2873,embarassment,embarrassment,1
+3834,grown up,grown-up,1
+1980,consiously,consciously,1
+5229,motor way,motorway,1
+1397,busstop,bus stop,1
+3187,exkjus me,excuse me,3
+6882,robberys,robberies,2
+5406,nise,nice,1
+6254,prisioners,prisoners,1
+6408,punnishing,punishing,1
+5680,orther,other,1
+4215,imidatly,immediately,4
+934,autor,author,1
+5374,netowrk,networks,3
+8603,useully,usually,2
+1422,cabines,cabins,1
+4888,luckyly,luckily,1
+4900,luxurios,luxurious,1
+6747,replaci,replaceing,3
+4515,interuptio,interruption,2
+4917,mack up,make-up,3
+4823,litle,little,1
+8994,woulden't,wouldn't,1
+3865,habour,harbour,1
+8600,usefull,useful,1
+8913,wievs,views,2
+6024,plaine,plane,1
+520,airoplane,aeroplane,1
+2737,dring,drink,1
+8731,waiteing,waiting,1
+1275,bourd,bored,2
+5703,ourshelves,ourselves,1
+1826,compariosn,comparisons,3
+4590,jalous,jealous,1
+2042,converzel,conversely,2
+4228,immencely,immensely,1
+812,arrange ment,arrangements,2
+6307,proffesion,profession,2
+2033,contually,continually,2
+8299,tradgy-comic,tragi-comic,2
+1295,brasilesion,brazilian,4
+2015,continouing,continuing,1
+2746,drug dependent,drug-dependent,1
+1669,cises,scissors,4
+4945,mainer,minor,2
+2060,cople,couple,1
+7833,suspens,suspence,2
+403,adabtable,adaptable,1
+1600,cheaky,cheeky,1
+6506,radio-cassete,radio-cassette,1
+3490,folow,follow,1
+5124,millons,millions,1
+4384,infite,infinite,2
+2612,dispise,despise,1
+2733,drest,dressed,3
+2470,dieases,diseases,1
+1564,certianly,certainly,2
+469,affeminate,effeminate,1
+6440,qualty,quality,1
+943,availabe,available,1
+7365,skin heads,skinheads,1
+5498,obselet,obsolete,2
+8002,terrebly,terribly,1
+4669,know one,no one,2
+8997,wraine,reign,4
+5210,more stricters,stricter,6
+8134,thouth,thought,2
+3443,fire place,fire-place,1
+2255,decicions,decisions,1
+1201,bird nest,birds' nests,3
+2483,diffective,defective,2
+3203,experances,experiences,2
+3484,folclore,folklore,1
+4881,lowes,loves,1
+4638,kaleidescope,kaleidoscope,1
+6276,probablly,probably,1
+2774,eachother,each other,1
+4479,intensions,intentions,1
+139,luckly,luckily,1
+550,allright,alright,1
+3999,heartrendering,heartrending,2
+6556,realiced,realised,1
+1863,comppared,compared,1
+6481,quiete,quite,1
+1350,buissnes,business,3
+859,assistent,assistant,1
+7805,surcure,secure,2
+4622,jubulation,jubilation,1
+8799,weeckend,weekend,1
+4756,lef,lesson,4
+528,alcaholic,alcoholic,1
+5534,octapus,octopus,1
+2664,divils,devils,1
+632,aniversary,anniversary,1
+7832,suspecious,suspicious,1
+1311,brieff,brief,1
+2645,distinwished,distinguished,2
+8757,was starting,started,7
+34,cen,certainly,6
+1473,caraful,careful,1
+8590,upseted,upset,2
+7061,screw driver,screwdriver,1
+3566,frandely,friendly,3
+4897,lunur,lunar,1
+1778,comanded,commanded,1
+300,absentive,absentees,3
+754,aproaching,approaching,1
+1125,beinfial,beneficial,4
+864,assosiated,associated,1
+685,aplogised,apologised,1
+1911,conected,connected,1
+6989,sayin,saying,1
+5053,medival,medieval,1
+5196,mooe,more,1
+5539,of cource,of course,1
+4561,iorn,iron,2
+3646,gaie,gay,2
+24,californa,california,1
+8043,the sociaty trends,the trends of society,16
+4822,literatur,literature,1
+4051,highligths,highlights,2
+6422,purpore,purple,2
+5875,peotetoes,potatoes,2
+8178,timeing,timing,1
+2236,dayligt,daylight,1
+7234,shopkeer,shopkeeper,2
+6838,revealling,revealing,1
+481,afte noon,afternoon,1
+1888,concerne,concern,1
+8180,tipical,typical,1
+5299,nationaly,nationally,1
+4656,kioche,kiosk,3
+7676,sttrugle,struggle,2
+850,assesment,assessment,1
+919,auful,awful,1
+6353,propect,prospect,1
+6688,relavent,relevant,2
+2710,dowe,drove,2
+8812,well biult,well-built,3
+3191,expairy,expiry,1
+7484,souvineirs,souvenirs,2
+3864,habby,hobby,1
+4503,interpritation,interpretation,1
+8493,unforunately,unfortunately,1
+1533,caurt,court,1
+209,scotman,scotchman,2
+8507,unhuppy,unhappy,1
+3272,facinated,fascinated,1
+3362,faver,favour,2
+7505,specimans,specimens,1
+3153,excxept,except,1
+5016,mastes,masters,1
+6836,revange,revenge,1
+4697,ladys,ladies,2
+2052,cookings,cooking,1
+2436,devorce,divorce,1
+8030,thaughts,thoughts.,2
+4255,impractia,impractical,2
+5592,onn,own,1
+5921,persentage,percentage,1
+7196,shair,share,2
+2166,criticizm,criticism,1
+7115,self confident,self-confident,1
+8858,whater,water,1
+5764,paralells,parallels,2
+2958,enjoyfull,joyful,3
+3449,fisching,fishing,1
+4337,indebtness,indebted,3
+6500,racketters,racketeers,1
+3614,fullfill,fulfil,2
+2545,disagreance,disagreement,5
+6251,prisen,prison,1
+6486,quistion,question,1
+2335,depature,departure,1
+2130,cousine,cousin,1
+8158,thrughout,throughout,1
+3908,hapiness,happiness,1
+2887,embelishing,embellishing,1
+5799,partie,party,2
+5117,million air,millionaire,2
+167,norwegian,norwegians,1
+4674,knowledde,knowledge,1
+4747,leasure,leisure,1
+6998,sccsfull,successful,4
+1253,bord,bored,1
+7536,spontaneos,spontaneously,3
+1436,camed,came,1
+1706,clein,client,3
+901,atractes,attracts,2
+8176,tim,time,1
+2108,councellin,counselling,2
+8449,undersand,understand,1
+5550,offten,often,1
+8756,was said,told,7
+5894,perhapse,perhaps,1
+3213,explaine,explain,1
+4589,jagaur,jaguar,2
+1331,brougth,brought,2
+7733,sucsesfull,successful,3
+982,bagon,bacon,1
+552,allthat,all that,1
+2062,copticle,coptic,2
+7527,splended,splendid,1
+4305,inconveniency,inconvenience,1
+5582,one day,one-day,1
+1920,confortable,comfortable,1
+5391,niet,knit,2
+2788,eazily,easily,1
+1395,bussines,business,2
+1957,consentrat,concentrated,3
+5410,no smoke,no smoking,3
+3702,gest,guests,2
+5524,occured,occurred,1
+1892,concider,consider,1
+2120,cource,course,1
+4640,kan,can,1
+3370,favrit,favourite,3
+818,arrid,arrived,2
+4125,hte,the,2
+7422,som,some,1
+5401,ninghty,ninety,2
+4994,many moneys,a lot of money,9
+4362,individuu,individual,2
+5360,nerveus,nervous,1
+5115,miljeu,milieu,1
+5682,other wise,otherwise,1
+2879,embarrasing,embarrassing,1
+688,apolgie,apologies,2
+1956,consede,concede,1
+3770,gorgious,gorgeous,1
+1040,beame,beam,1
+5779,parenthasis,parenthesis,1
+4297,inconcievable,inconceivable,2
+4379,infalib,infallible,3
+7691,studiing,studying,1
+6794,resmoserbl,responsible,5
+1986,consits,consisted,3
+5580,one's self,oneself,3
+2614,dispol,disposal,2
+4505,interprt,interpret,1
+7267,sicologist,psychologist,3
+4953,make ups,make-up,2
+4043,hierachial,hierarchal,2
+6435,qarraling,quarrelling,3
+7897,systeme,system,1
+4954,maked,made,2
+913,attentin,attention,1
+2322,demokrats,democrats,1
+7492,spashel,special,4
+31,capa,capitalism,6
+1375,buryal,burial,1
+4490,interfers,interferes,1
+8073,therfor,therefore,2
+6819,resqued,rescued,1
+6654,reflectioning,reflecting,3
+4086,home land,homeland,1
+2048,conviniant,convenient,2
+4562,irganized,organized,1
+4548,invertd,inverted,1
+8311,train station,railway-station,6
+1450,can'nt,can't,1
+3049,establism,establishments,5
+5656,ordenary,ordinary,1
+254,venize,venice,1
+6138,possiply,possibly,1
+946,avaliable,available,2
+6419,purper,purple,2
+3468,flaggerbasted,flabbergasted,3
+4150,husbund,husband,1
+6448,quarelled,quarreled,2
+4246,importand,important,1
+4247,importante,important,1
+7989,tendancy,tendency,1
+2999,envolved,involved,1
+3894,handicaped,handicapped,1
+5537,odn,done,3
+2943,eney,any,2
+2575,discrace,disgrace,1
+290,aboundant,abundant,1
+1290,brak,break,1
+6414,purchage,purchase,1
+696,appart,apart,1
+6853,rhythmn,rhythm,1
+1933,congrigation,congregation,1
+3257,exuseme,excuse me,2
+7135,sence,sense,1
+7258,shud,shut,1
+811,arrang,arrange,1
+939,avaelable,available,1
+4709,lang,land,1
+7645,strech,stretch,1
+7152,sepch,speak,4
+4099,horriful,horrible,3
+761,apselutely,absolutely,2
+7528,splendide,splendid,1
+6093,pollutations,pollutions,2
+2284,deffinition,definition,1
+8114,thorougly,thoroughly,1
+6182,preceeding,preceding,1
+3845,guees,guess,1
+9034,your's,yours,1
+6103,ponted,pointed,1
+235,t shit,t-shirt,2
+4734,lauth,laugh,1
+8505,unhonourable,dishonourable,3
+5077,meny,many,1
+8618,vacination,vaccination,1
+5636,oppurtunities,opportunities,1
+7040,scient,science,2
+8385,turbacolosis,tuberculosis,4
+163,norwaygian,norwegian,2
+4345,independant,independent,1
+9024,yoman,yeoman,1
+7610,stomac,stomach,1
+6939,sagatious,sagacious,1
+1159,bescuts,biscuits,2
+1821,como,common,2
+1983,consisits,consists,1
+4441,inplications,implications,1
+4824,litlle,little,1
+2046,convienience,convenience,1
+7730,sucessive,successive,1
+7931,tea pot,teapot,1
+3303,fall down,fell down,1
+4038,hidrolic,hydrolic,1
+4208,imediate,immediate,1
+7565,standy,standing,3
+3324,familier,familiar,1
+8930,wisdome,wisdom,1
+3458,fisk,fish,1
+7167,sergant,sergeant,1
+6605,recipt,receipt,1
+1389,businesss,business,1
+1442,campaignes,campaigns,1
+6570,rebutal,rebuttal,1
+2611,dispell,dispel,1
+6972,sathon,southern,4
+453,advicers,advisers,1
+5505,obvisicly,obviously,3
+5658,ordinaire,ordinary,2
+6222,presumptous,presumptuous,1
+6340,promonotory,promontory,1
+4376,infact,infected,3
+504,agricalture,agriculture,1
+5294,narno,narrow,2
+14,autum,autumn,1
+6891,romane,roman,1
+6256,prisoners camps,prison camps,3
+4769,lettur,letter,1
+7325,sincerily,sincerely,1
+4708,landguage,language,1
+8924,will have gone,would go,9
+3453,fishingboats,fishing boats,1
+5293,narcotica,narcotics,1
+3661,garantie,guarantee,2
+7665,strucked,struck,2
+8220,to meet,of meeting,5
+1237,boared,bored,1
+1675,citty,city,1
+1073,becourse,because,2
+327,accidet,accident,1
+3122,excause me,excuse me,1
+6231,prevaded,pervaded,2
+6917,runing,running,1
+785,are coming,come,7
+8119,thoughout,throughout,1
+3930,hard working,hard-working,1
+3309,falses,forces,3
+8427,unavailble,unavailable,1
+4809,lisence,license,2
+6759,representives,representatives,2
+3623,fundation,foundation,1
+1429,calour,colour,1
+656,antartic,antarctic,1
+8011,terryfying,terrifying,1
+4678,knowlege,knowledge,1
+2007,contened,contented,1
+1714,climatoligists,climatologists,1
+2931,endeed,indeed,1
+3284,faintfully,faithfully,2
+7320,sincearly,sincerely,2
+4135,humly,humbly,1
+1738,coald,cold,1
+8678,very fine,very well,4
+1222,blaks,blacks,1
+1289,bradcastin,broadcasting,2
+4932,magnicisant,magnificent,3
+2126,couse,because,3
+887,atendance,attendance,1
+7145,senseably,sensibly,2
+1523,catakoguin,cataloguing,2
+2586,disencourage,discourage,2
+2257,decif,deciphered,6
+3534,formost,foremost,1
+2020,continured,continued,1
+1008,barcelor,bachelor,2
+3989,healty,healthy,1
+1935,coniten,content,2
+8735,waitting,waiting,1
+794,arery,arteries,4
+1482,carelesly,carelessly,1
+2395,desparate,desperate,1
+8302,traffic lights,traffic-lights,1
+2623,dissapeard,disappeared,3
+2232,dauther,daughter,2
+8539,unpolitely,impolitely,2
+6325,programms,programmes,1
+1399,bustrip,bus trip,1
+2855,eleiminatio,elimination,2
+7678,stu,structurilisation,14
+7957,tecniques,techniques,1
+2216,dammage,damages,2
+546,allowds,allows,1
+6290,proceding,proceeding,1
+5004,marons,maroons,1
+4717,las,last,1
+7081,seargen,sergeant,3
+6743,repeparan,refreshment,7
+1428,calors,colours,2
+7710,substince,subsistence,3
+4749,leav,leave,1
+6097,poluted,polluted,1
+4100,horrow,horror,1
+2772,dysentry,dysentery,1
+8231,to seat,to sit,2
+7074,sea side,seaside,1
+3645,fysically,physically,2
+6771,requres,requires,1
+949,aviabl,available,3
+8599,usedf,used,1
+4848,logarih,logarithm,2
+5782,parhaps,perhaps,1
+6604,reciprocel,reciprocal,1
+5388,next door,nextdoor,1
+5595,oparates,operate,2
+8819,well known,well-known,1
+2172,critisism,criticisms,2
+1761,collaberating,collaborating,1
+3048,establise,established,2
+3389,feind,find,1
+79,frensh,french,1
+1916,conferance,conference,1
+2550,disapointmen,disappointment,2
+1710,cleva,clever,2
+3051,estimed,esteemed,2
+8742,wantings,wants,3
+5966,phenonenon,phenomenon,1
+7082,seariously,seriously,1
+7137,sencibility,sensibility,1
+3935,harmonous,harmonious,1
+8374,tuck shop,tuck-shop,1
+7495,speack,speak,1
+3630,furcher,future,4
+2720,drasticly,drastically,2
+7737,suddely,suddenly,1
+4421,innecessary,unnecessary,1
+3054,etheral,ethereal,1
+1808,committe,committee,1
+2967,enomosly,enormously,2
+7836,suspition,suspicion,1
+8854,what soever,whatsoever,1
+3407,few food,little food,6
+3072,every one's,everyone's,1
+8566,untl,until,1
+4229,immensly,immensely,1
+1967,consercutively,consecutively,1
+4069,hobbie,hobby,2
+1937,connectivie,connectives,2
+7250,show ground,show-ground,1
+752,aproach,approach,1
+1382,busdrivers,bus drivers,1
+5010,marvells,marvels,1
+3822,gred,greedy,2
+6628,recqur,recquired,3
+2224,darlin,darling,1
+8241,to use,using,6
+7856,swiming,swimming,1
+1411,byc,bicycle,4
+2407,destinct,distinct,1
+7429,some times,some time,1
+1437,cameleon,chameleon,1
+1758,coings,coins,1
+8373,tuagh,taught,3
+4558,invits,invites,1
+1787,comftable,comfortable,2
+8198,to compare,of comparing,5
+106,i've been,i went,6
+2707,doutb,doubt,2
+2548,disapoint,disappoint,1
+937,auxillary,auxiliary,1
+1801,commisioner,commissioner,1
+2628,dissapointing,disappointing,2
+5842,peany,penny,1
+2045,convicks,convicts,1
+3131,excersing,exercising,3
+7138,sencible,sensible,1
+5483,nust,must,1
+279,able bodied,able-bodied,1
+183,polve,pole,1
+8313,traints,traits,1
+234,swizzerland,switzerland,1
+1580,champaings,champagne,3
+1997,containg,containing,2
+526,alarm clock,alarm-clock,1
+5723,overge,revenge,3
+5180,monapaloy,monopoly,3
+5381,neverthless,nevertheless,1
+8229,to repair,for repairing,5
+3232,exquiset,exquisite,2
+1097,beffor,before,2
+2762,dulture,culture,1
+4804,linolium,linoleum,1
+2526,diminsh,diminish,1
+7785,suports,supports,1
+3399,femile,female,1
+8898,whould,would,1
+2986,entierly,entirely,2
+4766,letely,lately,1
+8100,thinkin,thinking,1
+8833,wepons,weapons,1
+3170,exessively,excessively,1
+3780,govermenta,governmental,2
+4631,juridictio,jurisdiction,2
+1367,buriel,burial,1
+6351,propably,properly,2
+2757,du,do,1
+8805,weekened,weekend,1
+881,at the skilness,to this skill,8
+3311,falsh,false,1
+8593,upwill,uphill,1
+6788,reservoire,reservoir,1
+5798,particulaur,particular,1
+8412,uglyness,ugliness,1
+1781,comden,condemn,2
+4901,luxuriouses,luxurious,2
+977,baden,pardon,3
+3913,happends,happens,1
+7148,senture,centre,2
+7019,school days,schooldays,1
+3787,governemts,governments,2
+2672,docters,doctors,1
+6542,reacieved,received,3
+5976,photocamera's,cameras,6
+4843,loadstone,lodestone,2
+107,i've realized,i realise,5
+2002,contasined,contained,1
+2742,droped,dropped,1
+4499,interpart,interpretation,7
+7776,supertious,superstitious,3
+9014,yeard,yard,1
+602,amusments,amusements,1
+1876,comunities,communities,1
+1506,cary,carry,1
+6962,sanatary,sanitary,1
+6005,pinturesque,picturesque,1
+6077,poited,pointed,1
+692,aposit,opposite,3
+3102,exageration,exaggeration,1
+55,dutschman,dutchman,1
+1958,consentrate,concentrate,1
+3032,escuse,excuse,1
+7190,severly,severely,1
+2691,door step,door-step,1
+884,atash,attache,3
+1807,committ,commit,1
+7335,singulaur,singular,1
+1149,beni,beneficial,6
+4171,igntion,ignition,1
+4267,improvment,improvement,1
+1079,becuse,because,1
+3183,existant,existent,1
+2996,envitation,invitation,1
+826,artifical,artificial,1
+7668,structur,structures,2
+825,articals,articles,2
+1064,becase,because,1
+7900,table clothes,tablecloths,2
+7559,stadions,stadiums,2
+7687,studens,students,1
+6269,privite,private,1
+6527,rapings,rapes,3
+8329,travells,travels,1
+4612,joing,join,1
+7101,seel,seal,1
+7667,structu,structure,2
+6777,resarc,research,2
+3639,futhe,further,2
+7217,shirvered,shivered,1
+2544,disagreable,disagreeable,1
+3052,estroundinarilly,extraordinary,7
+3118,excaggerated,exaggerated,1
+5024,matriiix,matrix,2
+189,reasearch,research,1
+8922,will be,is,6
+1680,civilations,civilizations,2
+6822,restauranteur,restaurateur,1
+2554,disappreaving,disapproving,2
+2740,drizzyling,drizzling,1
+3006,epidemi,epidemic,1
+1478,carefull,careful,1
+2584,discusse,discuss,1
+7812,surmer,summer,1
+7643,streangth,strength,1
+5747,paintaking,painstaking,1
+6915,runed,ran,3
+5222,mostley,mostly,1
+2644,distibutio,distribution,2
+626,angell,angel,1
+2112,countrie's,country's,2
+5742,pai,pay,1
+3073,every people,everybody,6
+2556,disaprove,disapprove,1
+7773,supersticious,superstitious,1
+5392,niether,neither,2
+7228,shop assistant,shop-assistant,1
+8998,writen,written,1
+1106,beging,beginning,3
+1736,clumzy,clumsy,1
+1298,breacking,breaking,1
+4366,induvidual,individual,1
+35,chrismas,christmas,1
+5326,necessarely,necessarily,1
+5997,pieceful,peaceful,2
+2051,conviniently,conveniently,1
+7426,some thing,something,1
+653,answed,answer,1
+1457,candidats,candidates,1
+5087,meterological,meteorological,1
+827,artificiell,artificial,2
+3653,galleroy,gallery,1
+6393,psysically,physically,1
+3971,headdacke,headache,2
+1402,butchellor,bachelor,3
+3758,good looking,good-looking,1
+4372,inestability,instability,1
+1938,connecto,connection,2
+5771,parcels paper,paper parcels,8
+7464,sory,sorry,1
+633,anlaysi,analysis,3
+4440,inosence,innocence,2
+5480,nurves,nerves,1
+1322,brodern,broaden,2
+6177,prcessin,processing,2
+7173,seriousless one,not serious ones,9
+6258,prisonners,prisoners,1
+5203,moraly,morally,1
+4471,intelectuals,intellectuals,1
+6849,rhuematism,rheumatism,2
+7186,setuation,situation,1
+1119,behavious,behaviour,1
+4989,manupulating,manipulating,1
+974,bad mannered,bad-mannered,1
+619,anaylsis,analysis,2
+6337,promisse,promise,1
+3649,galeey,gallery,2
+2422,developement,development,1
+6919,rurler,ruler,1
+2769,duy,day,1
+2340,dependancy,dependency,1
+6925,rythms,rhythms,1
+992,ballott,ballot,1
+7923,tasit,tacit,1
+8019,thander,thunder,1
+1634,choise,choose,1
+5884,percenger,passenger,3
+1307,bretheren,brethren,1
+4880,lovly,lovely,1
+4814,listen to,listening to,3
+4494,interisting,interesting,1
+3436,finincial,financial,1
+7515,spended,spent,3
+8612,utilisising,utilizing,3
+4648,khole,whole,1
+8029,thaugh,thought,2
+3269,facilitys,facilities,2
+4328,increasi,increase,1
+3156,executted,executed,1
+4504,interprited,interpreted,1
+2169,critisise,criticise,1
+132,jappan,japan,1
+8706,volantary,voluntary,1
+7378,slih,silhouettes,9
+1439,campagn,campaign,1
+4414,inlargement,enlargement,1
+1016,barried,buried,2
+3195,expecially,expecially,0
+8088,thiews,thieves,2
+7577,statu,statue,1
+4151,hy,hundred,6
+1679,civilation,civilization,2
+166,norwegen,norwegian,2
+8714,voor,for,2
+5784,parlamentarism,parliamentarism,1
+1946,conquring,conquering,1
+8525,unluck,unlucky,1
+2344,deppreciation,depreciation,1
+2949,enimes,enemies,2
+8360,trousher,trousers,2
+4980,mantain,maintain,1
+6979,sattle,settled,2
+4869,losseing,losing,2
+478,afriad,afraid,2
+4794,lightend,lit,5
+8316,tranpotation,transportation,2
+6181,precausion,precautions,2
+8813,well built,well-built,1
+8953,woist,worst,1
+1225,blanquetts,blankets,3
+3160,exellent,excellent,1
+5002,mariing,marrying,2
+6322,proglam,programme,3
+3601,frugel,frugal,1
+2439,diagrammaticaally,diagrammatically,1
+8148,through out,throughout,1
+4967,maner,manner,1
+5235,mouning,moaning,1
+5231,motorcycls,motorcycles,1
+284,aboo,about,2
+4829,littel,little,2
+8772,water borne,water-borne,1
+2303,delicous,delicious,1
+4775,lewel,level,1
+8783,watter,water,1
+3620,functuions,functions,1
+264,a lone,alone,1
+29,canadean,canadian,1
+618,analsis,analysis,1
+62,enlish,english,1
+1737,cntra,central,2
+1688,clase,class,1
+1557,certaince,certainty,2
+5981,phsycologically,psychologically,2
+3589,frience,friends,2
+2006,contempted,contented,2
+581,americanicized,americanized,2
+6694,reletivs,relatives,2
+3290,faitfully,faithfully,1
+229,swedesh,swedish,1
+202,scoth,scot,1
+8023,thankyou,thank you,1
+468,affacted,affected,1
+7813,surmountin,surmounted,2
+8942,withought,without,2
+804,arn't,aren't,1
+6907,rsemblin,resembling,2
+8571,unwelcomed,unwelcome,1
+6562,reas,researches,6
+7925,taudle,daudle,1
+8365,truley,truly,1
+1579,chambre,chamber,2
+945,availiable,available,1
+355,achei,achievement,7
+3358,faught,fought,1
+7065,sculture,sculptures,2
+3637,furture,future,1
+2650,distruction,destruction,1
+1044,beark,break,2
+8093,thiner,thinner,1
+6188,predidice,prejudice,2
+5288,naging,nagging,1
+8545,unsatifatory,unsatisfactory,2
+2301,deliberatl,deliberately,2
+5126,minature,miniature,1
+6944,saizer,scissors,5
+660,anually,annually,1
+8696,visite,visit,1
+8550,unsf,unsafe,2
+810,arrainged,arranged,1
+4602,jeprodise,jeopardize,4
+6346,proofes,proofs,1
+192,roma,rome,1
+1700,clearical,clerical,1
+6117,posession,possession,1
+3031,errounous,erroneous,2
+4649,kille,kill,1
+3026,erlyer,earlier,2
+5367,nesse,necessary,5
+1475,carear,career,1
+8247,toat,tooth,2
+3802,grand father,grandfather's,3
+4103,horse racings,horse-racing,2
+2900,emmitted,emitted,1
+4163,idealy,ideally,1
+3938,has'nt,hasn't,2
+4095,horified,horrified,1
+6086,politition,politician,2
+3318,fameous,famous,1
+5769,paraphenalia,paraphernalia,1
+8753,was happen,had happened,4
+8272,tortises,tortoises,1
+7743,sueing,suing,1
+5675,orkestra,orchestra,2
+6776,resar,research,3
+3871,hadent,hadn't,2
+2935,endochrine,endocrine,1
+1297,breackfast,breakfast,1
+1547,censorsored,censored,3
+5736,oxi,oxygen,4
+7044,sciet,society,2
+3510,forbitten,forbidden,2
+6813,responsibilitys,responsibilities,2
+3732,glitering,glittering,1
+7722,succesfully,successfully,1
+7103,seemes,seems,1
+2898,emmidiatly,immediately,3
+5739,pacience,patience,1
+7849,swedich,swedish,1
+5098,mid ages,middle-aged,5
+3827,grewing,growing,1
+4545,invalueable,invaluable,1
+3438,finised,finished,1
+7259,shure,sure,1
+6404,punishements,punishments,1
+345,accuratley,accurately,2
+4168,idividualistic,individualistic,1
+1514,cassete-recorder,cassette-recorder,1
+1709,clerly,clearly,1
+7677,stu,structure,6
+2449,diciplin,discipline,2
+5953,petroil,petrol,1
+1590,charcing,charging,1
+6033,plasing,pleasing,1
+2237,dead end,dead-end,1
+1866,compromize,compromise,1
+7539,sport car,sports car,1
+1753,coffee house,coffee-house,1
+6144,postpoining,postponing,1
+8606,usuea,usual,2
+4956,making damage to,damaging,11
+5099,mid night,midnight,1
+7892,synthoms,symptoms,3
+6655,refleted,reflected,1
+5928,personalert,personality,3
+4730,laughted,laughed,1
+2633,dissappears,disappears,1
+5040,mecanic,mechanic,1
+3194,expecial,especially,3
+6903,rouint,routine,2
+733,appriciated,appreciated,1
+2092,couble,couple,1
+7736,sud,sad,1
+1657,ciger,cigar,1
+3142,excitment,excitement,1
+7279,signfiture,signature,2
+4872,lottry,lottery,1
+5985,physican,physician,1
+5554,oftem,often,1
+4906,ly,living,5
+8112,thorght,thought,1
+3546,fortunatly,fortunately,1
+8923,will have,would be,6
+8206,to get,together,4
+637,annonced,announced,1
+8615,vaccins,vaccines,1
+2150,creap,creep,1
+690,apoligised,apologised,1
+8130,thouse,those,1
+6316,profitting,profiting,1
+5523,occure,occur,1
+3088,evey thing,everything,2
+4405,inicial,initials,2
+7028,schoolstudents,school students,1
+7060,screems,screams,1
+1616,child hood,childhood,1
+4423,innefficien,inefficient,2
+1500,cartaines,curtains,2
+5503,obviosly,obviously,1
+7721,succesfull,successful,2
+302,absolutly,absolutely,1
+3821,greatnes,greatness,1
+6627,recquired,required,1
+1690,class mate,classmate,1
+1621,chillie,chilli,1
+2396,desparately,desperately,1
+8875,whia,what,2
+5354,neighbourgs,neighbours,1
+301,absolity,absolutely,3
+1720,clodes,clouds,2
+3507,forbided,forbade,2
+1548,centery,century,1
+7523,spical,special,2
+7051,scool,school,1
+3978,headegge,headache,3
+1191,bilt,built,1
+2069,corpol,corporal,2
+8344,tride,tired,3
+8194,to belong,of belonging,5
+1067,becaused,because,1
+1301,break down,breakdown,1
+7771,superfical,superficial,1
+5659,ordinarilly,ordinarily,1
+8061,theis,these,2
+6885,rock's contest,rock concert,4
+7062,scribling,scribbling,1
+6237,previo,previous,2
+6111,poretry,poetry,1
+5277,mutch,much,1
+1613,chiep,cheap,2
+3064,everibody,everybody,1
+590,amnne,manner,3
+612,analised,analysed,1
+7192,sexty,sixty,1
+2384,desigines,designs,2
+4087,home town,home-town,1
+1218,black board,black-board,1
+4035,heuritic,heuristics,2
+1425,caffe,cafe,1
+8492,unfortuneately,unfortunately,1
+7790,suppies,supplies,1
+3046,essy,easy,1
+5836,pavillion,pavilion,1
+2852,electrisity,electricity,1
+458,aerea,area,1
+477,aford,afford,1
+8797,wedensday,wednesday,2
+1498,cars',cars,1
+1553,cercumstances,circumstances,1
+4565,irrelavent,irrelevant,2
+1504,carttens,curtains,3
+286,abou,about,1
+6149,pothetous,potatoes,3
+5034,meassurement,measurement,1
+7681,stuart,steward,3
+723,appology,apology,1
+1029,batchler,bachelor,3
+5199,moore,more,1
+6679,rehersals,rehearsals,1
+292,above mentioned,above-mentioned,1
+3483,foat,foot,1
+5608,opinon,opinion,1
+8711,vomite,vomit,1
+4101,horse back,horseback,1
+6158,poverity stricken,poverty-stricken,2
+5033,meassure,measure,1
+7376,slided,slid,2
+5141,miscelaneous,miscellaneous,1
+5642,optained,obtained,1
+2970,enou,encouragement,9
+7418,soley,solely,1
+6139,possition,position,1
+2982,enthousiastely,enthusiastically,5
+7327,sinciatory,sincerely,5
+392,activiteit,activity,3
+2847,electoric,electric,1
+7405,so what,somewhat,2
+1219,blackbroad,blackboard,2
+6421,purpole,purple,1
+3044,espessialy,especially,3
+6767,requesed,requested,1
+3343,faroan's,pharaoh's,5
+5528,occuring,occurring,1
+391,activeties,activities,1
+5690,ouful,awful,2
+1897,concieve,conceive,2
+7862,swimmingpools,swimming pools,1
+6497,rabbies,rabies,1
+2399,desperatly,desperately,1
+7546,sprinkel,sprinkle,2
+7140,senery,scenery,1
+3558,four bedroom,four-bedroomed,3
+6278,probanl,probably,2
+4904,luxuroys,luxurious,2
+2785,easyly,easily,1
+1890,concetrat,concentrate,2
+4963,manage ment,management,1
+1626,chit-chating,chit-chatting,1
+6742,repell,repel,1
+2916,enames,enemies,2
+7460,sorrounded,surrounded,1
+2403,despiseable,despicable,2
+1205,biscuids,biscuits,1
+2103,coulorful,colourful,2
+7090,secreats,secrets,1
+5315,necassery,necessary,2
+1575,chalange,challenge,2
+669,any way,anyway,1
+4203,imagration,immigration,2
+1164,betwen,between,1
+2184,crusifixion,crucifixion,1
+1274,bounsing,bouncing,1
+5107,mids,midst,1
+791,areaes,areas,1
+4924,maena,means,3
+4234,immigrationproblem,immigration problem,1
+4311,inconviente,inconvenient,3
+7581,steadyly,steadily,1
+5232,motorcykle,motorcycle,1
+3066,everone,everyone,1
+5520,occuppied,occupied,1
+3068,every body,everybody,1
+3396,femail,femail,0
+7202,sheck,check,1
+8852,whash,wash.,2
+5849,pecon,bacon,2
+7608,stoled,stole,1
+7088,secondery,secondary,1
+2356,descides,decides,1
+8576,up down,upside down,4
+3585,freshten,freshen,1
+5668,origen,origin,1
+6809,responsable,responsible,1
+796,argueing,arguing,1
+7814,surntered,certain,7
+5707,out dated,outdated,1
+6762,repressentative,representative,1
+6766,reputance,reputation,4
+5759,pantient,impatient,3
+2268,declaratrions,declarations,1
+3045,espiceally,especially,2
+695,apparant,apparent,1
+5023,matricular,matriculation,4
+5632,oppresser,oppressor,1
+963,bacalaureat,baccalaureate,2
+4569,irrevelant,irrelevant,2
+3642,futur,future,1
+247,ulimately,ultimately,1
+5037,measurments,measurements,1
+2351,desappeared,disappeared,1
+6786,reserch,research,1
+7716,succeedes,succeeds,1
+4400,ingratitoode,ingratitude,2
+7746,sufficien,sufficient,1
+5633,oppsit,opposite,2
+4636,kahki,khaki,2
+435,adolesence,adolescence,1
+8216,to listen,for listening,5
+5065,meltingpot,melting pot,1
+5342,neglegant,negligent,2
+8463,undividuall,individually,2
+5641,optain,obtain,1
+1088,beeing,being,1
+2105,coulour,colour,1
+4975,mann,man,1
+4164,idear,idea,1
+6296,proceso,processor,2
+3652,galery,gallery,1
+8049,theaf,thief,2
+4480,intercin,internecine,3
+7014,scholl,school,1
+291,above menchened,above-mentioned,4
+6914,rumous,rumours,1
+6170,practic,practice,1
+8660,ve,view,2
+2372,desease,diseases,2
+4721,lastest,last,3
+5859,penalty to death,death penalty,11
+4383,infinate,infinite,1
+8782,watler,water,1
+4443,inpulse,impulse,1
+6596,recieve,receive,2
+7244,should have been,should be,7
+2782,easly,easily,1
+7599,stil,still,1
+1644,chould,should,1
+3590,friend in the school,schoolfriend,19
+2110,countin,counting,1
+7734,sucsesive,successive,2
+5931,personell,personnel,2
+798,arguement,arguments,2
+8411,uggeste,suggested,2
+6294,proceedure,procedure,1
+7237,short tern,short-term,2
+8979,worser,worse,1
+8680,vicepresident,vice-president,1
+5012,mashine,machine,1
+2834,egnineers,engineers,2
+4859,lonley,lonely,2
+610,anable,enable,1
+4456,instantanous,instantaneous,1
+1234,boarding-shcools,boarding schools,3
+8751,was combing,combed,7
+7964,telecomunication,telecommunication,1
+4933,magnific,magnificent,3
+7838,suttle,subtle,1
+7640,stratigicall,strategically,2
+4720,last minute-passenger,last-minute passenger,2
+4624,juelerious,jewellery,7
+2512,diing,dying,1
+7353,sittind,sitting,1
+5820,past times,pastimes,2
+8345,trie,try,2
+9041,youy,you,1
+3094,evrey,every,2
+1499,cars toys,toy cars,7
+5666,orginizes,organizes,1
+8300,traditionaly,traditionally,1
+5052,mediteranean,mediterranean,1
+6659,refrection,reflection,1
+7789,suppermarket,supermarket,1
+1970,consern,concern,1
+2606,disobyed,disobeyed,1
+1004,bann,ban,1
+6201,pregnent,pregnant,1
+7053,scources,sources,1
+7869,symetry,symmetry,1
+1789,comit,commit,1
+1021,basen,based,1
+2012,contin,contains,2
+4212,imerged,emerged,1
+6609,recived,received,1
+3739,godby,good-bye,3
+4988,manufactury,factory,5
+8907,widesread,widespread,1
+4360,indivial,individuals,3
+6791,resipient,recipient,1
+7286,siknis,sickness,3
+4802,lindas,linda's,1
+3792,gowernments,governments,1
+2712,down town,downtown,1
+5047,medicenes,medicines,1
+3329,family's love,love of the family,17
+1765,collegue,colleague,1
+2687,donstrea,downstream,2
+8904,wide spread,widespread,1
+6745,repitition,repetition,1
+2883,embarressed,embarrassed,1
+3361,faultfree,fault-free,1
+8149,throughly,thoroughly,1
+2097,could'nt,couldn't,2
+3150,excurtion,excursion,1
+6315,proffits,profits,1
+389,acsertaine,ascertained,3
+3288,fairl,fairly,1
+1877,comunity,community,1
+3634,furt,future,3
+5031,mayby,maybe,1
+988,balkony,balcony,1
+7347,sissors,scissors,1
+8004,terriby,terribly,1
+3014,equiped,equipped,1
+1173,bicekets,biscuits,4
+8266,tonage,tonnage,1
+9016,years old,year-old,2
+8834,wer,were,1
+4686,kye,key,2
+3885,hampher,hamper,1
+5975,photocamera,camera,5
+7966,televison,television,1
+5708,out going,outgoing,1
+7315,simplisity,simplicity,1
+2258,deciphring,deciphering,1
+2992,envents,events,1
+3274,facte,face,1
+8387,turistical,tourist,5
+144,meditterranean,mediterranean,1
+731,appriceate,appreciate,2
+7470,sould,should,1
+3106,examin,examine,1
+5139,mis-management,mismanagement,1
+6734,renove,removed,2
+1632,choesen,chosen,1
+2773,each one,everyone,4
+3835,grown up people,grown-up people,1
+8846,wgic,which,2
+961,babyes,babies,1
+7475,sourt,sort,1
+5318,neccesary,necessary,2
+2896,emitet,emitted,2
+6850,rhum,rum,1
+5060,meenwhal,meanwhile,3
+6722,remenber,remember,1
+1456,candidat,candidate,1
+8117,thoug,though,1
+5085,mesuem,museum,3
+2305,deligthed,delighted,2
+4520,intially,initially,1
+1184,big head,big-head,1
+993,balons,balloons,2
+8559,unt,aunt,1
+5353,neighboor,neighbour,1
+6653,reflectioned,reflected,3
+8514,univercitys,universities,3
+6002,pini,picnic,2
+5425,noisness,noise,3
+2452,diciplined,disciplined,1
+3147,exctiting,exciting,1
+3722,glaced,glared,1
+5036,measurment,measurement,1
+4672,knowleage,knowledge,1
+4073,hoens,honest,3
+8761,wasch,wash,1
+5885,percieve,perceive,2
+5551,offull,awful,3
+4002,heavey,heavy,1
+5590,onirous,onerous,1
+7011,schildren,children,1
+4436,inocuous,innocuous,1
+743,approximatly,approximately,1
+261,a good instruction,good instructions,3
+1517,cassett,cassette,1
+2063,corce,course,2
+3250,extreemly,extremely,2
+7412,sociaty,society,1
+8850,whants,wants,1
+4031,hero warshipt,hero-worshipped,5
+8332,treatement,treatment,1
+8312,trainned,trained,1
+8440,unconvice,unconvinced,2
+8969,woried,worried,1
+7728,sucess,success,1
+6890,roller skates,roller-skating,4
+3121,excamples,examples,1
+219,scottsman,scotsman,1
+2799,econimic,economic,1
+6016,pityfully,pitifully,1
+3202,experance,experience,2
+3383,feeled,felt,3
+5900,perles,pearls,2
+891,athmosphere,atmosphere,1
+1543,cellebration,celebration,1
+1558,certaincy,certainty,1
+8698,visitid,visited,1
+3482,fo,for,1
+6579,reccommending,recommending,1
+2653,disturbences,disturbances,1
+2625,dissapoint,disappoint,2
+7601,stircase,staircase,1
+2819,effeciently,efficiently,1
+6178,pre university,pre-university,1
+7693,studing,studying,1
+4299,inconvenciont,inconvenient,2
+4,annie house's,annie's house,4
+6321,proggres,progress,2
+3465,fixt,fixed,2
+3797,graduat,graduate,1
+1438,camerades,comrades,2
+6559,realy,really,1
+5868,penomenon,phenomenon,1
+141,marokko,morocco,3
+4056,hihg,high,2
+5874,peopple,people,1
+4131,human kind,humankind,1
+204,scotich,scottish,2
+1502,cartin,curtains,3
+3976,headeak,headache,4
+8587,uppertunity,opportunity,2
+5650,oranisation,organization,2
+2793,eccepted,accepted,1
+5378,never the less,nevertheless,2
+6150,potiotes,potatoes,3
+4626,juis,juice,2
+1251,borch,brush,3
+904,atribute,attribute,1
+3163,exention,extension,2
+3579,frend,friend,1
+8899,whow,how,1
+8208,to go,going,4
+4559,invlvin,involving,2
+606,an hourse,a horse,2
+6009,pit's lactrine,pit latrines,4
+6982,saught,sought,1
+3712,girl friend,girlfriend,1
+7091,secretely,secretly,1
+4663,knews,news,1
+4026,herberts,herbert's,1
+562,althoug,although,1
+2285,definat,definite,2
+6194,prefere,prefer,1
+630,angryed,angry,2
+7245,shouldda,shoulder,2
+5187,monopol,monopoly,1
+6057,ploblems,problems,1
+6241,priched,preached,2
+3893,handi-caped,handicapped,2
+1537,celebate,celebrate,1
+9017,yeasterday,yesterday,1
+7177,serport,support,2
+119,irland,ireland,1
+1925,confusin,confusing,1
+6333,projets,projects,1
+736,approched,approached,1
+5213,morney,morning,3
+5956,phamplet,pamphlet,2
+3028,ernest,earnest,1
+2539,directory board,board of directors,15
+944,availble,available,1
+1116,behavier,behaviour,2
+4743,learne,learn,1
+8607,usuful,useful,1
+1565,certinity,certainty,2
+1873,comunication,communication,1
+8622,vaiable,variable,1
+4142,hundrets,hundreds,1
+12,austrailia,australia,1
+4931,magnefision,magnificent,5
+6417,purpal,purple,2
+1421,cabine,cabin,1
+8422,un happy,unhappy,1
+1377,bus stop,bus-stop,1
+5067,memorys',memories,3
+640,anomolies,anomalies,1
+3115,exaustate,exhausted,4
+724,apportunity,opportunity,1
+5312,near by,nearby,1
+2971,enougf,enough,1
+966,bachler,bachelor,2
+8008,terrouble,terrible,2
+3556,fotos,photos,2
+2492,differents,differences,2
+2319,deminish,diminish,1
+4005,hedace,headache,2
+3447,first hand,first-hand,1
+6168,practacing,practising,2
+3741,goegraphicaly,geographically,3
+3305,falled,fell,3
+3212,explainations,explanations,1
+8881,whitch,which.,2
+8273,tortyre,torture,1
+930,authentity,authenticity,2
+8255,toilett,toilet,1
+1151,benifished,beneficial,5
+3675,gares,gears,2
+788,are making,will make,7
+4350,independene,independence,1
+7420,solmn,solemn,1
+7591,sterio,stereo,1
+3030,errase,erase,1
+6496,qwite,quite,1
+7162,seprat,separate,2
+1336,buatiful,beatiful,1
+5510,ocassionaly,occasionally,3
+1496,carring,caring,1
+8182,tireing,tiring,1
+8172,tigit,ticket,3
+8054,theese,these,1
+4139,hundrd,hundred,1
+6416,purety,purity,1
+5026,mauby,maybe,2
+8349,triumpet,trumpet,1
+1043,beared,bearing,3
+5722,overfi,overfill,2
+7522,spesified,specified,1
+5138,mirrow,mirror,1
+5930,personel,personnel,1
+7977,temperatuer,temperature,2
+4027,here by,hereby,1
+809,arragment,arrangement,2
+1617,childeren,children,1
+7926,tax free,duty-free,5
+6663,refressing,refreshing,1
+513,air-journeies,air journeys,3
+1598,cheak,cheek,1
+6324,programm,programme,1
+100,i'll,i,3
+3008,epidemie,epidemic,1
+3365,favorit,favourite,2
+2734,drewe,drew,1
+4242,imployed,employed,1
+2561,disccus,discuss,2
+3114,exause me,excuse me,1
+7509,spectoscopy,spectroscopy,1
+2091,cottege,cottage,1
+3544,fortunaly,fortunately,2
+1734,clumb,climb,1
+3535,forrest,forest,1
+7319,simptoms,symptoms,1
+1730,clouths,clothes,2
+1256,bornas,bonus,2
+5824,paternaty,paternity,1
+1722,close down,close-down,1
+273,aan,and,2
+1655,cigaret,cigarette,2
+7850,sweeming,swimming,2
+7707,subsiquent,subsequent,1
+5059,meens,means,1
+9026,yor,your,1
+6350,propably,probably,1
+7991,teoretical,theoretical,1
+6329,progrese,progress,1
+8190,to be,of being,5
+2016,continous,continuous,1
+5347,neibhour,neighbour,2
+8497,unfurtunately,unfortunately,1
+7356,siventy,seventy,1
+1562,certance,certainty,3
+6246,primeaval,primaeval,2
+470,affence,offence,1
+2501,difficuties,difficulties,1
+4974,manknd,mankind,1
+4264,improove,improve,1
+8627,vallies,valleys,2
+962,babys,babies,2
+5606,opertunity,opportunity,2
+4834,livelyhood,livelihood,1
+671,anymals,animals,1
+5039,meay,may,1
+5421,noicey,noticed,2
+433,adolecence,adolescence,1
+1202,birds nest,birds' nests,2
+26,cambrigde,cambridge,2
+5189,monotinous,monotonous,1
+5794,particuala,particular,2
+5858,penaltry,penalty,1
+7933,teached,be taught,7
+2859,elevent,eleven,1
+2066,cornes,corners,1
+8801,weedend,weekend,1
+6469,questionning,questioning,1
+3972,headdeck,headache,4
+1356,bulleting,bulletins,1
+174,oktober,october,1
+2349,desacription,description,1
+120,israil,israel,1
+3994,heart broken,heartbroken,1
+3829,grocerers,grocer's,2
+3724,gladful,glad,3
+3078,everybodys,everybody's,1
+6014,pittying,pitying,1
+7013,schol,schools,2
+2557,disasterous,disastrous,1
+4224,immediatl,immediately,2
+6197,preferrably,preferably,1
+8131,thousend,thousand,1
+5153,misterious,mysterious,1
+8,assisie,assisi,1
+6839,revelent,relevant,3
+5265,musea,museums,3
+4855,lones,loans,2
+1962,consentration,concentration,1
+938,avacado,avocado,1
+3667,garary,gallery,3
+6565,reasinabl,reasonably,2
+2428,deversity,diversity,1
+6951,saleman,salesman,1
+8776,water skiing,water-skiing,1
+807,aroung,around,1
+7699,stuward,steward,1
+8333,treatened,threatened,1
+33,caribean,caribbean,1
+5504,obviousl,obvious,1
+1052,beatufull,beautiful,3
+7363,skilfoll,skilful,2
+8391,turned off,turn off,2
+3082,everyons,everyone's,2
+4258,impressario,impresario,1
+6127,posponed,postponed,1
+7382,sliped,slipped,1
+8159,thruth,truth,1
+5679,orther,order,2
+5731,owercrowded,overcrowded,1
+3897,handle bars,handle-bars,1
+8298,tradgedy,tragedy,1
+6173,prarie,prairie,1
+1672,citicens,citizens,1
+4107,hotel's owner,hotel-owner,3
+2505,diffuculty,difficulty,1
+4911,machinaries,machinery,4
+2552,disappeares,disappears,1
+3342,farmous,famous,1
+3208,expirience,experience,1
+3218,explanotory,explanatory,1
+6789,resevoir,reservoir,1
+6397,publiclly,publicly,1
+3730,glauds,clouds,2
+9035,your self,yourself,1
+2494,differert,different,1
+6451,quarintine,quarantine,1
+8604,usful,useful,1
+4941,maiby,maybe,2
+5699,oure,our,1
+8626,vairous,various,2
+4132,humer,humour,2
+3104,examiantion,examination,2
+530,alchol,alcohol,1
+5673,origionally,originally,1
+5715,over night,overnight,1
+1317,broad casting,broadcasting,1
+4634,juse,juice,2
+3408,fewe,few,1
+436,adres,address,2
+2098,could not,cannot,5
+7049,scolarships,scholarships,1
+3059,eventully,eventually,1
+2129,coused,caused,1
+8561,untidyness,untidiness,1
+1325,brokje,have broken,7
+505,agricelture,agriculture,1
+8885,whitout,without,2
+4591,jalouseie,jealousy,4
+5883,percecution,persecution,1
+37,commonmarket,common market,1
+6921,ruteless,ruthless,1
+5042,mechanials,mechanicals,1
+1819,communtty,community,1
+476,afirmativily,affirmatively,2
+1879,comvinience,convenience,2
+5854,peice,pieces,3
+4760,leiusure,leisure,1
+6309,proffesionalists,professionals,5
+4315,inconviniences,inconveniences,1
+6437,quage,quake,1
+7978,temperatur,temperature,1
+3721,givs,gives,1
+1832,comparrison,comparison,1
+2054,coombed,combed,1
+3747,goldern,golden,1
+4188,iluminated,illuminated,1
+6272,probabal,probable,2
+6845,rgister,register,1
+7981,temperition,temperature,4
+8141,threathen,threaten,1
+2430,devided,devised,1
+3423,figuars,figures,2
+4948,maintined,maintained,1
+2913,emprisoned,imprisoned,1
+1833,compartiment,compartment,1
+3991,hearded,heard,2
+5201,mooved,moved,1
+1355,bulle,bully,1
+2699,double cross,double-cross,1
+3493,fondamental,fundamental,1
+4149,hurted,hurt,2
+4712,languge,language,1
+7022,school mates,schoolmates,1
+1671,citadell,citadel,1
+4619,jous,juice,4
+3333,famley,family,2
+4358,indiuidual,individual,1
+7329,sincierly,sincerely,2
+1999,contanct,constant,2
+5246,much strict,very strict,4
+4506,interrested,interested,1
+8920,wild lifes,wildlife,2
+1238,boaring,boring,1
+1009,barchellor,bachelor,2
+9036,youre,your,1
+527,albe,able,2
+5292,narative,narrative,1
+3287,fairitale,fairytale,1
+5653,orchester,orchestra,2
+1810,committments,commitments,1
+8526,unluckly,unluckily,1
+7525,spiritous,spirituous,1
+1401,butcheler,bachelor,3
+7437,somewone,someone,1
+3481,flyently,fluently,1
+652,ansver,answer,1
+6375,provisionaly,provisionally,1
+1085,beef steak,beefsteak,1
+3877,hair style,hair-style,1
+2696,doubb,doubtless,5
+2825,effet,effect,1
+980,bady,bad,1
+4540,inushiols,initials,4
+7774,superstitous,superstitious,1
+848,asscuesed,excused,4
+2846,electon,election,1
+7361,skair,scare,3
+3693,generataed,generated,1
+3144,excouse me,excuse me,1
+6695,relevaant,relevant,1
+2064,corderoy,corduroy,1
+1484,carfully,carefully,1
+99,i'ld,i'd,1
+8951,wodka,vodka,1
+8281,tought,thought,1
+259,yucatan's,yucatans,1
+4227,immence,immense,1
+8822,well off,well-off,1
+580,amentities,amenities,1
+27,cambrige,cambridge,1
+2053,cooly,coolly,1
+233,sweedish,swedish,1
+3956,have never seen,never saw,8
+2578,discret,discrete,1
+15,becu,because,3
+578,amblares,ambulance,4
+7712,sububan,suburban,1
+5489,obediant,obedient,1
+8366,trully,truly,1
+4820,literar,literary,1
+2669,do not likely know,are unlikely to know,10
+6592,reciepts,receipts,2
+1179,bicyl,bicycle,2
+2854,elegable,eligible,2
+3055,evedent,evident,1
+3740,godbye,good-bye,2
+5044,medeaval,mediaeval,2
+6283,probibilities,probabilities,1
+4249,importat,important,1
+2070,correcte,correct,1
+1078,becus,because,2
+7969,tell tailing,telltaling,2
+8362,truble,trouble,1
+2808,edmittet,admitted,2
+5770,paraschutist,parachutist,1
+7322,sincerealy,sincerely,1
+6040,pleace,pleased,2
+932,automized,automated,2
+7661,strictist,strictest,1
+2176,crokery,crockery,1
+8815,well dress,well-dressed,3
+7514,speial,special,1
+7139,sended,sent,3
+2966,enogh,enough,1
+7096,secutereal,secretarial,4
+2434,devine,divine,1
+5362,nesaccary,necessary,4
+2692,door way,doorway,1
+3511,forcast,forecast,1
+996,bananna,banana,1
+4768,leting,letting,1
+7253,showes,shows,1
+146,michael,michael's,2
+6330,progresion,progression,1
+1344,builet,built,1
+5217,mortgauged,mortgaged,1
+5847,peasents,peasants,1
+6106,popsinger,pop singer,1
+3813,grave yard,graveyard,1
+7294,siluhete,silhouette,4
+4112,hourned,honoured,3
+1424,cafee,cafe,1
+3450,fishies,fishes,1
+3678,gasolin,gasoline,1
+4406,inicials,initials,1
+7490,spanish,spaniards,4
+2768,dutchess,duchess,1
+2680,dolby-system,dolby system,1
+5096,mianl,mainly,3
+2310,delishius,delicious,3
+3241,exspell,expel,2
+6405,punishments to,punishment for,3
+5316,neccasary,necessary,2
+4349,independend,independent,1
+6300,prodi,producing,4
+6952,salery,salary,1
+8195,to chat,chatting,7
+310,accademically,academically,1
+8650,varioty,variety.,2
+7236,shoppings,shopping,1
+4754,leed,lead,1
+7414,soffa,sofa,1
+1697,cleaness,cleanliness,3
+1566,certon,curtain,3
+4633,jus,juice,3
+6572,recauses,resources,4
+8400,two and two,in pairs,10
+2479,difence,difference,3
+3677,garried,carried,1
+5652,orcestra,orchestra,1
+6295,procesin,processing,2
+5499,obserbed,observed,1
+3581,frened,friend,2
+425,admireing,admiring,1
+3197,expelienced,experienced,1
+6692,relegious,religious,1
+3840,guardien,guardian,1
+8634,vandalists,vandals,3
+5979,phototes,potatoes,3
+2995,enviroment,environment,1
+28,canadan,canadian,1
+7944,techinical,technical,1
+5567,olso,also,1
+7141,senes,sense,2
+9021,yersterday,yesterday,1
+8551,unsleep,asleep,2
+6204,prejustices,prejudices,2
+2603,dismis,dismiss,1
+1418,bying,buying,1
+461,aeroplanes',aeroplanes,1
+6608,recive,receiving,4
+421,admiistere,administered,2
+7968,telivision,television,1
+922,aurgueing,arguing,2
+2469,diease,disease,1
+3249,extreamly,extremely,2
+4413,inkevanins,inconvenient,6
+5219,mose,most,1
+57,dutshman,dutchman,1
+4049,high ranking,high-ranking,1
+4109,hotelpersonnel,hotel personnel,1
+430,admiting,admitting,1
+2667,dminished,diminished,1
+3185,existense,existence,1
+4148,hurrly,hurriedly,3
+3985,healhty,healthy,2
+8737,wals,walls,1
+2443,diasease,disease,1
+41,compson-family,compson family,1
+3021,equiry,enquiry,1
+8055,theey,they,1
+442,advantageos,advantageous,1
+8363,trucculent,truculent,1
+4432,innoscence,innocence,1
+2355,descided,decided,1
+4195,imaganation,imagination,1
+3841,guarenteed,guaranteed,1
+36,comminites,communities,2
+8839,werever,wherever,1
+4983,manufactored,manufactured,1
+5171,moen,moan,1
+2607,disonist,dishonest,2
+7175,serounding,surrounding,2
+5710,out spoken,outspoken,1
+7756,suggar,sugar,1
+5355,neighor,neighbours,3
+7924,tast,taste,1
+7377,slighlt,slightly,2
+7087,seconde,second,1
+2948,engoy,enjoy,1
+1296,breackdown,breakdown,1
+3295,faithfuly,faithfully,1
+6636,redundent,redundant,1
+1645,chruch,church,2
+3655,game's rules,the rules of the game,17
+2616,disqoteques,discotheques,2
+4772,levals,levels,1
+5220,moset,most,1
+5876,peotry,poetry,2
+8849,whant,want,1
+5056,meece,mice,2
+6299,proctical,practical,1
+8402,two times,twice,5
+4651,kimona,kimono,1
+1333,bruch,brush,1
+841,aspeat,aspect,1
+4231,immidiate,immediate,1
+2424,developped,develop,3
+6582,receit,receipt,1
+3910,happed,happened,2
+4098,horrable,horrible,1
+2715,draged,dragged,1
+7206,sheeper,cheaper,2
+5825,patethic,pathetic,2
+6319,progerous,progress,3
+2957,enjoyement,enjoyment,1
+4183,illustartio,illustration,3
+4332,increente,incremented,2
+3977,headec,headache,3
+1084,beee,been,1
+8418,umcomfortable,uncomfortable,1
+2688,dont,didn't,3
+2963,ennemies,enemies,1
+6226,pretented,pretend,2
+2938,enemes,enemies,1
+5873,peopl,people,1
+6799,resoved,resolved,1
+8766,wasit,waist,2
+491,aggreement,agreement,1
+6717,remebre,remember,3
+2684,dommage,damage,2
+5376,neuclar,nuclear,2
+2397,desperat,desperate,1
+7047,scketch,sketch,1
+3308,falsch,false,2
+3390,fel,field,2
+5645,optimmistic,optimistic,1
+4230,immidate,immediate,2
+8296,tradditional,traditional,1
+3539,forseeable,foreseeable,1
+5831,patner,partner,1
+3480,fluorishes,flourishes,2
+5387,nexst,next,1
+2944,engalfed,engulfed,1
+6612,reckonized,recognized,2
+8335,treathening,threatening,2
+8867,when ever,whenever,1
+5991,pickeral,pickerel,1
+3180,exicted,excited,2
+8280,tought,taught,1
+6349,prooved,proved,1
+2585,disegregation,desegregation,1
+1019,barth,bath,1
+7239,shorther,shorter,1
+7272,siezed,seized,2
+6578,reccommended,recommended,1
+3588,frieind,friend,1
+2360,descisions,decisions,1
+4868,lossed,lost,3
+5272,musiums,museums,1
+5761,paradise like,paradise-like,1
+7433,somedy,somebody,2
+7999,teroists,terrorists,2
+4126,hudge,huge,1
+4458,insteret,interest,2
+2562,discite,discrete,2
+1107,begining,beginning,1
+4556,invitated,invited,2
+549,allright,all right,1
+1662,cind,kind,1
+4047,higest,highest,1
+7943,techers,teachers,1
+6912,ruhbarb,rhubarb,2
+1708,clergy men,clergymen,1
+151,napoli,naples,3
+7744,sufferage,suffrage,1
+2502,diffrent,different,1
+7563,standars,standards,1
+5168,modiefie,modified,2
+7951,techolgy,technology,2
+6784,resently,recently,1
+5585,onece,once,1
+4165,ideia,idea,1
+5198,moones,moons,1
+1563,certian,certain,2
+1494,carries',carries,1
+5530,occurrean,occurrence,3
+3909,happaly,happily,1
+7909,takeen,taking,3
+4806,liquified,liquefied,1
+3357,fattness,fatness,1
+6956,sallary,salary,1
+6824,restorts,resorts,1
+8516,universaty,university,1
+8675,vertarn,veteran,3
+1918,confince,convince,1
+7718,succer,soccer,1
+8541,unredstood,understood,2
+502,agressions,aggressions,1
+8548,unscroupulous,unscrupulous,1
+7600,stimic,stomach,3
+3801,grammophon,gramophone,2
+499,agreable,agreeable,1
+5161,mize,mice,1
+8532,unpleasent,unpleasant,1
+4557,invitection,invitation,2
+200,scientic,scientific,2
+8434,unconcience,unconscious,5
+5183,moning,morning,1
+4621,joyfull,joyful,1
+636,annoied,annoyed,1
+1217,black-bord,blackboard,2
+5987,physologically,physiologically,1
+2856,eleminate,eliminate,1
+2078,corrigated,corrugated,1
+8123,thougth,thought,2
+7557,stabil,stable,2
+8397,twentie's,twenties,1
+7116,self conscious,self-conscious,1
+8598,useage,usage,1
+4719,last minute,last-minute,1
+2412,deterent,deterrent,1
+5045,medecine,medicine,1
+205,scotisch,scottish,2
+428,admist,amidst,2
+1893,conciderable,considerable,1
+7392,sluggishing,sluggish,3
+2802,economtric,econometric,1
+265,a other,another,1
+8309,tragical,tragic,2
+5778,paren'ts,parents,1
+4757,lefe,life,1
+7837,suted,suited,1
+7775,supertendent,superintendent,2
+8872,whereever,wherever,1
+7879,sympthom,symptom,1
+8988,would'nt,wouldn't,2
+5716,over protecting,over-protecting,1
+1412,byci,bicycle,4
+4570,irreversable,irreversible,1
+2478,diete,diet,1
+7324,sincerety,sincerity,1
+3487,folk songs,folksongs,1
+2324,demostrated,demonstrated,1
+1386,business like,businesslike,1
+5963,pharos,pharaohs,2
+7486,sovreignty,sovereignty,1
+2041,convertable,convertible,1
+5860,pendantic,pedantic,1
+7802,suprisingly,surprisingly,1
+3717,girles',girls',1
+5457,noticible,noticeable,2
+8416,umberalla,umbrella,2
+8155,throut,through,2
+3587,frieght,fright,1
+2433,deviding,dividing,1
+8050,thear,there,2
+5330,necesscay,necessary,2
+6017,pivting,pivoting,1
+7875,symphathetic,sympathetic,1
+3200,expencive,expensive,1
+6248,priminister,prime minister,3
+3300,fale,fail,2
+4194,im,information,9
+6959,samber,sober,2
+2323,demostated,demonstrated,2
+6468,questionned,questioned,1
+5785,parnter,partner,2
+6412,pupuils,pupils,1
+6577,reccommendation,recommendation,1
+3673,gardon,garden,1
+4666,knoldelge,knowledge,3
+7130,semi conscious,semi-conscious,1
+5667,origal,original,2
+7478,southen,southern,1
+4455,insta,install,2
+7622,stopp,stop,1
+6495,qwickly,quickly,1
+49,denish,danish,1
+8081,thhi,this,2
+2827,efficienc,efficient,1
+5371,nessesity,necessity,3
+7485,souviner,souvenir,2
+3919,happenned,happened,1
+1705,cleen,clean,1
+1847,complainings,complaints,3
+8864,wheather,whether,1
+5149,misrable,miserable,1
+1857,complety,completely,2
+2039,convers,converted,3
+4411,initiativ,initiative,1
+60,engish,english,1
+5458,noticieabl,noticeable,2
+8351,trokeic,trochaic,3
+5688,ou,out,1
+5263,murdring,murdering,1
+6018,pla,pleasure,5
+7644,streat,straight,4
+4222,immeadetly,immediately,4
+3538,forsee,foresee,1
+5348,neiboughs,neighbours,4
+2980,enterred,entered,1
+7651,strenght,strength,2
+1746,cocounut,coconut,1
+1326,broom thick,broomstick,2
+890,athlette,athlete,1
+7745,sufficent,sufficient,1
+7831,suscriber,subscribers,2
+8795,wecckend,weekend,2
+2705,doughtful,doubtful,2
+3201,expensives,expenses,2
+7628,straigt,straight,1
+7615,stomatch,stomach,1
+8648,varietes,varieties,1
+8305,traffik,traffic,1
+3192,expanion,expansion,1
+5204,mordern,modern,1
+4925,magasines,magazines,1
+650,anshante,ancient,4
+1154,benifits,benefits,1
+4302,inconvenice,inconvenience,2
+8549,unseizingly,unceasingly,3
+396,actualy,actually,1
+7452,sophistikated,sophisticated,1
+5225,mothing,nothing,1
+3749,golf place,golf course,5
+539,all ways,always,2
+3469,flamable,flammable,1
+8596,usatisfactory,unsatisfactory,1
+5915,perpose,purpose,1
+6461,querrel,quarrel,1
+7904,tak,take,1
+5477,numbee,number,1
+2976,enrerg,energy,2
+5207,more naughty,naughtier,8
+4467,inteference,interference,1
+3862,habbit,habit,1
+8035,the all,all the,6
+4326,increas,increases,2
+7290,sillpary,slippery,4
+8282,tougt,thought,2
+8554,unsufficient,insufficient,1
+5472,nowdays,nowadays,1
+4039,hiegh,high,1
+1917,confermation,confirmation,1
+1771,collosal,colossal,2
+400,acused,accused,1
+3762,goodbue,good-bye,2
+2468,didnt,didn't,1
+4001,heavely,heavily,1
+8442,undelicate,indelicate,1
+770,aquire,acquire,1
+2498,difficient,difficult,3
+6203,prejedice,prejudice,1
+5377,neuclear,nuclear,1
+5923,perserverance,perseverance,1
+7719,succes,success,1
+6844,rferenc,reference,2
+2701,doubtfull,doubtful,1
+449,advertice,advertise,1
+4527,intrest,interest,1
+7873,symfori,symphony,4
+4681,koins,coins,1
+4323,incouraged,encouraged,1
+7316,simplity,simplicity,2
+4664,knicknacks,knickknacks,1
+405,adaquately,adequately,1
+755,apropriate,appropriate,1
+231,sweed,swede,2
+8424,unabiguous,unambiguous,1
+6102,poney,pony,1
+6814,responsibillity,responsibility,1
+870,assymnetry,assymmetry,1
+5313,necasery,necessary,3
+6134,possibiliti,possibility,1
+1414,bycle,bicycle,2
+8036,the botton of 'play',the 'play' button,15
+17,bolsjevik,bolshevik,1
+6154,pouims,poems,2
+2666,diy,die,1
+2516,diliberately,deliberately,1
+3282,failes,fails,1
+6332,projeccts,projects,1
+6499,racianal,racial,2
+5781,parfect,perfect,1
+6072,poim,poems,2
+4286,incenveniences,inconvenience,2
+7398,smilling,smiling,1
+5413,nocked,knocked,1
+1681,civilication,civilization,1
+6012,pitty,pity,1
+7905,takativ,talkative,2
+5744,paine,pain,1
+7760,sulmss,slums,3
+8278,totaly,totally,1
+5449,nothwithstanding,notwithstanding,1
+6581,receeded,receded,1
+6641,referance,reference,1
+2621,dissability,disability,1
+3005,epatitis,hepatitis,1
+3966,headace,headache,1
+7955,tecln,technologically,11
+6644,refering,referring,1
+145,metodism,methodism,1
+2728,dreampt,dreamt,1
+5403,nintynineth,ninetyninth,2
+3090,evillness,evilness,1
+6651,reffers,refers,1
+2743,drow,drove,2
+4422,inneed,in need,1
+1615,child birth,childbirth,1
+3643,fw,few,1
+3573,freesing,freezing,1
+282,aboit,about,1
+4048,high heel,high-heeled,3
+4582,it self,itself,1
+8877,whih,which,1
+5373,nessisitates,necessitates,3
+2560,discare,discarded,2
+6303,profer,proffer,1
+388,acrued,accrued,1
+326,accidently,accidentally,2
+1017,barriere,barrier,1
+965,bachalor,bachelor,1
+7765,sunbading,sunbathing,2
+1271,bougt,bought,1
+237,theran,teheran,1
+2465,didn't work,hasn't worked,5
+2565,disconected,disconnected,1
+5426,nomally,normally,1
+4946,maintainance,maintenance,2
+2,amarica,america,1
+5194,mony,many,1
+2954,enjoyabl,enjoyable,1
+7823,surprisedly,surprisingly,3
+5694,oupu,output,2
+5048,medicens,medicines,2
+6942,sailers,sailors,1
+3273,facinating,fascinating,1
+6498,raceism,racism,1
+6079,poletry,poetry,1
+8940,withdrawel,withdrawal,1
+4175,illed,ill,2
+7301,similary,similarly,1
+6119,posible,possible,1
+3993,hearn,earn,1
+1605,cheece,cheese,1
+3803,grand mother's,grandmother's,1
+787,are going,go,7
+2803,econonically,economically,1
+2704,doudtful,doubtful,1
+3364,favori,favourite,3
+1940,connoiseurs,connoisseurs,1
+384,acquantance,acquaintance,1
+6141,possitively,positively,1
+5693,ount,aunt,1
+4736,lawers,lawyers,1
+8471,unee,unemployment,8
+3391,feld,felt,1
+125,jamil,jamil's,2
+1286,brachin,branching,2
+3888,hand out,hand-out,1
+1850,complection,complexion,2
+2204,curwed,curved,1
+1795,comitting,committing,1
+6434,pyramides,pyramids,1
+1840,competation,compensation,2
+6750,repling,a reply,5
+6997,scci,science,4
+7017,school childrens,schoolchildren,2
+7548,sprotsman,sportsman,2
+3074,every person,everybody,7
+7476,soussage,sausage,2
+6790,resinded,rescinded,1
+5383,newcommers,newcomers,1
+6010,pittoresque,picturesque,2
+5276,mutalate,mutilate,1
+6995,scarthly,scarcely,2
+3957,have not worked,does not work,6
+6220,prestigeously,prestigious,3
+3887,hand crafs,handicrafts,2
+886,atempting,attempting,1
+5587,onehour,one hour,1
+443,advantagous,advantageous,1
+5270,musiems,museums,2
+3723,glacnc,glance,2
+4205,imature,immature,1
+5517,occation,occasion,1
+4819,literaly,literally,1
+7871,symettry,symmetry,2
+7800,suprised,surprised,1
+6301,productes,products,1
+4241,imple,implies,2
+1270,bottun,button,2
+1750,coeficien,coefficient,2
+5980,phsychological,psychological,1
+8474,unemcompassable,unencompassable,1
+7374,sleepness,sleepiness,1
+2533,dinnig,dining,2
+8523,unkonfortable,uncomfortable,2
+5655,orckhestra,orchestra,1
+8469,unecessar,unnecessary,2
+4801,limons,lemons,1
+1929,congradulate,congratulate,1
+4691,labourous,laborious,2
+3326,familiy,family,1
+4485,interesting of,interested in,5
+5729,owen,oven,1
+7026,schools',school's,2
+4594,jaundise,jaundice,1
+8793,weathy,wealthy,1
+8237,to talk,of talking,5
+7817,surper,supper,1
+2476,dieseases,diseases,1
+2589,disiable,desirable,2
+4454,inspite of,in spite of,1
+8067,theoritical,theoretical,1
+249,uropian,european,2
+3155,executiv,executive,1
+789,are reading,read,7
+1343,builded,built,3
+1163,bettween,between,1
+2892,embrassment,embarrassment,2
+5202,mor,more,1
+7021,school mate,schoolmate,1
+2914,emptyed,emptied,1
+8811,welknown,well-known,2
+6669,regined,regained,1
+2622,dissapear,disappear,2
+2163,criminous,criminal,3
+8111,thoose,those,1
+5267,museams,museums,1
+4671,knowldge,knowledge,1
+4382,inferiour,inferior,1
+2663,divid,divide,1
+8695,visable,visible,1
+8485,unforseen,unforeseen,1
+4774,levely,level,1
+844,assambly,assembly,1
+4791,lifed,lived,1
+1829,comparitiv,comparative,2
+7512,speeking,speaking,1
+1592,chated,chatted,1
+6883,robbot,robot,1
+8447,underdeped,underdeveloped,4
+8733,waiting room,waiting-room,1
+4530,intresting,interesting,1
+6727,remnders,reminders,1
+6691,relegion,religion,1
+3429,finantial,financial,1
+7965,telephon,telephone,1
+7675,ststio,station,2
+248,unfortunetly,unfortunately,2
+3137,exchange-programm,exchange programme,2
+2124,courtecy,courtesy,1
+6723,reminde,remind,1
+1258,borring,boring,1
+7050,scole,scolded,2
+760,aproximatly,approximately,2
+914,attmited,admitted,3
+5536,oddysey,odyssey,2
+9013,yau,you,1
+376,acordanc,accordance,2
+8630,valubale,valuable,2
+1110,begon,bacon,2
+2314,delt,dealt,1
+3421,figthing,fighting,2
+9002,writters,writers,1
+8949,woch,watch,2
+6603,recipitant,recipient,2
+5175,moleculs,molecules,1
+7275,sight seeing,sightseeing,1
+2168,critising,criticising,2
+8602,useing,using,1
+5937,persu,persuade,3
+5624,oppinions,opinions,1
+6560,realy,rely,1
+5455,noticeble,noticeable,1
+8857,whated,wanted,2
+845,assasinate,assassinate,1
+5968,phisical,physical,1
+4444,inquir,inquire,1
+7134,sence,?sense,2
+8530,unnotie,unnoticed,2
+2791,eccelarater,accelerator,3
+3816,greanty,guarantee,5
+8578,up sat down,upside-down,5
+8667,vegtebels,vegetables,4
+7441,sommerdays,summer days,2
+1072,becon,bacon,1
+663,anxiouse,anxious,1
+1472,caracteristics,characteristics,1
+6700,relieable,reliable,1
+2119,couraged,courage,1
+9012,yate,yacht,3
+6680,reine,reign,2
+4182,illnes,illness,1
+3034,esentially,essentially,1
+5154,mistery,mystery,1
+8935,wisky,whisky,1
+1006,barbeque,barbecue,1
+7632,stranch,strange,2
+1884,concequence,consequence,1
+1785,comersial,commercial,2
+4997,marallow,marvellous,4
+1633,choise,choice,1
+2127,couse,cause,1
+474,affraid,afraid,1
+8364,truely,truly,1
+336,accompaning,accompanying,1
+7313,simplecity,simplicity,1
+8946,wo,which,4
+3299,falceness,falseness,1
+8025,that visits,to visit,4
+5337,needy of,in need of,4
+2723,drawing room,drawing-room,1
+4078,hollidays,holidays,1
+1513,cassete,cassette,1
+6852,rhythmatically,rhythmically,2
+5437,noone,no one,1
+7972,tembles,temples,1
+2726,dreamin,dreaming,1
+544,allone,alone,1
+7885,synbol,symbol,1
+5603,opertinities,opportunities,3
+7504,speciman,specimen,1
+3572,freenesses,freedoms,5
+7727,suceessfully,successfully,1
+5870,peopal,people,2
+5882,percecuted,persecuted,1
+902,atraction,attraction,1
+1777,colow,coloured,4
+5442,norveigan,norwegian,3
+7949,techniquies,techniques,1
+7251,show off,show-off,1
+599,amouts,amounts,1
+4080,hollyday,holiday,2
+3969,headak,headache,3
+5951,pesently,presently,1
+1241,body gaurd,bodyguard,3
+1172,bicals,bicycle,3
+8096,thingk,think,1
+2487,differant,different,1
+4961,man made,man-made,1
+4513,interupted,interrupted,1
+1024,basket ball,basket-ball,1
+19,britany,brittany,1
+6453,quater,quarter,1
+5555,oftenly,aften,3
+7521,spesies,species,1
+2429,devide,divide,1
+7941,teatcher,teacher,1
+8060,theirselves,themselves,2
+2225,darwinisism,darwinism,2
+4365,indivuals,individuals,2
+8580,up side down,upside down,1
+5803,partiularly,particularly,1
+4141,hundrent,hundred,2
+7463,sorrownded,surrounded,2
+6037,playwrite,playwright,3
+6698,releyable,reliable,2
+2513,dilapadated,dilapidated,1
+7305,similtanous,simultaneous,2
+8845,wether,whether,1
+6064,pocket money,pocket-money,1
+1033,baught,bought,1
+2393,desitions,decisions,2
+7394,smail,smile,2
+7797,supprise,surprise,1
+8896,whos,whose,1
+3171,exgjus me,excuse me,3
+7210,sherring,cheering,2
+3108,examinator,examiner,3
+1329,brough,bring,3
+1080,bed room,bedroom,1
+3576,freind,friend,2
+5419,noice,noise,1
+6038,pleace,place,1
+2162,criminalty,criminality,1
+6580,receave,receive,1
+8367,truthfull,truthful,1
+2596,disipline,discipline,1
+5262,murderd,murdered,1
+2252,decession,decision,2
+3806,granduer,grandeur,2
+4861,lonliness,loneliness,1
+1908,condiction,condition,1
+828,as followed,following,6
+3695,geneus,genius,1
+3891,handel,handle,2
+2481,diferents,different,2
+1742,coarte,court,2
+3229,exprence,experience,2
+415,adiquate,adequate,1
+5459,noticsport,noticeable,5
+1408,buzy,busy,1
+110,imagenation,imagination,1
+8439,unconvenient,inconvenient,1
+1968,consering,considering,2
+5369,nessecery,necessary,5
+2741,drog-addicts,drug-addicts,1
+6327,prograss,progress,1
+1221,blak,black,1
+5317,neccassary,necessary,2
+7393,slumdistricts,slum districts,1
+7255,showting,shouting,1
+2313,delligion,delicious,4
+8016,tha,that,1
+8252,togehter,together,2
+1476,careear,career,1
+3518,foreseeabl,forseeable,2
+711,applaused,applauded,1
+2987,entirly,entirely,1
+1631,choes,choose,2
+4398,infuture,in future,1
+7072,sea level,sea-level,1
+6147,potatos,potatoes,1
+6710,reluctancy,reluctant,2
+553,allthough,although,1
+3148,excuce me,excuse me,1
+8102,third world,third-world,1
+2410,detals,details,1
+4635,juseful,useful,1
+8250,todays appearance,appearance today,13
+6068,poetery,poetry,1
+6713,remaind,remind,1
+7506,speciment,specimen,1
+3905,hansum,handsome,3
+6905,rowles,rolls,2
+1769,collission,collision,1
+1190,bihind,behind,1
+5176,moleul,molecul,1
+2836,egyptien,egyptian,1
+8432,unbservently,inobservantly,3
+1567,cetainty,certainly,2
+4482,interduced,introduced,2
+8032,thay,they,1
+4647,kerna,kernel,2
+5620,oppertunaties,opportunities,2
+7297,simia,similar,2
+7865,sylables,syllables,1
+8407,tyranic,tyrannical,3
+8327,travell,travel,1
+462,aeroport,airport,2
+8750,was broken,broke down,8
+1211,bitt,bit,1
+1612,chidren,children,1
+1352,bul,buildings,6
+8189,to avoid,in avoiding,5
+4477,intene,intended,2
+2446,diceide,decide,2
+1252,bord,board,1
+6470,questons,questions,1
+3697,geniva,geneva,1
+253,venetia's,venice's,4
+4377,infacts,in fact,2
+8727,waight,waits,3
+1772,collosus,colossus,2
+5344,negotations,negotiations,1
+2074,correspondanc,correspondence,2
+3644,fysical,physical,2
+2722,drawin,drawing,1
+4058,hime,him,1
+2371,desease,disease,1
+4115,house job,housework,4
+6000,pilicy,policy,1
+6696,releved,relived,1
+5786,parots,parrots,1
+2190,culu,cultures,4
+959,awfull,awful,1
+4696,lady like,lady-like,1
+2829,eficient,efficient,1
+5639,opreciated,appreciated,2
+2897,emmerged,emerged,1
+5984,physicall,physical,1
+2747,drugies,druggies,1
+4408,initiaels,initials,1
+2238,dead setice,death sentence,5
+1273,bounes,bonus,2
+2721,dratically,drastically,1
+836,aske,ask,1
+8217,to listen,of listening,5
+3554,fotograph,photograph,2
+8150,throughly,truly,4
+3217,explaning,explaining,1
+3348,fascilities,facilities,1
+5721,overcommin,overcoming,2
+4982,manufactor,manufacturer,3
+1905,condamned,condemned,1
+5394,nigardly,niggardly,1
+84,gotic,gothic,1
+7288,silhuette,silhouette,1
+4610,jobes,jobs,1
+8871,where ever,wherever,2
+5035,meassures,measures,1
+6615,recognization,recognition,2
+2882,embarress,embarrassed,3
+2794,ecconomical,economical,1
+6648,reffered,refered,1
+824,arthen,anthem,2
+8959,wonderfull,wonderful,1
+4356,indispensible,indispensable,1
+8984,wortte,wrote,2
+5271,musium,museum,1
+2601,dismantals,dismantles,2
+8192,to been,being,5
+7919,taperecorder,tape-recorder,1
+271,a while,awhile,1
+5298,natical,nautical,1
+3804,grand parents,grandparents,1
+1062,beautyfull,beautiful,2
+6674,regreting,regrettable,5
+4537,intteligent,intelligent,2
+2776,ealy,early,1
+8679,vice verca,vice versa,1
+8013,teths,teeth,2
+6308,proffesional,professional,2
+1910,conect,connect,1
+8740,wanderful,wonderful,1
+2981,enterteyned,entertained,2
+7810,surgere,surgery,1
+7075,seaarc,search,2
+1194,bingly,bingley,1
+3963,hea,here,2
+3307,fals,false,1
+6071,poiltry,poetry,2
+4534,introduse,introduce,1
+1834,compased,compared,1
+6420,purpil,purple,2
+3779,goverment,government,1
+2004,contempible,contemptible,1
+1991,constitusion,constitution,1
+745,apprpriat,appropriate,2
+7384,sliping,slipping,1
+6678,rehabilatate,rehabilitate,1
+7042,scientificly,scientifically,2
+8945,wize,wise,1
+4496,internationaly,internationally,1
+4172,ilegally,illegally,1
+7742,sudenly,suddenly,1
+4662,kneeled,knelt,3
+6529,rareley,rarely,1
+611,analagous,analogous,1
+8619,vacinnation,vaccination,2
+1212,bitting,beating,2
+4424,inneficiency,inefficiency,2
+8851,whas,was,1
+3205,experiensed,experienced,1
+2197,curicculum,curriculum,2
+3065,everithing,everything,1
+4679,koffee,coffee,1
+5275,musto,must,1
+307,abundonned,abandon,4
+6171,practicle,practical,2
+2246,deathrate,death rate,1
+1028,batchelor,bachelor,1
+5172,moin,moan,1
+1949,conscientous,conscientious,1
+1995,contageous,contagious,1
+4189,iluminating,illuminating,1
+4688,labortory,laboratory,1
+1268,bottons,buttons,1
+3569,freash,fresh,1
+510,aimeable,amiable,2
+196,scc,scientists,8
+873,aswell,as well,1
+8421,un-luckiest,unluckiest,1
+2955,enjoyabled,enjoyable,1
+160,norwagan,norwegian,2
+5350,neibours,neighbours,2
+3001,eny,any,1
+8386,turistic,touristic,1
+76,finnland,finland,1
+1400,busynes,business,2
+7982,temperment,temperament,1
+3839,guage,gauge,2
+475,afidavit,affidavit,1
+2077,corrext,correct,1
+4723,lastnight,last night,1
+7674,strugling,struggling,1
+3140,excistence,existence,1
+666,any more,any more,0
+1507,carying,carrying,1
+726,appraoc,approach,3
+5356,neouclear,nuclear,2
+7594,stewarddresser,stewardess,4
+7171,seriou,serious,1
+5519,occations,occasions,1
+3004,ep,experimental,10
+885,atatchment,attachment,2
+2071,corrency,currency,1
+5572,omnicent,omniscient,2
+583,ameuter,amateur,3
+5834,pattarns,patterns,1
+3875,haerd,heard,2
+3086,everywher,everywhere,1
+2929,encylopedia,encyclopedia,1
+903,atractive,attractive,1
+7067,se,science,5
+4470,intelectual,intellectual,1
+7755,sugests,suggests,1
+5996,pictehers,picteher's,1
+4010,heefty,hefty,1
+3402,fench,fence,1
+2208,cuttage,cottage,1
+5297,nate,note,1
+7748,suficient,sufficient,1
+420,admendments,amendments,1
+2591,disilliusions,disillusions,1
+5973,phonecall,phone call,1
+4478,intension,intention,1
+2953,enjoured,injured,2
+8368,tryded,was trying,7
+1527,catched,caught,4
+2647,distroey,destroy,2
+5177,momement,moment,2
+1388,business men,businessmen,1
+5743,paied,paid,1
+5046,medicene,medicine,1
+1490,carreer,career,1
+3412,fiedler,fielder,2
+2875,embaressed,embarrassed,2
+3756,good for nothing,good-for-nothing,2
+5191,monstruosities,monstrosities,1
+372,acompanied,accompanied,1
+7652,strenghten,strengthen,2
+444,advatages,advantages,1
+2790,eazy,easy.,2
+7281,significent,significant,1
+658,anty,aunt,2
+1031,battels,battles,2
+4347,independat,independent,2
+3676,garly,gallery,3
+1667,cirtain,certain,1
+4784,lieve,leave,2
+2475,diesease,disease,1
+1768,collegus,colleagues,2
+7498,spearetime,spare time,2
+1522,catain,curtains,3
+8475,unemployement,unemployment,1
+4117,housewifes,housewives,1
+3532,former of,formerly,3
+6175,prblem,problem,1
+6286,problims,problems,1
+5089,mether,mother,1
+2806,ediion,edition,1
+1384,busin,busy,2
+1809,committment,commitment,1
+3285,fainthfully,faithfully,1
+6449,quarelled,quarrelling,4
+8325,transtition,transition,1
+1608,chemestry,chemistry,1
+2950,enimies,enemies,1
+2378,desesperate,desperate,2
+4357,inditement,indictment,2
+5895,perharps,perhaps,1
+1856,completness,completeness,1
+8224,to provide,of providing,5
+7165,sereal,serial,1
+1682,civilition,civilization,2
+8918,wik,week,2
+4074,holded,held,3
+482,after noon,afternoon,1
+5013,masive,massive,1
+8199,to day,today,1
+3129,excercise,exercise,1
+5857,pen friends,pen-friends,1
+316,accesing,accessing,1
+4277,in make,of making,5
+6941,sailer,sailor,1
+4857,longago,long ago,1
+6831,retecen,reticent,2
+1279,bouyant,buoyant,2
+8162,thw,the,1
+6110,porche,porch,1
+6760,representor,representative,5
+3419,fighted,fought,4
+7621,stoped,stopped,1
+127,japanease,japanese,1
+769,aquiese,acquiesce,2
+2566,discorteous,discourteous,1
+501,agression,aggression,1
+4415,inmature,immature,1
+8184,tirering,tiring,2
+1739,coalesed,coalesced,1
+318,accesio,accession,2
+8165,tibits,titbits,1
+5896,perheps,perhaps,1
+8340,trere,there,1
+6624,reconize,recognize,1
+5157,misunderstod,misunderstood,1
+2593,disilusioned,disillusioned,1
+7479,southerer,southern,2
+8394,tuthe,truth,2
+5685,otherhand,other hand,1
+2131,couson,cousin,1
+152,neccesity,necessity,2
+1338,buchelor,bachelor,1
+7156,seperated,separated,1
+5032,mayer,mayor,1
+639,anomalus,anomalous,1
+519,airmaled,airmailed,1
+4899,luxorous,luxurious,2
+6426,pursuaded,persuaded,1
+4752,leaway,leeway,1
+4939,magnifum,magnificent,5
+2792,eccept,except,1
+7948,technics,techniques,3
+8371,tryied,tried,1
+5783,parkers,parker's,1
+2872,embarassing,embarrassing,1
+450,advertisment,advertisement,1
+6493,qurreling,quarrelling,2
+3414,fiest,feast,2
+4089,honey moon,honeymoon,1
+889,atendind,attending,2
+7846,sweared,swore,3
+7489,spair,spare,2
+3776,gouvernment,government,1
+1732,club of fans,fan club,11
+4403,inhygenic,unhygienic,2
+3603,fruitstrees,fruit trees,1
+6503,radient,radiant,1
+7166,serevelate,celebrate,5
+3680,gastly,ghastly,1
+7063,scrupullous,scrupulous,1
+7571,startes,starts,1
+4053,highrised,highrise,1
+4083,holyday,holidays,2
+3476,florish,flourish,1
+3951,have'nt,haven't,2
+5872,peopel,people,2
+3775,gould,gold,1
+5167,modernied,modernized,1
+7604,stirups,stirrups,1
+4191,ilusions,illusions,1
+4240,impedence,impedance,1
+498,agravating,aggravating,1
+5548,officcees,offices,2
+243,turkesh,turkish.,2
+1167,bevereges,beverages,1
+5626,opponant,opponent,1
+4981,manualy,manually,1
+4313,inconviniant,inconvenient,2
+5460,notise,notice,1
+8306,trafi,traffic,2
+7759,suituble,suitable,1
+2337,depeciation,depreciation,1
+3471,flewn,flown,1
+4575,is build,was built,3
+7866,symbal,symbol,1
+7344,siscals,scissors,4
+7635,stranged,strange,1
+1887,concern about,is concerned with,9
+2328,densily,densely,1
+1661,cincinatti,cincinnati,2
+6901,roud,rude,2
+262,a had,have,4
+7857,swimingpool,swimming-pool,2
+1440,campagnes,campaignes,1
+3464,fixe,fix,1
+2525,dimentions,dimensions,1
+7271,sieze,seize,2
+8821,well made,well-made,1
+8847,wh,work,3
+4425,inneshe,initials,6
+8186,tirred,tired,1
+16,big-ben,big ben,1
+4866,loomy,loamy,1
+1366,burglers,burglars,1
+3941,has going on,went,11
+4993,many money,a lot of money,8
+2451,dicipline,discipline,1
+635,annoiance,annoyance,1
+1180,bieing,being,1
+2359,descisions,decision,2
+1587,charachterized,characterized,1
+6099,pomes,poems,2
+6520,raize,raise,1
+5291,naptha,naphtha,1
+2694,dosent,doesn't,3
+3632,furhter,further,2
+7080,seargeant,sergeant,1
+6169,practiaa,practical,2
+6391,psycology,psychology,1
+263,a hostage,hostages,3
+7083,seases,seas,2
+8583,upheavels,upheavals,1
+210,scotsch,scotch,1
+4637,kaind,kind,1
+4052,highranking,high-ranking,1
+7584,stears,stairs,2
+3837,grupes,groups,2
+1518,cassett-part,cassette part,2
+7112,seldome,seldom,1
+1137,belived,believed,1
+6228,prettyer,prettier,1
+8831,wensday,wednesday,2
+4046,higer,higher,1
+8183,tireness,tiredness,1
+8754,was look,looked,6
+1551,centuary,century,1
+4133,humerous,humorous,1
+5386,nexkt,next,1
+4216,imidiatly,immediately,3
+3397,femail,female,2
+6980,saturday's,saturday,2
+2289,definatly,definitely,2
+6725,reminisence,reminiscence,1
+5352,neigbours,neighbours,1
+8588,upplied,applied,1
+3815,gread,great,1
+6428,puten,put,2
+1988,constently,constantly,1
+8785,wayting,waiting,1
+3521,forewerd,forward,2
+3658,ganing,gaining,1
+843,assalts,assaults,1
+4632,jurny,journey,2
+8616,vacency,vacancy,1
+242,turkeish,turkish,1
+571,amasement,amazement,1
+6569,rebuplicans,republicans,2
+6681,reinfore,reinforce,1
+3824,green groser,greengrocer's,4
+3650,galerie,gallery,3
+4220,immagination,imagination,1
+4928,magine,imagine,1
+5365,nessasary,necessary,3
+2300,delemma,dilemma,1
+8702,vistor,visitor,1
+5487,obbortunity,opportunity,2
+1703,cleark,clerk,1
+1213,bittle,brittle,1
+2818,effecient,efficient,1
+3498,footballstadion,football stadium,3
+3410,fictitous,fictitious,1
+8779,wather,water,1
+2930,endeed,ended,1
+7914,talkling,talking,1
+5238,mounth,months,2
+8652,varity,variety,1
+6763,repretation,reputation,2
+5448,nothing for,anything to,4
+2925,encourg,encourage,2
+617,analize,analyze,1
+1239,boast fully,boastfully,1
+849,assertain,ascertain,1
+354,ach,ached,2
+8435,unconcious,unconscious,1
+5835,pauls,paul's,1
+6465,questionaire,questionnaire,1
+4525,intreduce,introduce,1
+3166,exeption,exception,1
+7154,seperat,separate,2
+2521,diliverd,delivered,2
+4581,ist,is,1
+4873,loud mouth,loud-mouth,1
+7920,taperecorders,tape-recorders,1
+8380,tuffness,thoughness,4
+5043,mede,made,1
+1003,banlance,balance,1
+6985,savegery,savagery,1
+4588,jacknife,jackknife,1
+3660,garanteed,guaranteed,1
+5562,old fashioned,old-fashioned,1
+4128,humain,human,1
+535,all ready,already,2
+5926,persnaly,personally,2
+7203,shecked,checked,1
+2627,dissapointedly,disappointedly,2
+9031,youngeist,youngest,1
+363,achitecture,architecture,1
+1236,boardingschools,boarding schools,1
+587,ammounts,amounts,1
+8287,tourisme,tourism,1
+3577,freinds,friends,2
+7992,tequnike,technique,4
+1302,breakedown,breakdown,1
+8964,wonnderful,wonderful,1
+7343,sirtain,certain,2
+8972,worl,world,1
+6855,ribons,ribbons,1
+6087,politray,poetry,3
+679,apartied,apartheid,2
+5309,neads,needs,1
+2217,dammages,damages,1
+2580,discribed,described,1
+2936,endorsment,endorsement,1
+4378,infalable,infallible,2
+1259,borther,bother,1
+3388,feild,field,2
+3193,expartriates,expatriates,1
+5640,opression,oppression,1
+7757,sugger,sugar,2
+385,acquiesence,acquiescence,1
+6161,powerfull,powerful,1
+1593,chatering,chattering,1
+7704,subben,southern,4
+409,additon,addition,1
+5629,oppositie,opposite,1
+8070,there selve,themselves,4
+1511,cassatte,cassette,1
+7553,squized,squeeze,3
+7207,sheeps,sheep,1
+6036,playses,places,2
+4364,indivual,individual,2
+9027,yor's,yours,2
+7549,spsychiatrist,psychiatrist,1
+8954,woked,woken,1
+4896,lunck,lunch,1
+7502,specialy,specially,1
+5268,museaums,museums,1
+6112,porgress,progress,2
+1868,comsume,consume,1
+1342,buglarys,buglaries,2
+8589,uppressed,oppressed,1
+8124,thougth,through,2
+4097,horizont,horizon,1
+8012,testimoniances,testimonies,3
+208,scotland's,scottish,6
+2402,despire,despair,2
+2025,controlable,controllable,1
+7372,sleepery,slippery,2
+2767,dustpin,dustbin,1
+2185,cryed,cried,1
+1477,careffully,carefully,1
+4084,holydays,holidays,1
+6607,recivd,receipt,3
+5853,peice,piece,2
+4119,housholds,households,1
+2358,descision,decision,1
+4298,inconveineant,inconvenient,3
+4106,hosptles,hospitals,3
+5513,occassion,occasion,1
+1065,becaurse,because,1
+8080,thhey,they,1
+2196,cuple,couple,1
+5768,parants,parents,1
+9039,youself,yourself,1
+905,attachement,attachment,1
+2960,enlargd,enlarged,1
+8591,upstair,upstairs,1
+3742,goign,going,2
+5076,mentiond,mentioned,1
+2294,deinish,danish,2
+2497,diffi,different,5
+5660,ored,order,2
+5497,obselescence,obsolescence,1
+7417,sojurn,sojourn,1
+1312,brif,brief,1
+6011,pittsburg,pittsburgh,1
+5889,perevent,prevent,1
+2905,emphasied,emphasised,1
+8820,well looked,good looking,7
+3681,gatherd,gathered,1
+1488,carnt,can't,2
+1952,conse cuence,consequence,2
+5766,parallysis,paralysis,1
+2203,curtion,curtain,2
+5142,miscellanous,miscellaneous,1
+8156,thru,through,3
+2235,dayligh,daylight,1
+8581,up to date,up-to-date,2
+8747,warraty,warranty,1
+1208,bisuts,biscuits,2
+7348,sistem,system,1
+329,accomblish,accomplish,1
+8359,trought,through,2
+5234,mouer over,moreover,3
+7009,scheeks,cheeks,1
+268,a shore,ashore,1
+6568,rebulti,rebuilt,2
+3750,gome,come,1
+5543,ofen,often,1
+2749,drunked,drunk,2
+5916,perposed,proposed,2
+5380,nevers,never,1
+3752,gonne,gone,1
+2947,engineerings,engineers,3
+3470,flawor,flour,3
+1260,bosed,bossed,1
+8683,vience,venice,2
+2895,emited,emitted,1
+1799,comming,coming,1
+3012,equilisatio,equalisation,2
+3707,ggod-liking,good-looking,3
+5166,moderne,modern,1
+224,spanich,spanish,1
+238,thirdy,thirdly,1
+2841,eign,sign,1
+2851,electricty,electricity,1
+4739,layed,lay,2
+4085,hom,home,1
+6778,rescource,resources,2
+8026,thats,that,1
+3838,grussly,scarcely,6
+7593,stetemet,statements,3
+4438,inordered,in order,3
+3568,fraustrated,frustrated,1
+511,aimes,aims,1
+7617,stommac,stomach,2
+799,arguements,arguments,1
+1614,chiken,chicken,1
+5943,persuer,pursuer,1
+8468,uneasyness,uneasiness,1
+1054,beatyful,beautiful,2
+1589,characterissin,characterising,2
+4160,iceskating,ice-skating,1
+1001,bankrobbery,bank robbery,1
+439,adressed,addressed,1
+6359,proplems,problems,1
+3053,estructural,structural,1
+4179,illeterated,illiterate,2
+7780,suplements,supplements,1
+4617,journeies,journeys,2
+6446,quarell,quarrel,2
+6714,rembered,remember,4
+5073,mentaley,mentally,1
+2139,covernements,governments,2
+5763,paralell,parallel,2
+6515,railwayservice,railway service,1
+4252,impossent,imposing,3
+6073,poisenous,poisonous,1
+8320,transfred,transferred,2
+7233,shopkeep,shopkeeper,2
+6505,radio-casset,radio-cassette,2
+6069,poetrie,poetry,2
+5683,otherday,another day,3
+1313,brigthly,brightly,2
+2364,describd,described,1
+1264,bottal,bottle,2
+7159,seperation,separation,1
+5792,participan,participant,1
+4877,lov,low,1
+7770,supercede,supersede,1
+4025,herbert,herbert's,2
+2884,embarrest,embarrassed,4
+2148,crazyly,crazily,1
+5754,pake,beg,4
+6576,reccommend,recommend,1
+108,iev,i've,2
+1233,blusted,burst,4
+6842,revenge thoughts,thoughts of revenge,18
+4798,likl,likely,2
+2880,embarrasment,embarrassment,1
+6508,radio cassette,radio-cassette,1
+8562,untiede,untidy,2
+4738,layable,liable,2
+7488,spaeker,speakers,3
+299,absenses,absences,1
+4088,home work,homework,1
+4870,lossing,losing,1
+8107,thise,these,1
+2281,deffenders,defenders,1
+3852,guied,guide,2
+5841,peacefull,peaceful,1
+907,attemts,attempts,1
+7054,scoutboys,boy scouts,7
+5890,perfum,perfume,1
+1921,confortably,comfortably,1
+7868,symetrical,symmetrical,1
+3323,familiare,familiar,1
+8126,thouht,thought,1
+7778,suplement,supplement,1
+7683,stubbon,stubborn,1
+3331,familymembers,members of the family,19
+3103,exagerations,exaggerations,1
+5412,nocive,?noticeable,7
+3119,excam,exam,1
+2192,cuntries,countries,1
+7629,strainged,strange,2
+8403,twords,towards,2
+5913,peropl,people,2
+4096,horizens,horizons,1
+8136,thoy,thought,4
+5780,parephernalia,paraphernalia,1
+3085,everytime,every time,1
+3497,foot poisoning,food-poisoning,2
+2848,electrcal,electrical,1
+178,parlamentary,parliamentary,1
+1458,candidit,candidate,2
+893,atitude,attitude,1
+6270,prize giving,prize-giving,1
+727,appratus,apparatus,1
+1393,busnessman,businessman,1
+3876,hair dressing,hair-dressing,1
+8985,wory,worry,1
+6658,refreciment,refreshment,2
+621,anckle,ankle,1
+648,anoying,annoying,1
+5411,nobady,nobody,1
+8865,wheel chair,wheelchair,1
+5934,personnell,personnel,1
+3225,exponentualy,exponentially,2
+4555,invit,invite,1
+2031,controversey,controversy,1
+7128,sellybrat,celebrate,4
+6634,reding,reading,1
+4159,hyrry,hurry,1
+7697,stuordesse,stewardess,4
+7624,stra,struggle,5
+3925,happy go lucky,happy-go-lucky,2
+8732,waitin,waiting,1
+3565,foxx,fox,1
+4169,iff,if,1
+8160,ths,this,1
+926,aurthority,authority,1
+6305,proffeciency,proficiency,2
+7511,speek,speak,1
+7842,suvenir,souvenirs,2
+7630,straings,strange,2
+6166,pracis,practice,3
+293,abrao,abroad,2
+8125,thougts,thoughts,1
+3473,flighter,fighters,2
+7582,stear,stare,2
+1379,buscuit,biscuits,2
+3555,fotographs,photographs,2
+7816,suroundings,surroundings,1
+7169,serioly,seriously,2
+5109,might be,maybe,5
+840,asociatio,association,2
+2153,creatitivity,creativity,2
+1648,churchs,churches,1
+2265,decition,decision,1
+8927,window shopping,window-shopping,1
+5701,ourselve's,ourselves,1
+3869,hade,had,1
+2262,decission,decision,1
+6643,refereence,reference,1
+2090,coton,cotton,1
+5101,mid years,mid-year,2
+5372,nessisary,necessary,3
+1398,bussy,busy,1
+3948,hastle free,hassle-free,2
+529,alchohol,alcohol,1
+5772,parcle,parcel,2
+5469,nowaday,nowadays,1
+2760,duely,duly,1
+5893,perhaphs,perhaps,1
+5302,natually,naturally,1
+8483,unfinised,unfinished,1
+8074,theri,their,2
+888,atendin,attending,2
+6996,sccesful,successful,2
+2579,discribe,describe,1
+4452,inspiering,inspiring,1
+3906,hapened,happened,1
+8040,the kind,kinds,5
+7507,specteras,spectacles,4
+4655,kindergarted,kindergarten,1
+4210,imediatly,immediately,2
+3434,fingurechiefs,finger-prints,6
+6558,reallity,reality,1
+1121,behinde,behind,1
+8431,unboubtlely,undoubtedly,3
+2886,embarris,embarrass,2
+6370,proude,proud,1
+7291,sillyness,silliness,1
+8454,understant,understand,1
+1014,baries,various,3
+987,balcon,balcony,1
+1636,choosed,chose,2
+5218,mortion,motion,1
+6044,pleasn't,pleasant,2
+1544,cemetary,cemetery,1
+3636,furthur,further,1
+2648,distroyed,destroyed,1
+6756,representitive,representative,1
+5527,occures,occurs,1
+6528,rapresents,represents,1
+7700,stuwards,stewards,1
+1643,chosing,choosing,1
+709,appetit,appetite,1
+5540,of having,to have,5
+5932,personels,personnel,2
+1324,broke in,broken in,1
+6267,priviledged,privileged,1
+1872,comunicate,communicate,1
+898,atmospher,atmosphere,1
+7400,snak-bar,snack-bar,1
+2381,desicions,decisions,2
+1800,commision,commission,1
+1521,catagoris,categories,2
+8010,terryfied,terrified,1
+5088,methaphors,metaphors,1
+3861,guvernor,governor,1
+5250,mucician,musician,1
+7357,sivilization,civilization,1
+7562,stamped adressed,stamped-addressed,2
+5400,nineth,ninth,1
+6704,relingushed,relinquished,2
+5122,millionere,millionaire,2
+5261,muny,money,2
+8638,vandolism,vandalism,1
+2241,deads,deeds,1
+5700,ourselve,ourselves,1
+3898,handlugage,hand luggage,2
+7882,symthoms,symptoms,2
+7659,stricly,strictly,1
+138,louisa,louisa's,2
+4689,labourious,laborious,1
+4070,hobbys,hobbies,2
+7328,sincieilly,sincerely,3
+211,scotschman,scotchman,1
+4879,lovest,lowest,1
+2652,disturbe,disturb,1
+8457,underwears,underwear,1
+8556,unsuported,unsupported,1
+7078,seans,scenes,3
+6992,scane,scanned,2
+1831,comparitively,comparatively,1
+716,appointement,appointment,1
+7174,serius,serious,1
+8000,terrass,terrace,2
+3157,exeeding,exceeding,1
+1914,confectionary,confectionery,1
+2463,didn's,didn't,1
+6923,rythm,rhythm,1
+2985,enthusatic,enthusiasm,4
+8509,unhygenic,unhygienic,1
+4550,investegated,investigated,1
+6740,reparred,repaired,1
+7224,shools,schools,1
+4402,inhabitied,inhabited,1
+5867,pennys,pennies,2
+1902,cond,confidently,7
+2582,discription,description,1
+2500,difficut,difficult,1
+2377,desesparate,desperate,3
+5797,particulary,particularly,1
+4293,inclouding,including,1
+3902,hankerchief,handkerchief,1
+3188,exmpl,example,2
+1844,competitons,competitions,1
+4500,interper,interpretations,8
+3384,feelins,feelings,1
+8955,woking,working,1
+1451,can not,cannot,1
+6336,prominant,prominent,1
+2391,desirebl,desirable,2
+7298,simialir,similarity,4
+3116,exausted,exhausted,1
+4290,incheck,check-in,5
+1034,be cause,because,1
+4742,learnd,learn,1
+2643,distence,distance,1
+1207,biskets,biscuits,3
+2904,emp,embargo,5
+8624,vairiant,variant,1
+5843,pearent,parent,1
+5521,occurance,occurrance,1
+220,secondy,secondly,1
+4659,kives,knives,1
+8597,use to,used to,1
+2459,did not manage,had not managed,3
+8458,underworldbusiness,underworld business,1
+8501,unhabitants,inhabitants,1
+1220,blackend,blackened,1
+819,arrieved,arrived,1
+1454,cancell,cancelled,2
+1146,benefitted,benefited,1
+7046,scisser,scissors,2
+3373,feaces,faeces,2
+2915,emtied,emptied,1
+4007,hedake,headache,3
+4847,lof,lot,1
+4748,leat,least,1
+3286,fairfully,faithfully,2
+3961,havent,haven't,1
+2386,desillusion,disillusion,1
+4604,jewelerys,jewellery,2
+3543,fortright,forthright,1
+2453,dicorated,decorated,1
+7959,tediuos,tedious,2
+8334,treath,threat,2
+3880,half way,half-way,1
+7619,stongl,strongly,2
+1348,buisiness,business,1
+7358,sixthy,sixty,1
+3375,fealing,feeling,1
+5120,millionare,millionaire,1
+8794,weawlength,wavelength,3
+2660,divercified,diversified,1
+7468,sotial,social,1
+6823,restictiv,restrictive,2
+3618,funciona,functional,2
+6703,religous,religious,1
+8939,with out,without,1
+4108,hoteljobs,hotel jobs,1
+8294,toy from glass,glass toy,13
+8425,unaceptable,unacceptable,1
+1224,blanckate,blanket,3
+1305,breez,breeze,1
+7535,spoilted,spoiled,1
+2911,empolyment,employment,2
+4442,inport,import,1
+730,appreciats,appreciate,1
+5131,ministres,ministers,2
+4887,luckilly,luckily,1
+8749,was bite,bit,5
+5427,non europeans,non-europeans,1
+3784,governamental,government,3
+7416,sofwar,software,2
+1283,boxter,boxer,1
+3146,excpieriance,experience,3
+5361,nervousion,nervousness,4
+6313,proffession,profession,1
+2874,embaresing,embarrassing,3
+9001,writter,wrote,3
+3002,enyone,anyone,1
+1181,bieng,being,2
+1347,buish,bluish,1
+6933,sade,sad,1
+44,danisch,danish,1
+2207,cutf,cutoff,2
+6445,quarel,quarrel,1
+7679,stuadresses,stewardesses,4
+8322,transpearent,transparent,1
+2536,diptheria,diphtheria,1
+2212,cyvilisation,civilization,2
+1779,combact,combat,1
+4303,inconveniencely,inconvenience,2
+3387,feets,feet,1
+497,agravated,aggravated,1
+437,adress,address,1
+1803,commited,committed,1
+142,massachusets,massachusetts,1
+7073,sea sickness,sea-sickness,1
+364,achived,achieved,1
+7970,telles,tells,1
+4607,jewlery,jewelry,2
+6635,redude,reduce,1
+2009,contenue,continue,1
+1223,blancets,blankets,1
+3833,groundfloor,ground floor,1
+5709,out side,outside,1
+1005,baragining,bargaining,2
+3859,gurantte,guarantee,2
+8046,thea,teams,3
+3332,familys,families,2
+6004,pinoneered,pioneered,1
+4270,in't,isn't,1
+2413,determin,determine,1
+2298,delegats,delegates,1
+1383,bushell,bushel,1
+2924,encourange,encourage,1
+7694,stuff room,staffroom,2
+953,awailable,available,1
+1851,complemantary,complementary,1
+1481,careles,careless,1
+8784,wave length,wavelength,1
+6892,romantical,romantic,2
+8745,warmingly,warmly,3
+7270,sient,scientists,5
+2631,dissappeared,disappeared,1
+6545,reade,ready,1
+6198,preffeson,profession,4
+7852,swet,wet,1
+1026,basse,base,1
+1226,blether,blather,1
+7443,somone,someone,1
+6167,pracise,practice,2
+5532,ochestra,orchestra,1
+4984,manufactoring,manufacturing,1
+4805,liqour,liquor,2
+1071,becoms,becomes,1
+5470,nowbody,nobody,1
+7663,stroe,stall,3
+252,venetia,venice,4
+8767,wasnot,was not,1
+5173,molcula,molecular,2
+6539,reacent,recent,1
+2101,coulor,colour,2
+2321,demokratic,democratic,1
+2327,denie,deny,2
+5075,menthal,mental,1
+2423,developes,develops,1
+5074,mentaly,mentally,1
+512,aimiable,amiable,1
+8983,worthwile,worthwhile,1
+4092,hopies,hobbies,2
+7929,te,the,1
+2283,deffinitely,definitely,1
+3093,evocate,evoke,3
+7893,syntoms,symptoms,2
+115,iresh,irish,1
+5969,phisically,physically,1
+2620,dissabiliteys,disabilities,3
+3113,exat,exact,1
+162,norwaigan,norwegian,3
+96,i'am,i'm,1
+6095,poluited,polluted,2
+7874,symphatetic,sympathetic,2
+422,administratif,administrative,2
+6943,sais,says,1
+5091,metrone,matron,2
+2849,electricals,electrical,1
+1023,basicly,basically,2
+783,architectors,architects,2
+165,norwegean,norwegian,1
+8661,vecinity,vicinity,1
+4599,jelousy,jealousy,1
+490,agenst,agents,2
+793,areana,arena,1
+6454,quaties,qualities,2
+3800,grammer,grammar,1
+984,baiscall,basically,3
+7960,teen-ager,teenager,1
+4947,maintaning,maintaining,1
+8645,varie,varied,1
+869,assymnerical,asymmetrical,3
+370,aco,accomplished,9
+5728,ovyge,oxygen,2
+1812,commity,committee,3
+485,againg,again,1
+451,advertisments,advertisements,1
+1674,citizentship,citizenship,1
+7195,sgusli,scarcely,6
+8863,wheather,weather,1
+5156,mistres,mistress,1
+3530,formaly,formally,1
+4903,luxurous,luxurious,1
+1759,coints,coins,1
+6971,satellie,satellite,1
+7436,someting,something,1
+1764,colledge,college,1
+6968,sarrority,sorority,2
+1124,bein,being,1
+4054,highschool,high school,1
+1430,calours,colours,1
+2027,controled,controlled,1
+5756,pamplet,pamphlet,1
+2280,deferent,different,2
+6430,putten,button,2
+3415,fifthy,fifty,1
+8388,turists,tourists,1
+2426,developpement,development,2
+5441,normaly,normally,1
+1376,bus-fere,bus fare,2
+2839,eighthundred,eight hundred,1
+8415,umanity,humanitarian,6
+4283,inbreeded,inbred,3
+5992,picknick,picnic,2
+5832,patner,partners,2
+1020,base camp,base-camp,1
+8225,to punish,of punishing,5
+2035,contuned,continued,2
+3560,fourties,forties,1
+59,empoymen,employmen,1
+5127,minaturised,miniaturised,1
+7020,school girl,schoolgirls,2
+8787,wealthness,wealth,4
+1964,conseption,conception,1
+4404,inials,initials,2
+434,adolescense,adolescence,1
+7708,subsructure,substructures,2
+258,whetherr,whether,1
+7220,shoking,shocking,1
+7018,school day,schoolday,1
+1762,colleages,colleagues,1
+3239,exsept,except,1
+5553,oficial,official,1
+8906,widend,widened,1
+7085,sececialization,specialization,2
+6483,quikly,quickly,1
+6697,relevent,relevant,1
+8491,unfortune,unfortunate,2
+2683,domitory,dormitory,1
+1341,bught,bought,1
+5560,oke,ok,1
+4567,irrepairable,irreparable,1
+5748,paira,pair,1
+1637,choosen,chosen,1
+522,ajacent,adjacent,1
+277,abillity,ability,1
+1960,consentrates,concentrates,1
+3663,garanttee,guarantee,2
+706,apperently,apparently,1
+360,achi,acheive,3
+8844,wether,weather,1
+6436,qonqearor,conqueror,3
+7263,sicasely,scarcely,3
+1292,brances,branches,1
+4728,laty,lazy,1
+6032,plase,please,1
+3522,forgett,forget,1
+6913,rumage,rummage,1
+8657,vasteless,wasteful,5
+1835,compatiable,compatible,1
+5496,obligued,obliged,1
+2171,critisism,criticism,1
+4908,macanic,mechanic,2
+5982,phyisical,physical,1
+3545,fortunatelly,fortunately,1
+1969,conserining,concerning,2
+7302,similiar,similar,1
+1508,cas,caused,3
+8531,unparalelled,unparalleled,2
+3349,fascism adept,adept of fascism,14
+5972,phoncall,phone call,2
+5287,nadar,nadir,1
+494,agilization,?,11
+5618,oppersit,opposite,3
+5434,nonsene,nonsense,1
+1906,condented,contented,1
+8744,wardrope,wardrobe,1
+5244,much less effect,far less effect,4
+9010,yaht,yacht,1
+5574,omnierant,omniscient,4
+2975,enquest,inquire,4
+2583,discusion,discussion,1
+8108,thisty,thirsty,1
+6409,punnishment,punishment,1
+5341,negleckted,neglected,1
+3354,fategue,fatigue,1
+7226,shooted,shot,3
+7282,signiter,signature,3
+6100,ponch,punch,1
+2343,deppnd,depend,1
+6897,ronge,wrong,2
+817,arrengments,arrangements,2
+5904,perminant,permanent,2
+3515,foreighn,foreign,1
+5325,necesary,necessary,1
+4068,hits song,hit songs,2
+5958,phantasy,fantasy,2
+3659,garantee,guarantee,1
+410,additona,additional,2
+164,norwegan,norwegian,1
+6213,prepered,prepared,1
+9015,yearnimg,yawning,3
+8185,tirm,terms,2
+3182,existance,existence,1
+7153,sepent,spent,1
+5681,othe,other,1
+6410,punshing,?pushing,2
+3607,fruts,fruits,1
+2023,contries,countries,1
+1641,choppnig,shopping,3
+2174,critizing,criticizing,2
+3198,expence,expense,1
+613,analisis,analysis,1
+187,puertoricans,puerto ricans,1
+6090,pollunated,polluted,2
+3280,faild,failed,1
+5108,miece,mice,1
+8883,whithin,within,1
+8656,vasted,wasted,1
+8098,thinked,think,2
+2132,cout,country,3
+2655,disturbes,disturbs,1
+4912,machinary,machinery,1
+2152,creater,creator,1
+3315,famaly,family,1
+713,applieing,applying,2
+6293,proceedur,procedure,2
+1721,cloods,clouds,1
+5939,persue,pursue,1
+1817,communitee,community,2
+7099,sede,said,3
+6551,reajusted,readjusted,1
+1276,bouring,bored,4
+5506,oc'lock,o'clock,2
+3950,hav,having,3
+8694,virginas,vaginas,2
+792,areals,areas,1
+7921,tarpp,trap,2
+5390,nicelly,nicely,1
+883,atand,attend,2
+3513,forcasts,forecasts,1
+5290,naphta,naphtha,1
+879,at least,at last,1
+4564,irrationallity,irrationality,1
+3974,headding,headache,4
+3411,fid,fit,1
+8921,will be,am,7
+8336,treatiments,treatments,1
+4476,intelligense,intelligence,1
+3215,explanaition,explanation,1
+6502,radiater,radiator,1
+1002,bankrupcy,bankruptcy,1
+230,swedisch,swedish,1
+2251,decendants,descendants,1
+6431,putten,put,3
+8970,work place,workplace,1
+5320,neccesities,necessities,2
+317,accesing,assessing,3
+8157,thrue,through,3
+2315,delux,de luxe,2
+3126,excelent,excellent,1
+5749,paire,pair,1
+1369,burocratic,bureaucratic,3
+5957,phamplets,pamphlets,2
+8018,thand,thank,1
+3499,for allowing,to be allowed,7
+5774,pardot,pardon,1
+7445,somtimes,sometimes,1
+6590,reciently,recently,1
+4118,houshe,household,4
+3277,factr,factory,2
+4692,labratories,laboratories,1
+2309,deliquencence,delinquents,6
+3713,girl friends,girl-friends,1
+986,balance deficit,deficit balance,14
+1150,benificial,beneficial,1
+6521,ralaxing,to relax,7
+4071,hobies,hobbies,1
+3251,extreems,extremes,2
+5508,ocasions,occasions,1
+1046,beated,beat,2
+7215,shiping,shipping,1
+1152,benifishial,beneficial,3
+8829,weman,women,2
+7963,teket,ticket,2
+424,adminstration,administration,1
+6829,resurect,resurrect,1
+4486,interests towns,interesting towns,3
+6406,punisment,punishment,1
+762,apset,upset,1
+509,aieroport,airport,2
+9043,zeenith,zenith,1
+5097,microb,microbes,2
+3258,eye catching,eye-catching,1
+8697,visiters,visitors,1
+8494,unfourtanly,unfortunately,5
+5576,omv,move,3
+6866,ripere,repair,4
+6080,police man,policeman,1
+2858,eletric,electric,1
+2671,docter,doctor,1
+7749,suft,soft,1
+5123,millionnaire,millionaire,1
+7397,smilin,smiling,1
+9037,yourney,journey,1
+7385,slipt,slipped,3
+6051,plese,please,1
+7246,shoure,sure,2
+3444,fireeater,fire-eater,1
+7364,skillfull,skilful,2
+7555,sramble,scrambled,2
+7532,splitted,spilt,4
+2673,doculent,documents,2
+7427,some think,something,2
+3694,generousity,generosity,1
+8230,to say,saying,6
+1889,concerne,concerned,1
+4186,ilness,illness,1
+3162,exemplyfie,exemplified,2
+8258,tok,took,1
+8138,thr,there,2
+404,adaptibility,adaptability,1
+3964,head master,headmaster,1
+4630,juridicial,judicial,2
+7529,splendude,splendid,2
+4673,knowledable,knowledgeable,2
+8084,thieft,theft,1
+8841,wery,very,1
+654,answerd,answered,1
+545,alloted,allotted,1
+6775,resamble,resemble,1
+6738,repare,repair,2
+6271,proad,proud,1
+1581,chanch,chance,1
+686,apoint,appoint,1
+2867,elu,education,7
+7711,subtrcat,subtract,2
+2346,depresed,depressed,1
+7401,snapses,snaps,2
+2786,eatean,eaten,1
+492,agian,again,2
+3466,flabbergusted,flabbergasted,1
+4319,incorporatd,incorporated,1
+134,kalifornia,california,1
+567,always',always,1
+5612,oposide,opposite,2
+5423,nois,noise,1
+32,carabean,caribbean,2
+3830,grops,crops,1
+8729,wainting,waiting,1
+154,new yourk,new york,1
+7888,synonomous,synonymous,1
+7518,spenlid,splendid,2
+2187,culpret,culprit,1
+2940,enesiles,initials,5
+5049,medicin,medicine,1
+3631,furfill,fulfil,2
+6263,privat,private,1
+1093,beeteen,between,2
+184,porto ricans,puerto ricans,2
+8063,them self,themselves,4
+5100,mid year,mid-year,1
+6326,prograr,programme,3
+7469,souces,sources,1
+6796,resorces,resources,1
+649,ansestor,ancestors,2
+6402,punctuared,punctured,1
+4090,honnor,honour,2
+1480,carefylly,carefully,1
+595,amoug,among,1
+1240,boattrip,boat trip,1
+7388,slovely,slowly,2
+8684,vife,wife,1
+38,commonweath,commonwealth,1
+5787,parrents,parents,1
+7352,sitted,seated,2
+6660,refreshements,refreshments,1
+542,allienate,alienate,1
+5050,medicin,medicines,2
+8341,treshold,threshold,1
+4447,insearch,in search,1
+5717,over put,overpowering,8
+2304,delicouse,delicious,2
+3627,funichular,funicular,1
+2347,depreshtion,depression,2
+7355,situed,situated,2
+3196,expections,expectations,2
+117,irisch,irish,1
+1449,can'not,cannot,1
+7820,surpress,suppress,1
+3665,garanty,guarantee,3
+2113,countries',country's,3
+5924,perseverence,perseverance,1
+5946,persume,presume,2
+3700,gentle man,gentleman,1
+7079,searchd,searched,1
+8179,tinu,tiny,1
+4304,inconveniencies,inconvenience,2
+3245,extatic,ecstatic,2
+4705,lagy,lazy,1
+981,bage,beg,2
+5104,middle aged,middle-aged,1
+6146,potates,potatoes,1
+7396,small delinquency,minor delinquents,7
+651,ansion,ancient,3
+5609,opion,opinion,2
+8504,unhealty,unhealthy,1
+5070,menes,means,2
+1701,clearify,clarify,1
+73,finnich,finnish,1
+6279,probarly,probably,1
+2735,drik,drinks,2
+8807,weist,waist,1
+722,appologized,apologized,1
+7854,swiched,switched,1
+6588,recevid,received,2
+6932,sadan,southern,6
+1108,beginn,begin,1
+7735,sucssuful,successful,3
+7556,ssissors,scissors,1
+6403,punishement,punishment,1
+1077,becune,began,3
+7614,stomak,stomach,2
+4854,lonelyness,loneliness,1
+6183,precidency,presidency,1
+1288,bradcas,broadcast,2
+3854,guitarre,guitar,2
+5711,ouy,buy,1
+6780,researvation,reservation,1
+1315,britania,britannia,1
+2641,dissucussion,discussion,2
+5461,notised,noticed,1
+3788,governent,government,1
+7587,steir,stare,3
+8890,whol,whole,1
+5986,physologi,physiology,2
+8901,whyliest,whilst,3
+8331,trayed,tried,2
+615,analiss,analysis,2
+6726,remmeber,remember,2
+1875,comunitee,community,3
+8522,unknow,unknown,1
+7179,serton,certain,3
+3825,greene,green,1
+2642,distanse,distance,1
+4130,human-beeings,human beings,2
+2392,desireble,desirable,1
+1623,chimnies,chimneys,2
+8759,was trying,had tried,5
+2499,difficiently,difficult,5
+3356,fatiging,fatiguing,1
+1083,beedrooms,bedrooms,1
+2508,dificulty,difficulty,1
+4178,illeteracy,illiteracy,1
+6904,roumers,rumours,3
+8804,weekena,weekend,1
+8826,wellcome,welcome,1
+3003,enything,anything,1
+560,alse,else,1
+3478,flover,flour,2
+1316,britian,britain,2
+2068,corperate,co-operate,2
+3025,ergent,urgent,1
+4028,here with,herewith,1
+6974,satisfactary,satisfactory,1
+4464,insuch,in such,1
+5579,one'oclock,one o'clock,2
+3420,fightened,frightened,1
+5338,neet,neat,1
+1572,chacke,checked,2
+5657,ordinair,ordinary,2
+4407,initative,initiative,1
+408,addimitt,admitted,4
+2945,engauge,engage,1
+4533,introductive,introductory,3
+5249,mucian,museum,4
+7351,sitt,situation,5
+847,assaultants,assaulters,3
+6800,resoviors,reservoirs,4
+4427,innitial,initials,2
+7151,separeted,separated,1
+2421,develope,develops,1
+5402,nintieth,ninetieth,1
+1363,burgalary,burglary,1
+4353,indidua,individual,3
+7526,spitefull,spiteful,1
+1113,behaive,behaviour,4
+9000,writter,writer,1
+6200,pregent,pregnant,2
+2143,craftman,craftsman,1
+8293,townhall,town hall,1
+8575,up dated,updated,1
+5822,pasttime,pastime,1
+6441,quandry,quandary,1
+1728,clour,colour,1
+6758,representive,representative,2
+6285,problemes,problems,1
+5737,paar,pair,1
+8405,typied,typed,1
+97,i'd to walked,i,12
+4950,mak,make,1
+3236,exsaggerated,exaggerated,1
+6685,relasions,relations,1
+6306,proffecional,professional,3
+3751,gon,gone,1
+6025,plaing,playing,1
+8960,wonderous,wondrous,1
+3903,hansem,handsome,3
+5665,orginally,originally,1
+1900,conclutions,conclusions,1
+2568,discoteque,discotheque,1
+2766,dush,dusk,1
+214,scott,scot,1
+8279,touchered,touched,2
+4938,magnifisant,magnificent,2
+6686,relation ship,relationship,1
+2764,durin,during,1
+3264,faciilities,facilities,1
+7059,screeming,screaming,1
+4553,invironmen,environment,2
+2529,dining room,dining-room,1
+2220,daning,dancing,1
+8664,vegation,vegetation,2
+6003,pinic,picnic,1
+8790,weare,wear,1
+4744,leart,learnt,1
+4156,hygene,hygiene,1
+778,aranged,arranged,1
+7185,sesion,session,1
+2869,embarased,embarrassed,2
+972,bacom,become,2
+7216,shippin,shipping,1
+2555,disapprovs,disapproves,1
+5974,phonenumber,phone number,1
+8481,uneymployment,unemployment,1
+5260,munny,money,2
+2448,dicidely,decidedly,2
+3011,equel,equal,1
+6618,recomendation,recommendation,1
+7520,sperical,spherical,1
+1103,beggining,beginning,2
+2104,coulors,colours,2
+8413,ultimatel,ultimate,1
+1196,biologichal,biological,1
+1200,biquits,biscuits,2
+693,appaled,appalled,1
+3127,excellents,excellent,1
+5132,minits,minutes,2
+3716,girle friend,girl friend,1
+4492,intergrated,integrated,1
+837,askin,asking,1
+5546,offerd,offered,1
+7209,sheperd,shepherd,1
+6772,requsted,requested,1
+2095,cought,catch,4
+4817,listner,listener,1
+1754,cofficien,coefficient,2
+1015,barriars,barriers,1
+4136,hunderd,hundred,2
+2456,dictionery,dictionary,1
+4214,imformation,information,1
+6851,rhumours,rumours,1
+2444,diceased,deceased,1
+2515,dilemmaes,dilemmas,1
+2939,enemys,enemies,2
+8423,un healthy,unhealthy,1
+1719,clock alarm,alarm-clock,9
+6894,romming,roaming,1
+2416,detirioration,deterioration,1
+4318,incorigible,incorrigible,1
+4475,intellegence,intelligence,1
+4254,impotan,important,2
+3485,folcloristic,folklore,6
+3726,glanze,glance,1
+5855,peices,pieces,2
+1045,bearly,barely,2
+3754,good bye,goodbye,1
+1716,climed,climbed,1
+6206,prensent,present,1
+2781,earlyest,earliest,1
+1686,claimming,claiming,1
+4699,lagages,luggage,3
+1656,cigarrette,cigarette,1
+7064,scrutiniesed,scrutinized,2
+6401,pumkin,pumpkin,1
+5941,persueded,persued,2
+1882,concening,concerning,1
+7976,temperary,temporary,1
+2375,desent,decent,1
+4521,intirely,entirely,1
+6960,sammer,summer,1
+1447,camra men,cameramen,2
+3986,healt,health,1
+1392,busness,business,1
+3735,glowes,clouds,3
+3172,exgues me,excuse me,3
+3158,exellance,excellance,1
+6805,responce,response,1
+3015,equipement,equipment,1
+741,appropria,appropriate,2
+2464,didn't go,hadn't gone,4
+1822,compagnion,companion,1
+314,accepte,accept,1
+6230,preumin,presuming,2
+1265,bottan,button,2
+6739,repared,repaired,1
+8215,to left,to leave,3
+5649,oragnisation,organization,3
+1555,cerrisfied,satisfied,4
+933,automn,autumn,1
+156,nixon-affair,nixon affair,1
+7257,shuch,such,1
+3240,exsiting,exciting,1
+8512,unioun,union,1
+8034,the pasific,the pacific,1
+4770,leutenant,lieutenant,1
+5027,mauldin,maudlin,2
+608,an other,the other,3
+8719,wa,wearing,5
+4714,laone,loaned,3
+5758,pannic,panic,1
+8053,thecniques,techniques,2
+6123,posistion,position,1
+2215,dammage,damage,1
+969,back yard,backyard,1
+7637,stratagy,strategy,1
+8808,welcame,welcome,1
+6473,quick tempered,quick-tempered,1
+3807,granty,guarantee,4
+5998,pijama,pyjamas,2
+6396,publick,public,1
+5674,orkester,orchestra,4
+8825,well upbrought,well brought up,5
+3394,felow,fellow,1
+6918,runned,ran,4
+5370,nessecry,necessary,4
+4726,latec,latest,2
+2473,dieng,dying,2
+7906,take of,take off,1
+3496,food stuffs,foodstuffs,1
+7248,shoutting,shouting,1
+6026,planeterium,planetarium,1
+894,atlast,at last,1
+8640,varable,variable,1
+739,appropiat,appropriate,2
+7249,shoutting-galery,shooting gallery,4
+3757,good humer,good-humoured,5
+2610,dispatche,despatched,2
+8038,the crimes,crime,5
+8446,under standing,understanding,1
+8515,universaly,universally,1
+7761,sumarys,summarys,1
+30,canadien,canadian,1
+2546,disapeared,disappeared,1
+8957,womon,women,1
+7726,suceed,succeed,1
+6368,protery,poetry,3
+2370,descvription,description,1
+5243,moveing,moving,1
+6889,rog,wrong,2
+1806,commitie,committee,2
+3169,exerlant,excellent,3
+1993,consuntrate,concentrate,2
+569,alwright,all right,2
+1843,competion,competition,2
+6335,promblem,problem,1
+534,all most,almost,2
+4779,librairys,libraries,3
+8077,thes,this,1
+5160,mixedaround,mixed around,1
+8075,thermawere,thermawear,2
+4998,maraton,marathon,1
+4811,lissening,listening,1
+6027,planified,planned,3
+4701,laggege,luggage,2
+1610,cherwered,cheered,2
+2086,costes,costs,1
+13,austrain,austrian,2
+2170,critisise,criticised,2
+3386,feeth,feet,1
+1639,choping,chopping,1
+8633,vancancy,vacancy,1
+8534,unplesent,unpleasant,2
+6113,portier,porter,1
+2994,enviromen,environment,2
+678,aparently,apparently,1
+4170,igh,light,2
+5500,obsticles,obstacles,1
+1741,coalisions,coalitions,1
+8943,witte,write,2
+401,acussed,accused,2
+3628,funney,funny,1
+8691,violance,violence,1
+4193,im,in,1
+4120,how ever,however,1
+6479,quies,queries,2
+5801,partisipants,participants,1
+7703,sub-urbs,suburbs,1
+246,tusseau's,tussaud's,2
+6876,ro,to,1
+4551,investers,investors,1
+1770,colloquel,colloquial,2
+8572,unwravelled,unravelled,1
+7231,shopassistant,shop-assistant,1
+6297,proceur,procedure,2
+705,apperentl,apparently,2
+6629,rectacular,rectangular,2
+2558,disater,disaster,1
+5247,much stricter,more strictly,5
+8700,visted,visited,1
+8936,wisses,wishes,1
+7068,se,sciences,6
+2817,effecient,effeccient,1
+2432,devides,divides,1
+672,anythin,anything,1
+6967,sargent,sergeant,2
+4793,lifes,lives,1
+5465,novellists,novelists,1
+3911,happeist,happiest,2
+3494,food borne,food-borne,1
+2011,conteted,contented,1
+4288,incesant,incessant,1
+1990,constituences,constituencies,1
+3968,headaike,headache,2
+5914,perpertual,perpetual,1
+2014,continious,continuous,1
+3602,fruist,fruits,2
+3828,grievious,grievous,1
+7183,serveral,several,1
+1303,breeding up,breeding,3
+7056,screan,screen,1
+2736,driking,drinking,1
+7513,speer,spear,1
+6531,rasing,raising,1
+2597,disiplines,disciplines,1
+4154,hyge,huge,1
+4388,inforced,enforced,1
+8874,whi,which,2
+1373,bursh,brush,2
+897,atmospeare,atmosphere,2
+2332,departament,department,1
+1230,blu,blue,1
+1528,catergoys,category,3
+8788,weanter,winter,2
+8153,througt,thought,2
+1332,broun,brown,1
+8404,tyme,time,1
+7592,sterring,steering-wheel,7
+5559,ojects,objects,1
+177,pakistans,pakistanis,1
+9030,youn,young,1
+3037,especaily,especially,2
+7223,shool,school,1
+0,afaganistan,afghanistan,2
+8417,umblemished,unblemished,1
+1534,cautch,caught,3
+6664,refridgerator,refrigerator,1
+3867,had been,were,7
+6675,regsirtie,registries,4
+4532,intreview,interview,2
+1362,buory,buried,4
+1117,behaviou,behaviour,1
+3811,grate ful,grateful,1
+4434,innosence,innocence,1
+7839,suu,such,2
+7265,sicencly,sincerely,3
+4850,loked,looked,1
+2037,conventia,conventional,3
+4643,karete,karate,1
+7911,takertif,talkative,5
+4584,itimized,itemized,1
+6148,potetoes,potatoes,1
+7213,shilts,shifts,1
+8655,vaste,vast,1
+3084,everythink,everything,1
+8031,thay,that,1
+7337,sintoms,symptoms,3
+540,allert,alert,1
+601,amusment,amusement,1
+5340,negitivel,negatively,2
+8564,untill,until,1
+5848,peciont,patient,3
+3798,grambling,grumbling,1
+2222,darby,derby,1
+4251,imposible,impossible,1
+1574,chaires,chairs,1
+4761,lengh,length,1
+3426,finaly,finally,1
+8232,to see,to be seen,4
+951,avilabl,available,2
+3219,explaratory,exploratory,1
+7300,similaril,similarly,2
+2180,crowdy,crowded,2
+715,appoinments,appointments,1
+7242,shoud,should,1
+6478,quiently,quietly,1
+6160,powder mill,powder-mill,1
+322,accidant,accident,1
+9007,wrot,wrote,1
+1403,butchelor,bachelor,2
+3017,equipted,equiped,1
+5755,pamphalet,pamphlet,1
+860,assitance,assistance,1
+3709,gifs,gifts,1
+2279,defenitions,definitions,1
+4969,maners,manners,1
+2018,continout,continued,3
+4352,indestry,industry,1
+7725,succid,succeed,2
+3418,figer,figure,2
+1788,comibine,combine,1
+1816,communcatio,communication,2
+186,privi counsil,privy council,2
+5254,muinutes,minutes,1
+1603,check up,check-up,1
+4577,is layed,lies,6
+7939,teaspoon full,teaspoonsful,2
+3242,exspelled,expelled,1
+7642,streagh,strange,3
+1546,cenralized,centralized,1
+7917,tanke,thank,2
+5927,persom,person,1
+3613,fullfil,fulfill,2
+4803,line's work,line of work,3
+5008,marride,married,2
+2489,differeciate,differentiate,2
+1091,beer hall,beer-hall,1
+2390,desireable,desirable,1
+7633,strang,strange,1
+4849,lokal,local,1
+4093,hoppies,hobbies,2
+714,appoa,approach,3
+8499,ungertly,urgently,2
+2383,desided,decided,1
+2553,disapper,disappear,1
+5570,ommision,omission,2
+3047,estabishments,establishments,1
+7560,staf,staff,1
+2405,desription,description,1
+6595,recieve,receipt,4
+7109,seige,siege,2
+892,athough,although,1
+2634,dissappoint,disappoint,1
+2085,cosmatics,cosmetics,1
+1901,concret,concrete,1
+1959,consentrated,concentrated,1
+6193,preferance,preference,1
+5000,maried,married,1
+6983,saussages,sausages,1
+484,aftere,after,1
+6218,presipice,precipice,1
+8233,to solve,solving,6
+2923,encounted,encountered,2
+1666,cirles,circles,1
+1515,cassetes,cassettes,1
+6957,salors,sailors,1
+3890,hande,hand,1
+3912,happend,happened,1
+407,addersons,adderson's,1
+7124,selfrespect,self-respect,1
+5322,neccessary,necessary,1
+1160,bese,beside,2
+2677,doesnot,does not,1
+8090,thight,tight,1
+8500,ungry,angry,1
+8966,worest,worse,2
+7142,sensable,sensible,1
+2072,corrert,correct,1
+6243,priliminary,preliminary,1
+4320,incouling,including,2
+3221,explisitly,explicitly,1
+3320,familer,familiar,2
+6711,reluctand,reluctant,1
+558,alown,alone,2
+7197,shaked,shook,4
+7702,stwerdess,stewardess,2
+3509,forbiding,forbidding,1
+54,dutsch,dutch,1
+5757,pamplets,pamphlets,1
+8773,water fall,waterfall,1
+7194,sgulli,scarcely,6
+1805,commitees,committees,1
+7442,somo,someone,3
+2587,disenters,dissenters,1
+1595,chauffers,chauffeurs,1
+6873,rizen,risen,1
+4061,hinderance,hindrance,1
+3042,espesially,especially,1
+6153,pouetry,poetry,1
+5643,optaning,obtaining,2
+958,awere,aware,1
+1314,briljant,brilliant,2
+5533,oclock,o'clock,1
+8071,therefoe,therefore,1
+7330,sincirelly,sincerely,2
+6573,reccomendations,recommendations,2
+1745,coconets,coconut,2
+3796,grach,crash,2
+5078,mercanery,mercenary,2
+1319,broak,break,1
+1602,chear,chair,2
+5336,neds,needs,1
+5823,patatoes,potatoes,1
+4737,lawiers,lawyers,1
+2665,divition,division,1
+23,cabinett,cabinet,1
+8989,would be,were,6
+7027,schoolshop keeper,school shopkeeper,2
+7413,soes,shoes,1
+6331,progressess,progresses,1
+260,a broad,abroad,1
+5526,occurence,occurrence,1
+25,cambride,cambridge,1
+742,approximatl,approximately,2
+8115,thorow,throw,1
+7306,simlar,similar,1
+5319,neccesery,necessary,3
+4609,jion,join,2
+1896,concience,conscience,1
+5385,newspapir,newspaper,1
+3918,happenly,happy,3
+586,ammount,amount,1
+4173,iliterate,illiterate,1
+3369,favourit,favourite,1
+4016,helding,holding,1
+3863,habbits,habits,1
+517,airhostess,air-hostess,1
+1678,civerlized,civilized,2
+3417,fifts,gifts,1
+2415,deth,death,1
+4715,largly,largely,1
+5103,middle age,middle-aged,2
+312,accedent,accident,1

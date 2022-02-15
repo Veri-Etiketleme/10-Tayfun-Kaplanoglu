@@ -1,0 +1,356 @@
+Pyhton
+    flask
+        Flask
+        render_template
+        url_for
+        request
+            form
+        redirect
+
+    pandas
+        read_csv
+    
+    seaborn
+        heatmap
+        diverging_palette
+    
+    math
+        inf
+        pow
+        log
+        sqrt
+
+    numpy
+        random
+            choice
+        arange
+        number
+        triu
+        ones_like
+        empty
+        append
+        full
+        tile
+        argmax
+
+
+    matplotlib
+        pyplot
+            figure
+            plot
+            gca
+            axis
+            imshow
+            subplots
+            legend
+
+    csv
+        DictWriter
+    torchtext
+        data
+            Field
+            Pipeline
+            LabelField
+            TabularDataset
+            Iterator
+            BucketIterator
+        vocab
+            Vectors
+    ast
+        literal_eval
+
+    webbrowser
+        open
+    feature_extractions_helper
+        *
+    preprocessing_helper
+        *
+    tweepy
+        TweepError
+        OAuthHandler
+        API
+        Cursor
+    collections
+        defaultdict
+    argparse
+        ArgumentParser
+
+    sklearn
+        compose
+            ColumnTransformer
+            make_column_transformer
+        dummy
+            DummyClassifier
+        pipeline
+            Pipeline
+            make_pipeline
+        preprocessing
+            OneHotEncoder
+            OrdinalEncoder
+            StandardScaler
+        model_selection
+             GridSearchCV
+             RandomizedSearchCV
+             cross_val_score
+             cross_validate
+             train_test_split
+
+        impute
+            SimpleImputer
+        feature_extraction
+            DictVectorizer
+            text
+                CountVectorizer
+                TfidVectorizer
+        linear_model
+            LogisticRegression 
+        naive_bayes
+            GaussianNB
+        tree
+            DecisionTreeClassifier
+        svm
+            SVC
+        ensemble
+            RandomForestClassifier
+            VotingClassifier
+            StackingClassifier
+        metrics
+            accuracy_score
+            f1_score
+            make_column_transformer
+        decomposition
+            PCA
+            TruncatedSVD
+        cluster
+            Kmeans
+
+    imblearn
+        over_sampling
+            SMOTE
+    gensim
+        models
+            Word2Vec
+    xgboost
+        XGBClassifier
+
+    lightgbm
+        sklearn
+            LGBMClassifier
+    
+    catboost
+        CatBoostClassifier
+    nltk
+        tokenize
+            word_tokenize
+            RegexpTokenizer
+        download
+            "stopwords"
+            "punkt"
+            "wordnet"
+            "averaged_perceptron_tagger"
+        stem
+            WordNetLemmatizer
+        sent_tokenize
+        word_tokenize
+        sent_tokenize
+        pos_tag
+        corpus
+            stopwords
+        
+    emoji
+        unicode_codes
+            UNICODE_EMOJI
+    demoji
+        download_codes
+        findall
+    wordcloud
+        STOPWORDS
+    
+    torch
+        load
+        LongTensor
+        max
+        nn
+            Embedding
+            LSTM
+            GRU
+            RNN
+            Linear
+            LogSoftmax
+            NLLLoss
+        cuda
+            is_available
+        zeros
+        gather
+        zeros_like
+
+    pickle
+        load
+        dump
+
+    time
+        time
+
+    os
+        environ
+            get
+        path
+            abspath
+            exist
+        chdir
+
+    re
+        sub
+
+    string
+        punctuation
+        digits
+
+    ast
+        literal_eval
+
+    json
+        loads
+        dumps
+        
+    scipy
+        stats
+            lognorm
+            loguniform
+            randint
+                rvs
+
+    google
+        colab
+            drive
+                mount
+
+    altair
+
+    default
+        return
+        def
+        if/else
+        for
+        while
+        open
+        with
+        range
+        len
+        count
+        set
+        list
+        columns
+        tolist
+        content
+        shape
+        info
+        assert
+        strip
+        readline
+        lower
+        upper
+        enumerate
+        split
+        drop
+        format
+        
+JSON
+HTML
+YAML
+CSS
+
+Javascript
+
+    Object
+        defineProperty
+        assign
+        prototype
+            hasOwnProperty
+        create
+        keys
+
+    Button
+        _jQueryInterface
+
+    Date
+        now
+
+    Array    
+    jQuery
+
+    default
+        function
+        if/else
+        throw
+        return
+        foreach
+        parameters
+        toString
+        while
+        call
+        match
+        toLowerCase
+        handle
+        apply
+        is
+        one
+        on
+        join
+        triggerTransitionEnd
+        random
+        getElementById
+        getAttribute
+        querySelector
+        querySelectorAll
+        trigger
+        isElement
+        toUpperCase
+        attachShadow
+        hasClass
+        clearInterval
+        typeCheckConfig
+        TypeError
+        getTipElement    
+        Error
+        contains
+        removeClass
+        setAttribute
+        hasAttribute
+        toggleClass
+        appendTo
+        removeData
+        trigger
+        appendChild
+        removeChild
+        end
+        prev
+        next
+        addAttachmentClass
+        cycle
+        indexOf
+        stopPropagation
+        isDefaultPrevented
+        destroy
+        show
+        setTimeout
+        clearTimeout
+        pause
+        preventDefault
+        get
+        closest
+        slice
+        remove
+
+
+Yardımcı Teknolojiler
+    Bootsrap
+    TrueType Font(TTF)
+    Scalable Vector Graphics
+    Web Open Font Format(WOFF)
+    Embedded OpenType(EOT)
+    jQuery
+    SASS
+    XGBoost
+    LightGBM
+    Python Pickle Module

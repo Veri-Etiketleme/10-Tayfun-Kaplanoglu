@@ -1,0 +1,48 @@
+Python
+
+    numpy
+        random
+            randint
+        argmax
+    
+    argparse
+        ArgumentParser
+
+    os
+    time
+        time
+
+    cv2
+        dnn
+            readNetFromDarknet
+            blobFromImage
+            NMSBoxes
+        imread
+        VideoWriter_fourcc
+        VideoWriter
+        waitKey
+        destroyAllWindows
+        imshow
+        rectangle
+        putText
+
+    subprocess
+        call
+            
+    
+    deafult
+        for
+        array
+        try
+        except
+        raise
+        while
+        break
+        ord
+        len
+
+
+
+
+Yardımcı teknolojiler
+    shell script

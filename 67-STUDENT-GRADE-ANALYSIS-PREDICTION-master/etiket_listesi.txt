@@ -1,0 +1,68 @@
+Python
+    pandas
+        read_csv
+        DataFrame
+    numpy
+        mean
+        sqrt
+
+    matplotlib
+        pyplot
+            show
+            title
+            xlabel
+            ylabel
+            subplot
+            figure
+        
+    seaborn
+        heatmap
+        set_style
+        countplot
+        kdeplot
+        swarmplot
+        boxplot
+    
+    cufflinks
+        go_offline
+    
+    sklearn
+        preprocessing
+            LabelEncoder
+            MinMaxScaler
+        linear_model
+            LinearRegression
+            ElasticNet
+        ensemble
+            RandomForestRegressor
+            ExtraTreeRegressor
+            GradientBoostingRegressor
+        svm
+            SVR
+        model_selection
+            train_test_split
+        
+        metrics
+            mean_squared_error
+            mean_absolute_error
+            median_absolute_error
+        
+    scipy
+
+
+    default
+       for 
+       if/else
+       return
+       enumerate
+       def
+       print
+       range
+       len
+       sort_values
+       drop
+       tail
+       head
+    
+Yardımcı teknolojiler
+    jupyter notebook

@@ -1,0 +1,79 @@
+Python
+    os
+        path
+            join
+    numpy
+        array
+        append
+        empty
+        reshape
+        array
+        
+    
+    pandas
+        get_dummies
+        
+    sklearn
+        neural_network
+            MLPClassifier
+        metrics
+            classification_report
+            f1_score
+        model_selection
+            train_test_split
+        svm
+        ensemble
+            RandomForestClassifier
+
+    time
+        time
+
+    keras
+        models
+            Sequential
+        layers
+            Dense
+            LSTM
+            Dropout
+            GRU
+            Dropout
+            Flatten
+            embeddings
+                Embedding
+
+        
+        preprocessing
+            sequence
+
+    matplotlib
+        pyplot
+            plot
+            legend
+            show
+            figure
+            xlabel
+            ylabel
+
+    csv
+        writer    
+        writerow
+
+
+    default
+        def
+        for
+        if/else
+        print
+        fit
+        min
+        label
+        drop
+        round
+        range
+        with
+        open
+
+
+
+Yardımcı teknolojiler
+    Hierarchical Data Format (HDF)

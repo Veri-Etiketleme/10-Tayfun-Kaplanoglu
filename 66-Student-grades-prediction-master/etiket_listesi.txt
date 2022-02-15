@@ -1,0 +1,53 @@
+Python
+
+    pandas
+        read_csv
+        concat
+        get_dummies
+
+    numpy
+        average
+
+    seaborn
+        boxplot
+        countplot
+        distplot
+
+    matplotlib
+        pylot
+            hist
+            title
+            xlabel
+            ylabel
+            xticks
+            yticks
+            show
+            boxplot
+
+    
+    sklearn
+        model_selection
+            train_test_split
+            KFold
+        tree
+            DecisionTreeClassifier
+            DecisionTreeRegressor
+        linear_model
+            LinearRegression
+            Lasso
+            Ridge
+
+    Default
+        print
+        for
+        fit
+        return
+        values
+        head
+        round
+        columns
+        
+
+
+Yardımcı teknolojiler
+    jupyter notebook

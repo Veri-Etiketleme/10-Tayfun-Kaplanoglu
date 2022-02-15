@@ -1,0 +1,94 @@
+Python
+    rake_nltk
+        Rake
+
+    bidi
+        algorithm
+            get_display
+        
+
+    arabic_reshaper
+        reshape
+    
+    time
+    pandas
+        DataFrame
+
+    decimal
+        Decimal
+
+    enum
+        Enum
+
+    operator
+        itemgetter
+
+    re
+        complie
+        IGNORECASE
+        sub
+
+    nltk
+        tokenize
+            wordpunct_tokenize
+            sent_tokenize
+
+    string
+        punctuation
+
+    collections
+        Counter
+        defaultdict
+
+    itertools
+        chain
+            from_iterable
+        groupby
+        product
+
+
+    selenium
+        webdriver
+            support
+                expected_conditions
+                    presence_of_element_located
+                wait
+                    WebDriverWait
+            common
+                action_chains
+                    ActionChains
+                keys
+                    Keys
+                by
+                    By
+                        XPATH
+            Firefox
+            Chrome
+
+        common
+            expections
+                NoSuchElementException
+
+    webdriver_manager
+        firefox
+            GecoDriverManager
+        chrome
+            ChromeDriverManager
+
+
+
+    default
+        print
+        def
+        try
+        except
+        if/else
+        return
+        sorted
+        zip
+
+
+XML
+
+Yardımcı teknolojiler
+     IntelliJ IDEA
