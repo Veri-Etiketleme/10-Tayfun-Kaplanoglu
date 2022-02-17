@@ -1,0 +1,33 @@
+Python
+    numpy
+        round
+        append
+        ones
+    
+    pandas
+        read_csv
+    matplotlib
+        pyplot
+
+    sklearn
+        svm
+            SVR
+        metrics
+            f1_score
+            confusion_matrix
+        model_selection
+            train_test_split
+        preprocessing
+            StandardScaler
+            Imputer
+        cross_validation
+            train_test_split
+
+
+    statsmodels
+        formula
+            api
+                OLS
+
+        
+    

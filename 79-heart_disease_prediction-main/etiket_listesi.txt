@@ -1,0 +1,119 @@
+Python
+    time
+        time
+    
+    numpy
+        array
+        arange
+        logspace
+        sqrt
+        linspace
+    
+    pandas
+        Read_csv
+        DataFrame
+
+    matplotlib
+        pyplot
+            figure
+            yticks
+            ylabel
+            xlabel
+            show
+            ylim
+            xlim
+            rcParams
+            title
+            grid
+            subplot
+            plot
+            legend
+            yticks
+            
+    seaborn
+        set_style
+        barplot
+        heatmap
+
+    default
+        range
+        len
+        def
+        print
+        return
+        zip
+
+
+    sklearn
+        impute
+            SimpleImputer
+        ensemble
+            RandomForestClassifier
+        tree
+            DecisionTreeClassifier
+            export_graphviz
+        metrics
+            roc_curve
+            auc
+            classification_report
+            confusion_matrix
+            mean_squared_error
+            precision_recall_fscore_support
+        model_selection
+            train_test_split
+            GridSearchCV
+            cross_val_score
+        preprocessing
+            StandardScaler
+        linear_model
+            LogisticRegression
+        neighbors
+            KNeighborsClassifier
+        svm
+            SVC
+        Naive_bayes
+            GaussianNB
+
+
+    tensorflow
+        keras
+            models
+                Sequential
+            layers
+                MaxPool2D
+                Dense
+                Flatten
+                Dropout
+            utils
+                To_categorical
+            regularizers
+                l2
+            callbacks
+                EarlyStopping
+    
+    hyperopt
+        hp
+        STATUS_OK
+        tpe
+        Trials
+        fmin
+
+    xgboost
+        XGBClassifier
+
+    Default
+        head
+        Trials
+        def
+        if/else
+        return
+        range
+        len
+        zip
+        list
+        
+        
+HTML
+Yardımcı teknolojiler
+    jupyter notebook
+    xgboost
