@@ -1,0 +1,599 @@
+---
+title: "CS229_Project"
+author: "John"
+date: "November 15, 2017"
+output: word_document
+---
+
+```{r DataModelTest}
+write.csv(train, file = "trainInd.csv")
+```
+
+```{r DataRead}
+#library(splines)
+#library(leaps)
+#library(gam)
+#library(MASS)
+#library(glmnet)
+#library(tree)
+#library(randomForest)
+
+model.performance = function(a = y.test, b, bin =0) {
+  
+  if(bin == 0)
+  {
+    frchange.pred = (b-a)/a
+    buy.decision = as.numeric(frchange.pred>0)
+  }
+  if(bin == 1)
+  {
+    buy.decision = b
+  }
+  correctbuy.decision = as.numeric(frac_change[-train]>0)
+  #buy.decision
+  daily.change = 1+(buy.decision * frac_change[-train])
+  #print(length(daily.change))
+  
+  buy.days = daily.change
+  #print("Model Performance - Buy decision based on prediction")
+  mod.perf = prod(buy.days)
+  cumROI = cumprod(buy.days)
+  #print(mod.perf)
+  #print("Baseline - Holding Bitcoin from day 1 of test set")
+  base.perf = prod(1+frac_change[-train])
+  #print(base.perf)
+  return(list("Baseline"=base.perf, "Model"=mod.perf, "CumROI"=cumROI))
+}
+
+
+
+X = read.csv("C:/Users/John Martin/Downloads/MLProjectData1.csv", na.strings = "?", header = TRUE);
+frac_change = X[,43]
+x = as.data.frame(X[,2:42])
+
+names(x) # x has 42 columns
+# The last 2 columns are tmrws price and fractional change
+y = X$Bitcoin.Price_tmrw
+x = scale(x, center = TRUE, scale = TRUE);
+
+set.seed(1)
+train = sample(nrow(x),nrow(x)*0.7)
+x.train = x[train,]
+x.test = x[-train,]
+y.train = y[train]
+y.test = y[-train]
+
+
+#plot(y, main ="Price of Bitcoin Jan 2011 - Dec 2013", xlab = "Day", ylab ="Price of Bitcoin (USD)")
+```
+
+```{r BagsnTreesnForests}
+x = X[,2:42]
+set.seed(1)
+train = sample(nrow(x),nrow(x)*0.7)
+y = X$Bitcoin.Price_tmrw
+#x = as.data.frame(scale(x, center = TRUE, scale = TRUE));
+
+x.train = x[train,]
+x.test = x[-train,]
+y.train = y[train]
+y.test = y[-train]
+
+tree.cs =tree(Bitcoin.Price_tmrw ~ ., data =x ,subset =train)
+
+#Prediction
+yhat = predict(tree.cs, newdata =x.test)
+
+# Evaluation
+a = x.test$up_down
+b = yhat
+result = model.performance(a,b)
+print("Tree")
+print(result$Model)
+
+### Bagging
+bag.cs =randomForest(Bitcoin.Price_tmrw~., data =x ,subset =train, mtry =10, importance =TRUE)
+
+yhat = predict(bag.cs,newdata =x.test)
+b = yhat
+result = model.performance(a,b)
+print("Bag")
+print(result$Model)
+
+importance(bag.cs)
+varImpPlot (bag.cs)
+
+```
+```{r LassoRidge}
+
+x = X[,2:42]
+#names(x) # x has 42 columns
+# The last 2 columns are tmrws price and fractional change
+y = X$Bitcoin.Price_tmrw
+#x = scale(x, center = TRUE, scale = TRUE);
+
+set.seed(1)
+train = sample(nrow(x),nrow(x)*0.7)
+x.train = x[train,]
+x.test = x[-train,]
+y.train = y[train]
+y.test = y[-train]
+
+print("LASSO and Ridge")
+cv.lasso = cv.glmnet(as.matrix(x.train[,1:40]),x.train$Bitcoin.Price_tmrw, alpha = 0)
+bestlam = cv.lasso$lambda.min
+
+lmb = 10^seq(-1,100,length = 100)
+for (i in 1:100) {
+  lasso.mod = glmnet(as.matrix(x.train[,1:40]),x.train$Bitcoin.Price_tmrw, alpha = 0, lambda = lmb[i])
+  m0.pred = predict(lasso.mod, s = bestlam, newx =as.matrix(x.test[,1:40]))
+  
+  b = m0.pred
+  a = x.test$Bitcoin.Price_tmrw
+  result = model.performance(a,b)
+  #print(lmb[i])
+  #print(result$Model)
+}
+
+#Best LASSO
+lasso.mod = glmnet(as.matrix(x.train[,1:40]),x.train$Bitcoin.Price_tmrw, alpha = 1, lambda = 98)
+m0.pred = predict(lasso.mod, s = bestlam, newx =as.matrix(x.test[,1:40]))
+b = m0.pred
+a = x.test$Bitcoin.Price_tmrw
+result = model.performance(a,b)
+print("Best LASSO Model")
+print(result$Model)
+
+#Best Ridge Regression
+ridge.mod = glmnet(as.matrix(x.train[,1:40]),x.train$Bitcoin.Price_tmrw, alpha = 0, lambda = 132194.1)
+m0.pred = predict(ridge.mod, s = bestlam, newx =as.matrix(x.test[,1:40]))
+b = m0.pred
+a = x.test$Bitcoin.Price_tmrw
+result = model.performance(a,b)
+print("Best Ridge Regression")
+print(result$Model)
+ridge.mod$beta
+```
+
+```{r Logistic}
+
+frac_change = X[,43]
+x = X[,2:44]
+#names(x) # x has 42 columns
+# The last 2 columns are tmrws price and fractional change
+y = X$Bitcoin.Price_tmrw
+#x = as.data.frame(scale(x center = TRUE, scale = TRUE));
+
+set.seed(1)
+train = sample(nrow(x),nrow(x)*0.7)
+x.train = x[train,]
+x.test = x[-train,]
+y.train = y[train]
+y.test = y[-train]
+
+# Logistic Regression
+
+# Model
+# Baseline Regression
+#15x
+#glm.fit = glm(up_down ~.-frac_change-Bitcoin.Price_tmrw, data =x, subset =train, family =binomial)
+# Beat baseline
+
+#50x
+p_bct = 5 # 5,2
+p_bctp = 2 # 2
+p_ind = 1
+p_pr = 4
+p_r = 3
+p_au = 3 # 3,4
+p_lu = 1
+
+#Best Model
+glm.fit = glm(up_down ~ poly(CloseDJIA,p_ind) + poly(CloseSP500,p_ind) + poly(CloseStoxx600,p_ind) + poly(CloseBZF,p_ind) + 
+                poly(bitcoin_trends,p_bct) + poly(bitcoinNews_trends,p_bct) + poly(bitcoinPrice_trends,p_bct) + 
+                poly(bitcoin_trends_prev,p_bctp) + poly(bitcoinNews_trends_prev,p_bctp) + poly(bitcoinPrice_trends_prev,p_bctp) + 
+                poly(Bitcoin.Price_prev,p_pr) + poly(Bitcoin.Price,p_pr) + 
+                poly(signal_line,p_r) + poly(MACD,p_r) + 
+                poly(active_users1,p_au) + poly(active_users2,p_au) + poly(active_users3,p_au) + poly(active_users4,p_au) + 
+                poly(active_users1_prev,p_au) + poly(active_users2_prev,p_au) + poly(active_users3_prev,p_au) + poly(active_users4_prev,p_au) + 
+                poly(lt_users1,p_lu) + poly(lt_users2,p_lu) + poly(lt_users3,p_lu) + poly(lt_users4,p_lu) + 
+                poly(lt_users1_prev,p_lu) + poly(lt_users2_prev,p_lu) + poly(lt_users3_prev,p_lu) + poly(lt_users4_prev,p_lu)
+              , data =x, subset =train, family =binomial)
+# Train ROI
+glm.pred = predict(glm.fit,x.train)
+predDirection = (glm.pred>0)
+table(predDirection,x.train$up_down)
+a = x.train$up_down
+b = as.numeric(predDirection)
+result = model.performance(a,b,1)
+print("Train ROI")
+print(result$Model)
+# Prediction
+glm.pred = predict(glm.fit,x.test)
+predDirection = (glm.pred>0)
+table(predDirection,x.test$up_down)
+# Evaluation
+a = x.test$up_down
+b = as.numeric(predDirection)
+result = model.performance(a,b,1)
+print("Test ROI")
+print(result$Model)
+plot(result$CumROI)
+C1 = result$CumROI
+
+
+#Without Search Trends
+glm.fit = glm(up_down ~ poly(CloseDJIA,p_ind) + poly(CloseSP500,p_ind) + poly(CloseStoxx600,p_ind) + poly(CloseBZF,p_ind) + 
+                poly(Bitcoin.Price_prev,p_pr) + poly(Bitcoin.Price,p_pr) + 
+                poly(signal_line,p_r) + poly(MACD,p_r) + 
+                poly(active_users1,p_au) + poly(active_users2,p_au) + poly(active_users3,p_au) + poly(active_users4,p_au) + 
+                poly(active_users1_prev,p_au) + poly(active_users2_prev,p_au) + poly(active_users3_prev,p_au) + poly(active_users4_prev,p_au) + 
+                poly(lt_users1,p_lu) + poly(lt_users2,p_lu) + poly(lt_users3,p_lu) + poly(lt_users4,p_lu) + 
+                poly(lt_users1_prev,p_lu) + poly(lt_users2_prev,p_lu) + poly(lt_users3_prev,p_lu) + poly(lt_users4_prev,p_lu)
+              , data =x, subset =train, family =binomial)
+print("Without Search Trends")
+# Prediction
+glm.pred = predict(glm.fit,x.test)
+predDirection = (glm.pred>0)
+table(predDirection,x.test$up_down)
+# Evaluation
+a = x.test$up_down
+b = as.numeric(predDirection)
+result = model.performance(a,b,1)
+print("Test ROI")
+print(result$Model)
+plot(result$CumROI)
+C2 = result$CumROI
+
+
+#Without Network Data
+glm.fit = glm(up_down ~ poly(CloseDJIA,p_ind) + poly(CloseSP500,p_ind) + poly(CloseStoxx600,p_ind) + poly(CloseBZF,p_ind) + 
+                poly(bitcoin_trends,p_bct) + poly(bitcoinNews_trends,p_bct) + poly(bitcoinPrice_trends,p_bct) + 
+                poly(bitcoin_trends_prev,p_bctp) + poly(bitcoinNews_trends_prev,p_bctp) + poly(bitcoinPrice_trends_prev,p_bctp) + 
+                poly(Bitcoin.Price_prev,p_pr) + poly(Bitcoin.Price,p_pr) + 
+                poly(signal_line,p_r) + poly(MACD,p_r)
+              , data =x, subset =train, family =binomial)
+print("Without Network Data")
+# Prediction
+glm.pred = predict(glm.fit,x.test)
+predDirection = (glm.pred>0)
+table(predDirection,x.test$up_down)
+# Evaluation
+a = x.test$up_down
+b = as.numeric(predDirection)
+result = model.performance(a,b,1)
+print("Test ROI")
+print(result$Model)
+plot(result$CumROI)
+C3 = result$CumROI
+
+
+#Without Both
+glm.fit = glm(up_down ~ poly(CloseDJIA,p_ind) + poly(CloseSP500,p_ind) + poly(CloseStoxx600,p_ind) + poly(CloseBZF,p_ind) + 
+                poly(Bitcoin.Price_prev,p_pr) + poly(Bitcoin.Price,p_pr) + 
+                poly(signal_line,p_r) + poly(MACD,p_r)
+              , data =x, subset =train, family =binomial)
+print("Without Network Data & Search Trends")
+# Prediction
+glm.pred = predict(glm.fit,x.test)
+predDirection = (glm.pred>0)
+table(predDirection,x.test$up_down)
+# Evaluation
+a = x.test$up_down
+b = as.numeric(predDirection)
+result = model.performance(a,b,1)
+print("Test ROI")
+print(result$Model)
+plot(result$CumROI)
+C4 = result$CumROI
+
+length(C1)
+length(C2)
+length(C3)
+length(C4)
+Cnames = c("Best Logistic Model","Without Search Trends","Without Network Data","Without Both")
+write.table(cbind(C1,C2,C3,C4),row.names = FALSE , sep = ",", file ="CumulativeROIs.csv", col.names = Cnames)
+
+```
+
+
+
+
+
+
+
+
+
+
+```{r DataModeling}
+#plot(y, main ="Price of Bitcoin Jan 2011 - Dec 2013", xlab = "Day", ylab ="Price of Bitcoin (USD)")
+
+
+print("Model; Linear Regression with all predictors")
+btc.m0 = lm(Bitcoin.Price~., data = x, subset = train)
+summary(btc.m0)
+#btc.m0$coefficients
+m0.pred = predict(btc.m0, newdata =x.test)
+mse = mean( ((m0.pred - y[-train])/y[-train])^2 )
+mse
+title = paste("Model 0: Linear Regression (All predictors) - Test MSE:",format(mse,digits = 5,nsmall = 2), sep = " ")
+plot(y[-train],m0.pred,main =title, xlab ="Price from Test Data", ylab ="Predicted Price",xlim =c(-100,1000), ylim =c(-100,1000))
+
+
+
+
+
+
+print("Model; Linear Regression with all predictors")
+btc.m0 = lm(frac_change ~ CloseDJIA + CloseDJIA_prev + CloseNikkei225 + bitcoin_trends + bitcoinPrice_trends + bitcoin_trends_prev + bitcoinPrice_trends_prev + bitcoinNews_trends + Bitcoin.Price_prev -frac_change - Bitcoin.Price, data = x.train)
+#summary(btc.m0)
+#btc.m0$coefficients
+#btc.m0 = lm(frac_change ~ . - frac_change - Bitcoin.Price_tmrw, data = x.train)
+
+m0.pred = predict(btc.m0, newdata =x.test)
+#x.test$frac_change
+
+a = m0.pred[x.test$frac_change!=0]
+b = x.test$frac_change[x.test$frac_change!=0]
+#a = a[-1]
+#b = b[-1]
+
+mse = mean( (a - b)^2 )
+mse
+title = paste("Model 0: Linear Regression (on fractional change) - Test MSE:",format(mse,digits = 5,nsmall = 2), sep = " ")
+plot(y[-train],m0.pred,main =title, xlab ="Price from Test Data", ylab ="Predicted Price")
+# ,xlim =c(-100,1000), ylim =c(-100,1000)
+
+
+
+
+print("Model; LASSO with all predictors")
+cv.lasso = cv.glmnet(as.matrix(x.train[,1:40]),x.train$frac_change, alpha = 1)
+bestlam = cv.lasso$lambda.min
+lasso.mod = glmnet(as.matrix(x.train[,1:40]),x.train$frac_change, alpha = 1, lambda =bestlam)
+
+m0.pred = predict(lasso.mod, s = bestlam, newx =as.matrix(x.test[,1:40]))
+#x.test$frac_change
+
+summary(lasso.mod)
+lasso.mod$beta
+a = m0.pred
+b = x.test$frac_change
+
+mse = mean( (a - b)^2 )
+mse
+title = paste("Lasso - Test MSE:",format(mse,digits = 5,nsmall = 2), sep = " ")
+plot(x.test$frac_change,m0.pred,main =title, xlab ="Price from Test Data", ylab ="Predicted Price")
+# ,xlim =c(-100,1000), ylim =c(-100,1000)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r DataPlots}
+par(mfrow=c(2,2)) 
+plot(X$CloseDJIA,      X$Bitcoin.Price, main ="BTC Price vs. DJIA")
+splinefit = smooth.spline(X$CloseDJIA, X$Bitcoin.Price, cv = TRUE)
+lines(splinefit,col ="red")
+dfDJIA = splinefit$df
+
+plot(X$CloseSP500,     X$Bitcoin.Price, main ="BTC Price vs. SP500")
+splinefit = smooth.spline(X$CloseSP500, X$Bitcoin.Price, cv = TRUE)
+lines(splinefit,col ="red")
+dfSP500 = splinefit$df
+
+plot(X$CloseNikkei225, X$Bitcoin.Price, main ="BTC Price vs. Nikkie")
+splinefit = smooth.spline(X$CloseNikkei225, X$Bitcoin.Price, cv = TRUE)
+lines(splinefit,col ="red")
+dfNikkei225 = splinefit$df
+
+plot(X$CloseStoxx600,  X$Bitcoin.Price, main ="BTC Price vs. Stoxx")
+splinefit = smooth.spline(X$CloseStoxx600, X$Bitcoin.Price, cv = TRUE)
+lines(splinefit,col ="red")
+dfStoxx600 = splinefit$df
+
+plot(X$CloseBZF,       X$Bitcoin.Price, main ="BTC Price vs. BZF")
+splinefit = smooth.spline(X$CloseBZF, X$Bitcoin.Price, cv = TRUE)
+lines(splinefit,col ="red")
+dfBZF = splinefit$df
+
+plot(X$CloseVIX,       X$Bitcoin.Price, main ="BTC Price vs. VIX")
+splinefit = smooth.spline(X$CloseVIX, X$Bitcoin.Price, cv = TRUE)
+lines(splinefit,col ="red")
+dfVIX = splinefit$df
+
+plot(X$CloseCEW,       X$Bitcoin.Price, main ="BTC Price vs. CEW")
+splinefit = smooth.spline(X$CloseCEW, X$Bitcoin.Price, cv = TRUE)
+lines(splinefit,col ="red")
+dfCEW = splinefit$df
+
+plot(X$active_users1,  X$Bitcoin.Price, main ="BTC Price vs. Active Users")
+splinefit = smooth.spline(X$active_users1, X$Bitcoin.Price, cv = TRUE)
+lines(splinefit,col ="red")
+dfAU = splinefit$df
+
+plot(X$bitcoin_trends,  X$Bitcoin.Price, main ="BTC Price vs. bitcoin_trends")
+splinefit = smooth.spline(X$bitcoin_trends, X$Bitcoin.Price, cv = TRUE)
+lines(splinefit,col ="red")
+dfbt = splinefit$df
+
+plot(X$bitcoinNews_trends,  X$Bitcoin.Price, main ="BTC Price vs. bitcoinNews_trends")
+splinefit = smooth.spline(X$bitcoinNews_trends, X$Bitcoin.Price, cv = TRUE)
+lines(splinefit,col ="red")
+dfbnt = splinefit$df
+
+plot(X$bitcoinPrice_trends,  X$Bitcoin.Price, main ="BTC Price vs. bitcoinPrice_trends")
+splinefit = smooth.spline(X$bitcoinPrice_trends, X$Bitcoin.Price, cv = TRUE)
+lines(splinefit,col ="red")
+dfbpt = splinefit$df
+
+```
+
+```{r LottaRegression}
+library(splines)
+library(leaps)
+library(gam)
+
+set.seed(1)
+train = sample(nrow(x),nrow(x)*0.7)
+x.train = x[train,]
+x.test = x[-train,]
+
+
+print("Model 0; Linear Regression with all predictors")
+btc.m0 = lm(Bitcoin.Price~., data = x, subset = train)
+summary(btc.m0)
+#btc.m0$coefficients
+m0.pred = predict(btc.m0, newdata =x.test)
+model.performance(y[-train],m0.pred)$Model
+title = paste("Model 0: Linear Regression (All predictors) - Test MSE:",format(mse,digits = 5,nsmall = 2), sep = " ")
+plot(y[-train],m0.pred,main =title, xlab ="Price from Test Data", ylab ="Predicted Price",xlim =c(-100,1000), ylim =c(-100,1000))
+
+par(mfrow=c(2,2))
+
+print("Model 1; Linear Regression (All except ActiveUsers) - Test MSE: ")
+btc.m1 = lm(Bitcoin.Price~.-active_users1, data = x, subset = train)
+#btc.m1$coefficients
+m1.pred = predict(btc.m1, newdata =x.test)
+model.performance(y[-train],m1.pred)$Model
+title = paste("M1 All (-ActiveUsers) - Test MSE:",format(mse,digits = 5,nsmall = 2), sep = " ")
+plot(y[-train],m1.pred,main =title, xlab ="Price from Test Data", ylab ="Predicted Price", xlim =c(-100,1000), ylim =c(-100,1000))
+
+print("Model 2; Linear Regression with 3 predictors : Search Trends")
+btc.m2 = lm(Bitcoin.Price~ bitcoin_trends + bitcoinNews_trends + bitcoinPrice_trends , data = x, subset = train)
+#btc.m2$coefficients
+m2.pred = predict(btc.m2, newdata =x.test)
+model.performance(y[-train],m2.pred)$Model
+title = paste("M2 3 Predictors:Trends - Test MSE:",format(mse,digits = 5,nsmall = 2), sep = " ")
+plot(y[-train],m2.pred,main =title, xlab ="Price from Test Data", ylab ="Predicted Price", xlim =c(-100,1000), ylim =c(-100,1000))
+
+print("Model 3; Linear Regression with 5 predictors: Stock Market and Currency Indices")
+btc.m3 = lm(Bitcoin.Price~ CloseDJIA + CloseSP500 + CloseBZF + CloseCEW + CloseStoxx600, data = x, subset = train)
+#btc.m3$coefficients
+m3.pred = predict(btc.m3, newdata =x.test)
+model.performance(y[-train],m3.pred)$Model
+title = paste("M3 Predictors:Indices - Test MSE:",format(mse,digits = 5,nsmall = 2), sep = " ")
+plot(y[-train],m3.pred,main =title, xlab ="Price from Test Data", ylab ="Predicted Price", xlim =c(-100,1000), ylim =c(-100,1000))
+
+print("Model 4; Linear Regression with polynomial predictors (degree 3) - No Search Trends")
+btc.m4 = lm(Bitcoin.Price~ poly(CloseDJIA,3) + poly(CloseSP500,3) + poly(CloseNikkei225,3) + poly(CloseBZF,3) + poly(CloseVIX,3) + poly(CloseCEW,3), data = x, subset = train)
+#btc.m4$coefficients
+m4.pred = predict(btc.m4, newdata =x.test)
+model.performance(y[-train],m4.pred)$Model
+title = paste("M4 Poly(3):Indices - Test MSE:",format(mse,digits = 5,nsmall = 2), sep = " ")
+plot(y[-train],m4.pred,main =title, xlab ="Price from Test Data", ylab ="Predicted Price", xlim =c(-100,1000), ylim =c(-100,1000))
+
+
+print("Model 5; Linear Regression with polynomial predictors (degree 4) - No Search Trends")
+btc.m5 = lm(Bitcoin.Price~ poly(CloseDJIA,4) + poly(CloseSP500,4) + poly(CloseNikkei225,4) + poly(CloseBZF,4) + poly(CloseVIX,4) + poly(CloseCEW,4) + poly(active_users1,5), data = x, subset = train)
+#btc.m5$coefficients
+m5.pred = predict(btc.m5, newdata =x.test)
+model.performance(y[-train],m5.pred)$Model
+title = paste("M5 Poly(4) no Trends - Test MSE:",format(mse,digits = 5,nsmall = 2), sep = " ")
+plot(y[-train],m5.pred,main =title, xlab ="Price from Test Data", ylab ="Predicted Price", xlim =c(-100,1000), ylim =c(-100,1000))
+
+print("Model 6; Linear Regression - Search Trends (Bitcoin) - Test MSE:  ")
+btc.m6 = lm(Bitcoin.Price~ bitcoin_trends, data = x, subset = train)
+#btc.m6$coefficients
+m6.pred = predict(btc.m6, newdata =x.test)
+model.performance(y[-train],m6.pred)$Model
+title = paste("M6 Trends (Bitcoin) - Test MSE:",format(mse,digits = 5,nsmall = 2), sep = " ")
+plot(y[-train],m6.pred,main =title, xlab ="Price from Test Data", ylab ="Predicted Price", xlim =c(-100,1000), ylim =c(-100,1000))
+
+print("Model 7; Linear Regression - Search Trends (BitcoinNews) - Test MSE:  ")
+btc.m7 = lm(Bitcoin.Price~ bitcoinNews_trends, data = x, subset = train)
+#btc.m7$coefficients
+m7.pred = predict(btc.m7, newdata =x.test)
+model.performance(y[-train],m7.pred)$Model
+title = paste("M7 Trends (BTCNews) - Test MSE:",format(mse,digits = 5,nsmall = 2), sep = " ")
+plot(y[-train],m7.pred,main =title, xlab ="Price from Test Data", ylab ="Predicted Price", xlim =c(-100,1000), ylim =c(-100,1000))
+
+print("Model 8; Linear Regression - Search Trends (BitcoinPrice) - Test MSE:  ")
+btc.m8 = lm(Bitcoin.Price~ bitcoinPrice_trends, data = x, subset = train)
+#btc.m8$coefficients
+m8.pred = predict(btc.m8, newdata =x.test)
+model.performance(y[-train],m8.pred)$Model
+title = paste("M8 Trends (BTCPrice) - Test MSE:",format(mse,digits = 5,nsmall = 2), sep = " ")
+plot(y[-train],m8.pred,main =title, xlab ="Price from Test Data", ylab ="Predicted Price", xlim =c(-100,1000), ylim =c(-100,1000))
+
+```
+
+
+```{r Best Linear Model}
+print("Model Test; Linear Regression with polynomial predictors (degree 4)")
+#btc.mt = lm(Bitcoin.Price~ bitcoinNews_trends, data = x, subset = train)
+
+x = X[,2:42]
+set.seed(1)
+train = sample(nrow(x),nrow(x)*0.7)
+y = X$Bitcoin.Price_tmrw
+#x = as.data.frame(scale(x, center = TRUE, scale = TRUE));
+
+x.train = x[train,]
+x.test = x[-train,]
+y.train = y[train]
+y.test = y[-train]
+
+# Model
+btc.mt = lm(Bitcoin.Price~ poly(bitcoin_trends,3) + poly(bitcoinNews_trends,3) + poly(bitcoinPrice_trends,3) + poly(CloseDJIA,4) + poly(CloseSP500,4) + poly(CloseNikkei225,4) + poly(CloseBZF,4) + poly(CloseVIX,4) + poly(CloseCEW,4) + poly(active_users1,5), data = x, subset = train)
+#btc.mt$coefficients
+
+# Prediction
+mt.pred = predict(btc.mt, newdata =x.test)
+title = paste("M9 Polynomial Predictors (degrees 3 - 5) - Test MSE:",format(mse,digits = 5,nsmall = 2), sep = " ")
+plot(ytest[mt.pred<500],mt.pred[mt.pred<500],main =title, xlab ="Price from Test Data", ylab ="Predicted Price", xlim =c(-100,400), ylim =c(-100,400))
+
+# Evaluation
+a = y.test
+b = mt.pred
+model.performance(a,b)
+
+```
+
+
+# Expt
+p_bct = 5
+p_bctp = 2
+p_ind = 1
+p_pr = 4
+p_r = 3
+p_au = 3
+p_lu = 1
+p_int = 1
+
+for (i in 1:6) {
+  p_bct = i
+  print(i)
+  glm.fit = glm(up_down ~ poly(CloseDJIA,p_ind) + poly(CloseSP500,p_ind) + poly(CloseStoxx600,p_ind) + poly(CloseBZF,p_ind) +
+                poly(bitcoin_trends,p_bct) + poly(bitcoinNews_trends,p_bct) + poly(bitcoinPrice_trends,p_bct) +
+                poly(bitcoin_trends_prev,p_bctp) + poly(bitcoinNews_trends_prev,p_bctp) + poly(bitcoinPrice_trends_prev,p_bctp) +
+                poly(Bitcoin.Price_prev,p_pr) + poly(Bitcoin.Price,p_pr) + 
+                poly(signal_line,p_r) + poly(MACD,p_r) +
+                poly(active_users1,p_au) + poly(active_users2,p_au) + poly(active_users3,p_au) + poly(active_users4,p_au) +
+                poly(active_users1_prev,p_au) + poly(active_users2_prev,p_au) + poly(active_users3_prev,p_au) + poly(active_users4_prev,p_au) +
+                poly(lt_users1,p_lu) + poly(lt_users2,p_lu) + poly(lt_users3,p_lu) + poly(lt_users4,p_lu) +
+                poly(lt_users1_prev,p_lu) + poly(lt_users2_prev,p_lu) + poly(lt_users3_prev,p_lu) + poly(lt_users4_prev,p_lu)
+              , data =x, subset =train, family =binomial)
+          
+# Prediction
+glm.pred = predict(glm.fit,x.test)
+predDirection = (glm.pred>0)
+table(predDirection,x.test$up_down)
+
+# Evaluation
+a = x.test$up_down
+b = as.numeric(predDirection)
+result = model.performance(a,b,1)
+print(result$Model)
+
+}
+

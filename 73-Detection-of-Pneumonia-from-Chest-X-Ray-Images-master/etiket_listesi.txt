@@ -1,0 +1,96 @@
+Python
+    os
+        listdir
+        makedirs
+        mkdir
+        getcwd
+        pardir
+        path
+            join
+            exists
+            expanduser
+            abspath
+        
+
+
+    numpy
+        random
+            seed
+    pandas
+
+    matplotlib
+        pyplot
+            title
+            imshow
+            show
+            xlabel
+            ylabel
+            legend
+            plot
+
+    seaborn
+        set
+    shutil
+        move
+        rmtree
+
+    keras
+        backend
+        callbacks
+            TensorBoard
+            ReduceLROnPlateau
+        preprocessing
+            image
+                ImageDataGenerator
+        models
+            Sequential
+            Model
+                compile
+                layers
+                fit_generator
+                predict_generator
+            load_model
+        layers
+            Dense
+            Dropout
+            Flatten
+            Conv2D
+            MaxPool2D
+            GlobalAveragePooling2D
+        optimizers
+            RMSprop
+            SGD
+            Adam
+        applications
+            inception_v3
+                InceptionV3
+                    output
+                    input
+            vgg16
+                preprocess_input
+                decode_predictions
+
+    __future__
+        print_function
+    
+    argparse
+    datetime
+
+    tqdm
+        tqdm
+
+    default
+        if/else
+        def
+        break
+        for
+        len
+        print
+        range
+        return
+        enumerate
+        try
+        except
+
+Yardımcı teknolojiler
+    jupyter notebook

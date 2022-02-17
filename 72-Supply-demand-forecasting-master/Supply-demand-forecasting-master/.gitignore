@@ -1,0 +1,14 @@
+data/
+temp/
+.project
+.pydevproject
+evaluation/read_me_1.txt
+*.pyc
+logs/
+data_preprocessed/
+data_raw/
+data_preprocessed_/
+data_raw_/
+data_raw.zip
+data_preprocessed.zip
+*~

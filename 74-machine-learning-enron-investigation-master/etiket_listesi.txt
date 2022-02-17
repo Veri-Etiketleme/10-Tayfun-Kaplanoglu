@@ -1,0 +1,66 @@
+Python
+    numpy
+        array
+        percentile
+        argsort
+
+    sys
+        path
+            append
+    pandas
+    pprint
+        pprint
+    pickle
+        load
+    operator
+        itemgetter
+    time
+        time
+    matplotlib
+        pyplot
+            hist
+            hist
+            title
+            ylabel
+            xlabel
+            legend
+            scatter
+
+    sklearn
+        cross_validation
+            train_test_split
+        tree
+            DecisionTreeClassifier
+        metrics
+            *
+        feature_selection
+            SelectPercentile
+            f_classif
+        naive_bayes
+            GaussianNB
+        grid_search
+            GridSearchCV
+
+    feature_format
+        featureFormat
+        targetFeatureSplit
+    tester
+        dump_classifier_and_data
+
+    default
+        def
+        el/else
+        for
+        return
+        with
+        break
+        sorted
+        open
+        items
+        round
+        range
+
+
+Yardımcı teknolojiler
+    python pickle module
+    jupyter notebook

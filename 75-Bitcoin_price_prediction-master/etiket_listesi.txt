@@ -1,0 +1,130 @@
+Python
+    sys
+        argv
+    
+    datetime
+        date
+        timedelta
+    string
+    copy
+        deepcopy
+    pandas
+        read_csv
+        date_range
+        concat
+    
+    numpy
+        savetxt
+        multiply
+        prod
+        cumprod
+        comb
+        squeeze
+        genfromtxt
+        zeros
+        mean
+        arange
+        loadtxt
+        random
+            shuffle
+
+    math
+        ceil
+    matplotlib
+        pyplot
+            show
+            plot
+            grid
+            title
+            xlabel
+            ylabel
+            
+
+    sklearn
+        decomposition
+            PCA
+            components_
+            fit_transform
+        model_selection
+            train_test_split
+            GridSearchCV
+        svm
+            SVC
+        preprocessing
+            scale
+        neural_network
+            MLPClassifier
+    pdb
+        set_trace
+    tensorflow
+        reset_default_graph
+        placeholder
+        reduce_mean
+        Session
+        global_variables_initializer
+        get_collection
+        variable_scope
+        control_dependencies
+        train
+        float32
+        squeeze
+        bool
+        tanh
+        int32
+            Saver
+            AdamOptimizer
+        summary
+            scaler
+            FileWriter
+            merge_all
+        GraphKeys
+            UPDATE_OPS
+        layers
+            conv2d
+            batch_normalization
+            dense
+            dropout
+        nn
+            relu
+    argparse
+        ArgumentParser
+
+    defaults
+        enumerate
+        def
+        for
+        if/else
+        return
+        columns
+        values
+        shape
+        range
+        list
+        len
+        with
+        drop
+        values
+        set
+
+R
+    DataRead
+    splines
+    leaps
+    gam
+    MASS
+    glmnet
+    tree
+    randomForest
+    for
+    table
+    as
+        numreic
+    mean
+    paste
+    write
+        table
+    print
+
+
+Yardımcı teknolojiler
+    R Markdown

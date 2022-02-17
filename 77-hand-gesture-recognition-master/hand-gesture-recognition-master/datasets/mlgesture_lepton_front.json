@@ -1,0 +1,5 @@
+{
+  "n_classes": 10,
+  "video_path": "MlGesture/frame_data",
+  "annotation_path": "MlGesture/mlgesture_lepton_front.json"
+}

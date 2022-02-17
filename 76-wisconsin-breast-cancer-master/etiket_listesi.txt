@@ -1,0 +1,122 @@
+Python
+    __future__
+        absolute_import
+        diivision
+        print_function
+    
+    matplotlib
+        pyplot
+            imshow
+            show
+            xticks
+            yticks
+            ylabel
+            xlabel
+            tight_layout
+            colorbar
+            cm
+                Purples
+    argparse
+        ArgumentParser
+    numpy
+        load
+        append
+        reshape
+        arange
+        array
+        argmax
+        save
+        int
+
+    os
+        walk
+        mkdir
+        path
+            join
+            exists
+        _exit
+    sys
+        stdout
+            write
+        
+    keras
+        layers
+            Dense
+            Dropout
+            Sequential
+        
+    sklearn
+        metrics
+            confusion_matrix
+        datasets
+            load_breast_cancer
+                target
+                data
+        preprocessing
+            StandardScaler
+        model_selection
+            train_test_split
+    time
+        asctime     
+    tensorflow
+        Session
+            run
+        argmax
+        arg_min
+        constant
+        name_scope
+        placeholder
+        float32
+        placeholder
+        global_variables_initializer
+        local_variables_initializer
+        get_default_graph
+        random_normal
+        one_hot
+        get_variable
+        square
+        negative
+        add
+        reduce_mean
+        reduce_max
+        reduce_min
+        zeros
+        identity
+        group
+        cast
+        matmul
+        matmul
+
+        summary
+            histogram
+            scalar
+            merge_all
+            FileWriter
+        train
+            AdamOptimizer
+            GradientDescentOptimizer
+        nn
+            relu
+
+    flask
+        flask
+        Flask
+        render_template
+        load_model
+        request
+            form
+
+    default
+        def        
+        if/else
+        return
+        with
+        print
+        len
+        range
+        
+
+HTML 
+
+Yardımcı teknolojiler
+     Hierarchical Data Format (HDF)

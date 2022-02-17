@@ -1,0 +1,175 @@
+Python
+
+    pickle
+        load
+        dump
+    cPickle
+        load
+    sys
+        path
+            append
+    
+    numpy
+        array
+        ndarray
+        random
+            seed
+        reshape
+        percentile
+        absolute
+        vstack
+        sum
+
+    pandas
+        DataFrame
+            from_dict
+        read_csv
+        Series
+            nunique
+    scipy
+        stats
+            norm
+
+    urllin
+
+    tarfile
+        open
+        extractall
+
+    matplotlib
+        pyplot
+            scatter
+            rcParams
+            suptitle
+            xlabel
+            ylabel
+            legend
+            show
+            plot
+            ticklabel_format
+    pylab
+        figure
+        subplots_adjust
+        imshow
+        title
+        xticks
+        yticks
+        
+
+        cm
+            gray
+
+    os
+        chdir
+        path
+            join
+           
+        
+    warnings
+        filterwarnings
+    sklearn
+        model_selection
+            train_test_split
+            feature_train
+            feature_test
+            target_test
+            GridSearchCV
+            cross_validate
+        datasets
+            fetch_lfw_people
+        tree
+            DecisionTreeClassifier
+        ensemble
+            RandomForestClassifier
+            AdaBoostClassifier
+        metrics
+            accuracy_score
+            classification_report
+            confusion_matrix
+        feature_extraction
+            text
+                TfidfVectorizer
+        feature_selection
+            SelectionPercentile
+            f_classif
+            SelectPercentile
+        neighbors
+            KNeighborsClassifier  
+        cross_validation
+            StratifiedShuffleSplit
+        svm
+            SVC
+        linear_model
+            LinearRegression
+        decomposition
+            PCA
+                explained_variance_ratio_
+                transform
+        naive_bayes
+            GaussianNB
+        preprocessing
+            MinMaxScaler
+            Imputer
+            RobustScaler
+        cluster
+            KMeans
+        base
+            TransformerMixin
+            BaseEstimator
+        exceptions
+            UndefinedMetricWarning
+        pipeline
+            Pipeline
+            FeatureUnion
+
+    nltk
+        stem
+            snowball
+                SnowballStemmer
+    
+    string
+        maketrans
+        punctuation
+
+    re
+        compile
+
+    time
+        time
+    logging
+        basicConfig
+        INFO
+
+    seaborn
+        distplot
+        FacetGrid
+        countplot
+        pairplot
+    default
+        def
+        print
+        with
+        try
+        except
+        fit
+        return
+        break
+        sorted
+        open
+        range
+        len
+        if/else
+        for
+        zip
+        pass
+        round
+        enumerate
+        raise
+        sort_values
+        value_counts
+        isnull
+
+
+Yardımcı teknolojiler
+    Python pickle module
+    jupyter notebook
