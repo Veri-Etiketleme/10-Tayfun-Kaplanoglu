@@ -1,0 +1,75 @@
+Python
+    pandas
+        read_csv
+        concat
+        isnull
+        get_dummies
+        Series
+        DataFrame
+    
+    numpy
+        number
+        median
+        object
+        mean
+        sqrt
+        abs
+        std
+    
+    matplotlib
+        pyplot
+            style
+                use
+            figure
+            ticklabel_format
+            xlabel
+            ylabel
+            title
+            subplots
+            xticks
+            plot
+    
+    seaborn
+        distplot
+        heatmap
+        countplot
+    warnings
+        filterwarnings
+
+    scipy
+        stats
+            mode
+    sklearn
+        preprocessing
+            LabelEncoder
+        cross_validation
+            cross_val_score
+        metrics
+            mean_squared_error
+        
+        linear_model
+            LinearRegression
+            Ridge
+        tree
+            DecisionTreeRegressor 
+    xgboost
+        XGBRegressor   
+    default
+        head
+        tail
+        describe
+        len
+        print
+        for
+        str
+        set
+        value_counts
+        if/else
+        return
+        sum
+        isnull
+        apply
+
+    Yardımcı teknolojiler
+        jupyter notebook
+        xgboost

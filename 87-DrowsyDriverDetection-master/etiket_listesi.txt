@@ -1,0 +1,94 @@
+Python
+    numpy
+        ndarray
+        array
+        dot
+        ones
+        concatenate
+        zeros
+        random
+            seed
+        around
+
+    os
+        listdir
+        stat
+
+    cPickle
+        HIGHEST_PROTOCOL
+        dump
+    cv2
+        imread
+        resize
+        equalizeHist
+        imshow
+        COLOR_BGR2GRAY
+        cvtColor
+        rectangle
+        waitKey
+        imwrite
+        CascadeClassifier
+        destroyAllWindows
+        THRESH_BINARY
+        threshold
+        dilate
+        HOUGH_GRADIENT
+        HoughCircles
+        circle
+
+
+    __future__
+        absolute_import
+        print_function
+    matplotlib
+        pyplot
+    keras
+        models                    
+            Sequential
+        layers
+            core
+                Dense
+                Dropout
+                Activation
+                Flatten
+            convolutional
+                Convolution2D
+                MaxPooling2D
+        utils
+            np_utils
+            plot_model
+        optimizers
+            SGD
+            Adadelta
+            Adagrad
+            RMSprop
+            Adam
+    sklearn
+        svm
+
+    tensorflow
+        Session
+        ConfigProto
+
+    default
+        try
+        except
+        print
+        if/else
+        raise
+        as
+        for
+        dir
+        def
+        open
+        with
+        del
+        len
+
+
+
+
+
+
+Yardımcı teknolojiler
+    python pickle module

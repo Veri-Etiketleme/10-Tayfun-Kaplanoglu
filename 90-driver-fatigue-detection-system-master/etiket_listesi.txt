@@ -1,0 +1,51 @@
+Python
+    scipy
+        spatial
+            distance
+                euclidean
+
+    imutils
+        video
+            VideoStream
+
+    imutils
+        face_utils
+            FACIAL_LANDMARKS_IDXS
+            shape_to_np
+        resize
+
+    threading
+        Thread
+    
+    numpy
+    pyglet
+        resource
+            media
+        app
+            run
+    argparse
+        ArgumentParser
+    time
+        slepp
+    dlib
+        get_frontal_face_detector
+        shape_predictor
+    cv2
+        cvtColor
+        COLOR_BGR2GRAY
+        convexHull
+        drawContours
+        putText
+        FONT_HERSHEY_SIMPLEX
+        waitKey
+        imshow
+        destroyAllWindows
+    default
+        def
+        if
+        else
+        play
+        while
+        for
+        break
+        ord

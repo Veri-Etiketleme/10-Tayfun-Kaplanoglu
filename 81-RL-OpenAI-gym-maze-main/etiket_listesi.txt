@@ -1,0 +1,92 @@
+Python
+    setuptools
+        setup
+    os
+        path
+            abspath
+            dirname
+            exists
+            join
+    sys
+        path
+            insert
+    random
+        randint
+        choice
+        sample
+    argparse
+        ArgumentParser
+    
+
+    pygame
+        init
+        quit
+        Surface
+        display
+            set_caption
+            set_mode
+            quit
+            flip
+            get_surface
+        time
+            Clock
+        event
+            get
+        draw
+            line
+            circle
+            rect
+    gym
+        error
+        spaces
+            Box
+            Discrete
+        utils
+            seeding
+    time
+        sleep
+    numpy
+        zeros        
+        array
+        flipud
+        array_equal
+        rot90
+        linspace
+        ndarray
+        save
+        generic
+        save
+        load
+        argmax
+        log
+        sqrt
+        full
+        random
+            choice
+
+    math
+        exp
+    typing
+        Sequence
+        Tuple
+        MamedTuple
+        Iterable
+
+    default
+        def
+        for
+        if//else
+        len
+        raise
+        return
+        list
+        while
+        range
+        break
+        dir
+        print
+        enumerate
+
+
+
+YAML

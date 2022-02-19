@@ -1,0 +1,75 @@
+Python
+    numpy
+        zeros
+        mgrid
+        float32
+        absolute
+        max
+        sqrt
+        pi
+        sum
+        zeros_like
+        arctan2
+        argmax
+        dstack
+        array
+        concatenate
+        polyfit
+        linspace
+        transpose
+        vstack
+        flipud
+        hstack
+    cv2
+        cvtColor
+        undistort
+        COLOR_BGR2GRAY
+        COLOR_RGB2HLS
+        calibrateCamera
+        findChessboardCorners
+        Sobel
+        CV_64F
+        getPerspectiveTransform
+        INTER_LINEAR
+        warpPerspective
+        rectangle
+        fillPoly
+        addWeighted
+        FONT_HERSHEY_SIMPLEX
+        putText
+    
+    matplotlib
+        pyplot
+            subplots
+            subplots_adjust
+            plot
+            imshow
+            xlim
+            ylim
+
+    glob
+        glob
+
+    imageio
+        plugins
+            ffmpeg
+                download
+    
+    moviepy
+        editor
+            VideoFileClip
+    IPython
+        display
+            HTML
+
+    default
+        if/else
+        def
+        return
+        for
+        range
+        len
+        not
+
+Yardımcı teknolojiler
+    jupyter notebook

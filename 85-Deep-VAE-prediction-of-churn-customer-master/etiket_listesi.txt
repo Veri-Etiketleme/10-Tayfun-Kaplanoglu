@@ -1,0 +1,106 @@
+Python
+    os
+    pandas
+        read_csv
+        DataFrame
+        IndexSlice
+        get_dummies
+        concat
+    
+    numpy
+        zeros
+        mean
+        power
+        meshgrid
+        arange
+        c_
+        reshape
+        concatenate
+        random
+            seed
+    
+   
+    collections
+        Counter
+    
+    matplotlib
+        pyplot
+            title
+            xlabel
+            ylabel
+            legend
+            ylim
+            xlim
+            show
+            figure
+            scatter
+        colors
+            ListedColormap
+    
+    seaborn
+        kdeplot
+
+    sklearn
+        metrics
+            confusion_matrix
+            precision_recall_curve
+            auc
+            roc_curve
+            recall_score
+            classification_report
+            log_loss
+            accuracy_score
+            cohen_kappa_score
+            f1_score
+            precision_recall_fscore_support
+        utils
+            shuffle
+        model_selection
+            train_test_split
+        preprocessing
+            StandardScaler
+            MinMaxScaler
+        neighbors
+        datasets
+
+    IPython
+        display
+            SVG
+    keras
+        layers
+            Input
+            Dense
+            Lambda
+        models
+            Model
+        objectives
+            binary_crossentropy
+        callbacks
+            LearningRateScheduler
+        utils
+            vis_utils
+                model_to_dot
+        callbacks
+            EarlyStopping
+            ModelCheckpoint
+            Callback
+        backend
+            random_normal
+            exp
+            binary_crossentropy
+            square
+            sum
+    
+    default
+        if/else
+        for
+        def
+        return
+        print
+        len
+        while
+        
+
+
+Yardımcı teknolojiler
+    jupyter notebook

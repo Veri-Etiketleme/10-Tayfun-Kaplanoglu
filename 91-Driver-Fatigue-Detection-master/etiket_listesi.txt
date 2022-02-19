@@ -1,0 +1,49 @@
+Python
+    dlib
+        get_frontal_face_detector
+        shape_predictor
+    
+    sys
+        exit
+    
+    cv2
+        LUT
+        cvtColor
+        COLOR_BGR2GRAY
+        equalizeHist
+        fillConvexPoly
+        countNonZero
+        INTER_LINEAR
+        resize
+        VideoCapture
+        FONT_HERSHEY_COMPLEX
+        LINE_AA
+        putText
+        VideoWriter
+        VideoWriter_fourcc
+        circle
+        waitKey
+    
+    scipy
+        spatial
+            distance
+                euclidean
+    threading
+        Thread
+            setDaemon
+            start
+    playsound
+        playsound
+
+    default
+        ord
+        range
+        len
+        if
+        else
+        print
+        for
+        while
+
+HTML
+CSS
