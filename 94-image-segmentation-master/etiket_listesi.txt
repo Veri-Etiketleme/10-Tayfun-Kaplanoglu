@@ -1,0 +1,26 @@
+Python
+    sys
+    os
+        path
+            isdir
+            basename
+            join
+        walk
+    argparse
+        values
+    math
+    PIL
+        Image
+            open
+        ImageDraw
+            Draw
+    default
+        for
+        if
+        else
+        map
+        len
+        range
+        def
+        del
+        

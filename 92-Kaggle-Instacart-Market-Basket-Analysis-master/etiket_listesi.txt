@@ -1,0 +1,66 @@
+Python
+    Numpy
+        max
+        nan
+        array
+        ptp
+        zeros
+        sort
+        
+
+    pandas
+        read_csv
+        merge
+        DataFrame
+        read_pickle
+        Series
+    operator
+        itemgetter
+    scipy
+        sparse
+            ssp
+    matplotlib
+        pyplot
+
+    sklearn
+        feature_extraction
+            text
+                TfidfVectorizer
+        decomposition
+            TruncatedSVD
+            PCA
+        manifold
+            TSNE
+    gensim
+        models
+            Word2Vec
+    xgboost
+        DMatrix
+        train
+    pickle
+        load
+        dump
+        
+
+    default
+        print
+        if
+        else
+        list
+        for
+        open
+        as
+        with
+        drop
+        columns
+        mean
+        groupby
+        astype
+        del
+        pass
+        return
+        map
+        false
+        
+
+

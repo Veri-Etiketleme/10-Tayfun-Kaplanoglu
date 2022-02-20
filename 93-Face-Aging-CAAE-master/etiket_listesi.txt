@@ -1,0 +1,101 @@
+Python
+    __future__
+        division
+    
+    tensorflow
+        variable_scope
+        get_variable_scope
+        get_variable
+        truncated_normal_initializer
+        constant_initializer
+        random_normal_initializer
+        global_variables_initializer
+        matmul
+        maximum
+        tile
+        concat
+        reshape
+        placeholder
+        ones
+        ConfigProto
+        reduce_mean
+        AUTO_REUSE
+        Session
+
+        app
+            run
+        nn
+            bias_add
+            conv2d_transpose
+            sigmoid_cross_entropy_with_logits
+            l2_loss
+            relu
+            tanj
+            sigmoid
+        summary
+            histogram
+            scalar
+            merge
+            FileWriter
+        train
+            Saver
+            AdamOptimizer
+            get_checkpoint_state
+        contrib
+            layers
+                batch_norm
+    glob
+        glob
+    os
+        environ
+        makedirs
+        listdir
+        path
+            join
+            exists
+            basename
+    pprint
+        pprint
+    scipy
+        misc
+            imread
+            imresize
+            imsave
+        io
+            savemat
+    argparse
+        ArgumentParser
+    numpy
+        sqrt
+        ceil
+        zeros
+    sys
+
+    default
+        enumerate
+        if
+        else
+        for
+        return
+        len
+        with
+        range
+        print
+        exit
+        def
+        try
+        except
+        enumerate
+        for
+        raise
+        assert
+        while
+        break
+        input
+        
+
+
+YAML
+HTML
+Yardımcı teknolojiler
+    Metafile
