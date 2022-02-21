@@ -1,0 +1,52 @@
+Python
+    matplotlib
+        pyplot
+            imshow
+            figure
+        image
+            imread
+    numpy
+        zeros_like
+        sqrt
+        array
+        zeros
+        copy
+        pi
+    cv2
+        imread
+        inRange
+        fillPoly
+        line
+        addWeighted
+        cvtColor
+        imwrite
+        bitwise_and
+        cvtColor
+        COLOR_RGB2GRAY
+        Canny
+        GaussianBlur
+        HoughLinesP
+    math
+    os
+        listdir
+    moviepy
+        editor
+            VideoFileClip
+    IPython
+        display
+            HTML
+    default
+        type
+        print
+        def
+        return
+        if
+        else
+        continue
+        len
+
+
+HTML
+Yardımcı teknolojiler
+    shell script
+    Markdown

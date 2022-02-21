@@ -1,0 +1,82 @@
+Python
+
+    tensorflow
+    keras
+        backend
+        layer
+            Conv2DTranspose
+            Conv2D
+            MaxPooling2D
+            Dropout
+            UpSampling2D
+            normalization
+                BatchNormalization
+        callbacks
+            EarlyStopping
+            ModelCheckpoint
+            TensorBoard
+        preprocessing
+            image
+                ImageDataGenerator
+        
+        models
+            Sequential
+    datetime
+        datetime
+            now
+    cv2
+        resize
+        INTER_LINEAR
+        INTER_AREA
+        imread
+        VideoCapture
+        imwrite
+        INTER_CUBIC
+        flip
+        cvtColor
+        COLOR_BGR2HSV
+        COLOR_HSV2BGR
+
+    os
+        path
+            basename
+
+    glob
+        glob
+
+    random        
+        shuffle
+
+    shutil
+        move
+
+    logging
+        info
+        error
+        basicConfig
+
+    numpy
+        array
+        clip
+        random
+            rand
+
+    default
+        def
+        if
+        else
+        return
+        try
+        except
+        for
+        while
+        len
+        enumerate
+        list
+        zip
+        range
+        print
+        next
+
+Yardımcı Teknolojiler
+    Hierarchical Data Format (HDF)

@@ -1,0 +1,38 @@
+{
+    "version": 1,
+    "disable_existing_loggers": false,
+    "formatters": {
+      "verbose": {
+        "format": "%(levelname)s %(asctime)s %(module)s %(process)d %(thread)d %(message)s"
+      },
+      "simple": {
+        "format": "%(levelname)s %(message)s"
+      }
+    },
+    "handlers": {
+      "file": {
+        "level": "DEBUG",
+        "delay": true,
+        "class": "logging.FileHandler",
+        "filename": "debug.log",
+        "mode": "w",
+        "formatter": "verbose"
+      },
+      "console": {
+        "level": "DEBUG",
+        "class": "logging.StreamHandler",
+        "formatter": "simple"
+      }
+    },
+    "loggers": {
+      "basic_motion_detection_and_tracking_system.run_system": {
+        "handlers": ["file", "console"],
+        "level": "DEBUG",
+        "propagate": false
+      }
+    },
+    "root": {
+      "level": "WARNING",
+      "handlers": ["file"]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "disable_logging": true,
+    "logging_conf_path": "logging_conf.json",
+    "background_model": "first_frame",
+    "video_filepath": "",
+    "image_dirpath": "",
+    "reports_dirpath": "",
+    "save_security_feed_images": true,
+    "save_frame_delta_images": true,
+    "save_thresh_images": true,
+    "image_format": "png",
+    "show_video": true,
+    "start_frame": 1,
+    "end_frame": 0,
+    "min_area": 500,
+    "delta_thresh": 25,
+    "resize_image_width": 500,
+    "show_datetime": true,
+    "gaussian_kernel_size": {
+      "width": 21,
+      "height": 21
+    }
+}

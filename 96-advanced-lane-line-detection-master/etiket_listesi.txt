@@ -1,0 +1,78 @@
+Python
+    cv2
+        imread
+        cvtColor
+        COLOR_BGR2RGB
+        undistort
+        COLOR_RGB2YUV
+        COLOR_RGB2HLS
+        COLOR_RGB2YCrCb
+        COLOR_RGB2GRAY
+        Sobel
+        CV_64F
+        imread
+        getPerspectiveTransform
+        warpPerspective
+        INTER_LINEAR
+        rectangle
+        resize
+        FONT_HERSHEY_SIMPLEX
+        putText
+        fillPoly
+        addWeighted
+        findChessboardCorners
+        calibrateCamera
+    glob
+        glob
+    pickle
+        load
+        dump
+    matplotlib
+        pyplot
+            title
+            figure
+            show
+
+    numpy
+        zeros_like
+        absolute
+        max
+        sum
+        poly1d
+        polyfit
+        abs
+        argmax
+        array
+        mean
+        linspace
+        dstack
+        vstack
+        hstack
+        zeros
+        mgrid
+        transpose
+        flipud
+        int_
+
+    moviepy
+        editor
+            VideoFileClip
+    optparse
+        OptionParser
+
+
+    default
+        open
+        for
+        print
+        enumerates
+        return
+        isinstance
+        assert
+        if
+        else
+
+
+Yardımcı teknolojiler
+    jupyter notebook
+    Pascal

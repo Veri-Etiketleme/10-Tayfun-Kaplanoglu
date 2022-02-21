@@ -1,0 +1,120 @@
+Python
+
+    tensorflow
+        Graph
+        Session
+        placeholder
+        reduce_sum
+        abs
+        concat
+        select
+        minimum
+        to_float
+        stack
+        reshape
+        variable_scope
+        global_variables_initializer
+        summary
+            merge_all
+            FileWriter
+        train
+            Saver
+            AdadeltaOptimizer
+        contrib
+            layers
+                flatten
+            slim
+                arg_scope
+                batch_norm
+                max_pool2d
+                conv2d
+                losses
+                        get_regularization_losses
+        nn
+            sparse_softmax_cross_entropy_with_logits
+            top_k
+            softmax
+
+    numpy
+        array
+        asarray
+        expand_dims
+        copy
+        where
+        zeros
+        concatenate
+        mean
+        transpose
+        ones_like
+        random
+            choice
+    glob
+        glob
+
+    matplotlib
+        pyplot
+            imsave
+            show
+            imshow
+
+    moviepy
+        editor
+            VideoFileClip
+
+    optparse
+        OptionParser
+
+    sklearn
+        model_selection
+            train_test_split
+    
+    cv2
+        rectangle
+        putText
+        LINE_AA
+
+    re
+        search
+
+    math
+        ceil
+
+    os
+        path
+            exists
+            join
+        makedirs
+        listdir
+    time
+        time
+
+    pickle
+        load
+        dump
+
+    PIL
+        Image
+            open
+            fromarray
+            size
+            convert
+            resize
+            LANCZOS
+            save
+
+    default
+        def
+        if
+        else
+        with
+        open
+        enumerate
+        yield
+        range
+        open
+        for
+        return
+        min
+        max
+        round
+

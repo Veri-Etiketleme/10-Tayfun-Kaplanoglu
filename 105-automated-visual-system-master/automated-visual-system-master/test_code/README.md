@@ -1,0 +1,3 @@
+Python scripts for testing various aspects of an OpenCV 3 installation:
+* `opencv_install_test.py`: Python script for testing the OpenCV 3 installation by loading an image or streaming from a webcam, and displaying the image or webcam feed. Test code for webcam is from [Adrian Rosebrock's tutorial](https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/).
+* `opencv_sift_surf_test.py`: Python script for testing that we can access the SIFT, SURF, and other keypoint detectors and local invariant descriptors. Test code is from [Adrian Rosebrock's blog post (Where did SIFT and SURF go in OpenCV 3?)](https://www.pyimagesearch.com/2015/07/16/where-did-sift-and-surf-go-in-opencv-3/).

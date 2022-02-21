@@ -1,0 +1,112 @@
+Python
+
+    pickle
+        load
+        dump
+
+    tensorflow
+        keras
+            callbacks
+                ModelCheckpoint
+
+    random
+        seed
+        shuffle
+
+    os
+        listdir
+        path
+            exists
+    numpy
+        asarray
+    PIL
+        Image
+            reshape
+            shape
+            open
+    string
+        punctuation
+
+    tqdm
+        tqdm
+
+    matplotlib
+        pyplot
+            subplots
+            savefig
+
+    datetime
+        datetime
+            now
+                year
+                month
+                day
+                hour
+                minute
+                second
+
+    keras
+        models
+            load_model
+            Model
+                inputs
+                layers
+                    pop
+                compile
+                predict
+        preprocessing
+            image
+                load_img
+                img_to_array
+            sequence
+                pad_sequences
+            text
+                Tokenizer
+            
+        applications
+            inception_v3
+                preprocess_input
+            vgg16
+                preprocess_input
+                VGG16
+        layers
+            Input
+            Dense
+            Dropout
+            LSTM
+            Embedding
+            concatenate
+            RepeatVector
+            TimeDistributed
+            Bidirectional
+        utils
+            to_categorical
+
+    tqdm
+        tqdm
+    nltk
+        translate
+            bleu_score
+                corpus_bleu
+
+
+    default
+        type
+        assert
+        if
+        else
+        print
+        len
+        for
+        continue
+        open
+        return
+        break
+        while
+        def
+        range
+        set
+        assert
+
+
+

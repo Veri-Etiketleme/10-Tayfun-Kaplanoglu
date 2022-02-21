@@ -1,0 +1,52 @@
+Python
+    setuptools
+        setup
+        find_packages
+    time
+        sleep
+    sys
+        argv
+    datetime
+        datetime
+            now
+        timedelta
+
+    threading
+        Thread
+
+    sys
+        exit
+    math
+        pow
+
+    bluetooth
+        _bluetooth
+            hci_open_dev
+            str2ba
+            ACL_LINK
+            HCIGETCONNINFO
+            hci_send_req
+            EVT_CMD_COMPLETE
+            OGF_STATUS_PARAM
+            OCF_READ_RSSI
+    struct
+        pack
+        unpack
+    array
+        array
+    fcntl
+        ioctl
+    default
+        if
+        else
+        for
+        len
+        print
+        range
+        def
+        return
+        while
+        append
+        try
+        except
+        class

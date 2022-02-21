@@ -1,0 +1,37 @@
+Python
+    re
+        compile
+        findall
+        match
+        UNICODE
+    numpy
+        load
+        save
+        zeros
+        array
+
+    sklearn
+        naive_bayes
+            MultinomialNB
+    datetime
+        datetime
+            now
+    sys
+        argv
+    nltk
+        word_tokenize
+
+    default
+        len
+        open
+        print
+        for
+        return
+        with
+        try
+        except
+        continue
+
+Yardımcı teknolojiler
+    shell script
+    XML
