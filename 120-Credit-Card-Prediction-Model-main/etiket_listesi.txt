@@ -1,0 +1,40 @@
+Python
+
+    pandas
+        read_csv
+
+    numpy
+        nan
+    
+    sklearn
+        preprocessing
+            LabelEncoder
+
+        model_selection
+            train_test_split
+            
+        preprocessing
+            MinMaxScaler
+                fit_transform
+                transform
+
+        linear_model
+            LogisticRegression
+
+        metrics
+            confusion_matrix
+
+
+    default
+        head
+        tail
+        print
+        replace
+        sum
+        mean
+        if
+        else
+        for
+
+Yardımcı teknolojiler
+    jupyter notebook

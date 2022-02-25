@@ -1,0 +1,65 @@
+Python
+    pandas
+        DataFrame
+            from_dict
+        read_csv
+    numpy
+        zeros
+        where
+        amax
+        array
+        arange
+        transpose
+        square
+        dot
+        sqrt
+        squeeze
+        asarray
+        exp
+        random
+            randint
+            permutation
+            randn
+    matplotlib
+        pyplot
+            plot
+            imshow
+            title
+            subplot
+            savefig
+            rcParamsv
+            xlabel
+            ylabel
+            figure
+            show
+            close
+            legend
+    PIL
+        Image
+            ANTIALIAS
+        ImageFilter
+            SHARPEN
+    pickle
+        load
+        dump
+    time
+        time
+    
+    default
+        def
+        print
+        if
+        else
+        for
+        return
+        len
+        range
+        head
+        assert
+        round
+        tail
+        open
+
+YAML
+Yardımcı teknolojiler
+    Python pickle module
