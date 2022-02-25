@@ -1,0 +1,95 @@
+Python
+    numpy
+        absolute
+        max
+        sqrt
+        zeros_like
+        dstack
+        array
+        argmax
+        int
+        sum
+        mean
+        concatenate
+        ystack
+        polyfit
+        linspace
+        flipud
+        transpose
+        hstack
+        zeros
+        mgrid
+        
+    ipywidgets
+        widgets
+        interactive
+        interact
+        fixed
+
+    IPython
+        display
+            display
+            HTML
+            Image
+    moviepy
+        editor
+            VideoFileClip
+    skimage
+        img_as_ubyte
+
+        
+    cv2
+        cvtColor
+        COLOR_RGB2HLS
+        COLOR_RGB2HSV
+        COLOR_RGB2GRAY
+        threshold
+        THRESH_BINARY
+        equalizeHist
+        Sobel
+        CV_64F
+        putText
+        resize
+        bitwise_and
+        INTER_NEAREST
+        INTER_AREA
+        fillPoly
+        warpPerspective
+        addWeighted
+        INTER_LINEAR
+        undistort
+        getPerspectiveTransform
+        drawChessboardCorners
+        calibrateCamera
+        findChessboardCorners
+        FONT_HERSHEY_COMPLEX
+    
+    matplotlib
+        pyplot
+            imshow
+            show
+        image
+
+    glob
+        glob
+    
+    pickle
+        load
+        dump
+    
+    skimage
+        img_as_ubyte
+
+    default
+        abs
+        def
+        if
+        else
+        return
+        len
+        range
+        open
+
+
+Yardımıc teknolojiler
+    jupyter notebook

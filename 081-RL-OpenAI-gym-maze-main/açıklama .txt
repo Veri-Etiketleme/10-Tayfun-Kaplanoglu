@@ -1,0 +1,2 @@
+Reinforcement Learning 
+labirent üzerinde mavi noktadan kırmızı noktaya en kısa mesafeyi bulmak

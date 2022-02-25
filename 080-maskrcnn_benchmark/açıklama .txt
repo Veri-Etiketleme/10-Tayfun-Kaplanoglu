@@ -1,0 +1,1 @@
+Incremental learning ile nesne tespiti

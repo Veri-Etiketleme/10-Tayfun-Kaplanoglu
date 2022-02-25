@@ -1,0 +1,2 @@
+Enchant kullanan bir Yazım düzeltme modülü
+Adları, sohbet dilini, ifadeleri ve teknik terimleri filtreler.

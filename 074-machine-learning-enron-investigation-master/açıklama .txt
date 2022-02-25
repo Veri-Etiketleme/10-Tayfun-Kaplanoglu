@@ -1,0 +1,1 @@
+makine öğrenmesi ile kişilerin mail verileri incelenerek Enron yolsuzluk skandalıyla ilişkilerini tespit etme

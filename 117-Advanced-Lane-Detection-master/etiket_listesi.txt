@@ -1,0 +1,84 @@
+Python
+    numpy
+        sum
+        dstack
+        int_
+        array
+        mean
+        concatenate
+        polyfit
+        linspace
+        absolute
+        zeros_like
+        vstack
+        transpose
+        ones
+        argmax
+        convolve
+        zeros_like
+        max
+
+    cv2
+        rectangle
+        fillPoly
+        addWeighted
+        merge
+        getPerspectiveTransform
+        polylines
+        warpPerspective
+        INTER_NEAREST
+        cvtColor
+        COLOR_RGB2LUV
+        COLOR_RGB2Lab
+        COLOR_RGB2BGR
+        undistort
+        FONT_HERSHEY_SIMPLEX
+        putText
+        Sobel
+        CV_64F
+        findChessboardCorners
+        drawChessboardCorners
+        
+
+    matplotlib
+        pyplot
+            imshow
+            plot
+            xlim
+            ylim
+            show
+            title
+            subplot
+        image
+            imread
+    moviepy
+        editor
+            VideoFileClip
+    collections
+        deque
+    skimage
+        exposure
+    pickle
+        load
+        dump
+
+    default
+        def
+        if
+        else
+        return
+        len
+        max
+        min
+        range
+        bin
+        as
+        open
+        with
+        for
+        list
+        map
+
+
+Yardımcı teknolojiler
+    Python pickle module

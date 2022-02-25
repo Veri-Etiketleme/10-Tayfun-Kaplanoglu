@@ -1,0 +1,62 @@
+Python
+    numpy
+        zeros_like
+        mean
+
+    os
+        listdir
+    cv2
+        fillPoly
+        bitwise_and
+        COLOR_BGR2RGB
+        cvtColor
+        imread
+        imshow
+        waitKey
+        getPerspectiveTransform
+        warpPerspective
+        INTER_LINEAR
+        undistort
+        rectangle
+        addWeighted
+        FONT_HERSHEY_SIMPLEX
+        putText
+        LINE_AA
+        resize
+        line
+        COLOR_BGR2RGB
+        COLOR_BGR2GRAY
+        line
+        findChessboardCorners
+        calibrateCamera
+
+
+    moviepy
+        editor
+            VideoFileClip
+    pickle
+        load
+        dump
+    
+    matplotlib
+        pyplot
+            imshow
+            savefig
+
+        image
+            imread
+
+    default
+        def
+        if
+        else
+        return
+        len
+        with
+        open
+        as
+        range
+
+YAML
+XML
+Pascal

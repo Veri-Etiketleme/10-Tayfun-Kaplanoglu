@@ -1,0 +1,2 @@
+Anahtar kelime çıkarma, metinden en alakalı kelimeleri
+ ve ifadeleri otomatik olarak çıkarmak.

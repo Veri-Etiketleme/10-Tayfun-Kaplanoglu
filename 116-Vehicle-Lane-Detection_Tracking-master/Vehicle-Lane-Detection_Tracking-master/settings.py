@@ -1,0 +1,6 @@
+CALIB_FILE_NAME = "calibration_pickle.p" 
+PERSPECTIVE_FILE_NAME = "projection_pickle.p"
+
+ORIGINAL_SIZE = 1280, 720
+UNWARPED_SIZE = 960, 1120  # 720, 1280 
+# UNWARPED_SIZE = 500, 600

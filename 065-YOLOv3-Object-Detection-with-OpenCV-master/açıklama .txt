@@ -1,0 +1,2 @@
+eğitilmiş yolov3 modellerini kullanarak bir görüntü ve
+ video nesne algılama sınıflandırıcısı uygulama.

@@ -1,0 +1,157 @@
+Python
+
+
+    os
+        listdir
+        makedir
+        path
+            exists
+            isfile
+
+    matplotlib
+        pyplot
+            subplot
+            imshow
+            axis
+            show
+            figure
+            title
+            savefig
+
+    numpy
+        empty
+        zeros
+        array
+        asarray
+        newaxis
+        zeros_like
+        shape
+        absolute
+        dstack
+        transpose
+        vstack
+        hstack
+        flipud
+        max
+        min
+        sum
+        int_
+        average
+        argmax
+        concatenate
+        polyfit
+        linspace
+        copy
+        floor
+        delete
+        mgrid
+
+    keras
+        backend
+            flatten
+            sum
+            placeholder
+            learning_phase
+            int_shape
+            shape
+            reshape
+            min
+            round
+            concatenate
+            constant
+            gather
+        models
+            load_model
+
+    cv2
+        resize
+        imwrite
+        imshow
+        waitKey
+        rectangle
+        split
+        equalizeHist
+        Sobel
+        merge
+        CV_64F
+        fillPoly
+        cvtColor
+        COLOR_BGR2RGB
+        COLOR_GRAY2RGB
+        COLOR_RGB2HLS
+        COLOR_BGR2GRAY
+        IMREAD_UNCHANGED
+        INTER_LINEAR
+        addWeighted
+        bitwise_and
+        warpPerspective
+        putText
+        INTER_LINEAR
+        CV_8UC3
+        undistort
+        VideoWriter_fourcc
+        VideoWriter
+        getPerspectiveTransform
+        drawChessboardCorners
+        findChessboardCorners
+        calibrateCamera
+
+    skvideo
+        io
+            io
+                vreader
+    moviepy
+        editor
+            VideoFileClip
+    pickle
+        load
+        dump
+    scipy
+        ndimage
+            measurements
+                label
+        spatial
+            distance
+                cdist
+    csv
+        reader
+
+    collections
+        deque
+
+    random
+        randint
+
+    glob
+        glob
+        
+    default
+        def
+        return
+        next
+        range
+        for
+        if
+        else
+        print
+        with
+        open
+        yield
+        enumerate
+        continue
+        reversed
+        break
+        assert
+        open
+        as
+        raise
+        set
+        list
+        set
+        del
+
+
+Yardımcı teknolojiler
+    Markdown
+    jupyter notebook
+    Hierarchical Data Format (HDF)

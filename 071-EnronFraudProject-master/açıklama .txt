@@ -1,0 +1,1 @@
+makine öğrenmesi ile 2000lerin başlarında yaşanan Enron fraud yolsuzluk olaylarıyla kişilerin muhtemel ilişkilerinin olup olmamasını etiketlemek
