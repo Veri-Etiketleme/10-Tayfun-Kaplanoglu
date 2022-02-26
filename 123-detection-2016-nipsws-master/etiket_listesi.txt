@@ -53,9 +53,11 @@ Python
         etree
             ElementTree
                 parse
+
     sklearn
         preprocessing
             OneHotEncoder
+            
     argparse
         ArgumentParser
 
@@ -63,15 +65,16 @@ Python
         bitwise_and
         bitwise_or
         resize
+
     random
         random
         sample
+
     scipy
         io
         ndimage
         interpolate
 
-    ke
     default
         def
         if

@@ -1,0 +1,76 @@
+Python
+    argparse
+        ArgumentParser
+    os
+        mkdir
+        rename
+        path
+            join
+            isdir
+            dirname
+    sys
+        path
+            append
+    cv2
+        imread
+        namedWindow
+        putText
+        FONT_HERSHEY_SIMPLEX
+        waitKey
+        matchTemplate
+        TM_CCOEFF_NORMEDminMaxLoc
+        imshow
+        setMouseCallback
+        copyMakeBorder
+        BORDER_CONSTANT
+        resize
+        adaptiveThreshold
+        ADAPTIVE_THRESH_GAUSSIAN_C
+        THRESH_BINARY
+        THRESH_TOZERO
+        threshold
+        GaussianBlur
+        cvtColor
+        COLOR_BGR2GRAY
+        getPerspectiveTransform
+        warpPerspective
+
+    
+    matplotlib
+        pyplot
+            subplot
+            imshow    
+            show
+            title
+    numpy
+        concatenate
+        newaxis
+        array
+
+    sklearn
+        ensemble
+            RandomForestClassifier
+        model_selection
+            train_test_split
+            cross_val_score
+    
+    joblib
+        load
+        dump
+    default
+        isinstance
+        print
+        enumerate
+        while
+        if
+        else
+        for
+        break
+        ord
+        len
+        all
+        sorted
+        vars
+
+Yardımcı teknolojiler
+    Markdown

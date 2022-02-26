@@ -1,0 +1,165 @@
+Python
+
+    Torch
+        from_numpy
+        stack
+        manual_seed
+        device
+        save
+        size
+        pow
+        log
+        log2
+        sigmoid
+        load
+        enable_grad
+        flatten
+        no_grad
+        Tensor
+        topk
+        cat
+        cuda
+            is_available
+            device_count
+            synchronize
+        optim
+            Adam
+            lr_scheduler
+                ExponentialLR
+        utils
+            data
+                DataLoader
+            utils
+                model_zoo
+                    load_url
+        nn
+            Conv2d
+            BatchNorm2d
+            GroupNorm
+            ReLU
+            InstanceNorm2d
+            AdaptiveAvgPool2d
+            Linear
+            Sequential
+            DataParallel
+            functional
+                binary_cross_entropy
+                smooth_l1_loss
+                interpolate
+                max_pool2d
+            init
+                kaiming_normal_
+                constant_
+
+    numpy
+        savetxt
+        where
+        repeat
+        newaxis
+        ones
+        transpose
+        asarray
+        mean
+        sum
+        ceil
+        logical_and
+        logical_or
+        concatenate
+        minimum
+        maximum
+        argsort
+        take
+        cos
+        sin
+        pi
+        sort
+        ogrid
+        sqrt
+        inf
+        argmax
+        cumsum
+        arange
+        zeros
+        
+        random
+            rand
+            choice
+            randint
+            uniform
+
+    sys
+        version_info
+
+    xml
+        etree
+            ElementTree
+                parse
+
+    eval
+        EvalModule
+
+    math
+        ceil
+
+    cv2
+        fillPoly
+        line
+        waitKey
+        destroyAllWindows
+        imshow        
+        getAffineTransform
+        boxPoints
+        imread
+        warpAffine
+        minAreaRect
+        INTER_LINEAR
+        resize
+
+    os
+        mkdir
+        path
+            join
+            exists
+
+    matplotlib
+        pyplot
+            figure
+            savefig
+            plot
+            legend
+            xlabel
+            ylabel
+            legend
+            subplots
+            show
+
+    time
+        time
+
+    argparse
+        ArgumentParser
+
+    default
+        isinstance
+        def
+        if
+        else
+        return
+        for
+        print
+        range
+        with
+        ord
+        exit
+        zip
+        continue
+        min
+        max
+        try
+        except
+        enumerate
+        map
+        len
+        assert
+
+
