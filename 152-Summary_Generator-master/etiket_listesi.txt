@@ -1,0 +1,53 @@
+
+
+Python
+    gunicorn
+    itsdangerous
+    Jinja2
+    Werkzeug
+    MarkupSafe
+    scipy
+    scikit-learn
+
+    nltk
+        download
+        corpus
+            stopwords
+        cluster
+            util
+                cosine_distance
+        tokenize
+            sent_tokenize
+    
+    numpy
+        zeros
+    
+    networkx
+        from_numpy_array
+        pagerank
+    re
+    flask
+        Flask
+        request
+            form
+        jsonify
+        render_template
+
+
+    default
+        for
+        return
+        if
+        else
+        for
+        list
+        set
+        len
+        range
+        enumerate
+        sorted
+        def
+        replace
+
+HTML
+CSS

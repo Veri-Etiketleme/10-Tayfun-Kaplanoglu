@@ -1,0 +1,61 @@
+Python
+
+
+    numpy
+
+    pandas
+        options
+            mode
+                chained_assignment
+            display
+                max_columns
+        read_csv
+        DataFrame
+    
+    matplotlib
+        pyplot
+            figure
+            subplot2grid
+            xlabel
+            ylabel
+            xticks
+            title
+            subplots_adjust
+            show
+            subplots
+        dates
+            date2num
+            DateFormatter
+        ticker
+            MaxNLocator
+    
+    seaborn
+        color_palette
+        heatmap
+
+    mpl_finance
+        candlestick_ohlc
+
+    fbprophet
+        Prophet
+    
+    statsmodels
+        tsa
+            arima_model
+                ARIMA
+    
+    sklearn
+        metrics
+            mean_squared_error
+
+    
+    default
+        for
+        del
+        print
+        int
+        len
+        range
+
+Yardımcı teknolojiler
+    jupyter notebook

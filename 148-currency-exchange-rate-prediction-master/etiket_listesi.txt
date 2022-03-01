@@ -1,0 +1,56 @@
+Python
+
+    warnings
+        filterwarnings
+    
+    numpy
+        random
+            seed
+    
+    pandas  
+        read_csv
+    keras
+        layers
+            Dense
+        models
+            Sequential
+    
+    matplotlib
+        pyplot
+            plot
+            xlabel
+            ylabel
+            savefig
+            title
+            legend
+            clf
+
+    sklearn
+        metrics
+            mean_squared_error
+
+
+    statsmodels
+        tsa
+            arima_model
+                ARIMA
+                    fit
+
+
+
+
+    default
+        def
+        if
+        else
+        return
+        print
+        for
+        str
+        input
+        open
+        columns
+        tolist
+        values
+        len
+        range

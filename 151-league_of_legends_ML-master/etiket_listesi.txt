@@ -1,0 +1,45 @@
+Python
+
+    pandas
+        read_csv
+        get_dummies
+
+    numpy
+        random
+            rand    
+    
+    math
+    matplotlib
+        pyplot
+            xticks
+            scatter
+            show
+            matshow
+
+    sklearn
+        preprocessing
+            OneHotEncoder
+        
+        model_selection
+            train_test_split
+            GridSearchCV
+        linear_model
+            LogisticRegression
+        neighbors
+            KNeighborsClassifier
+        svm
+            SVC
+    
+    default
+        for
+        list
+        map
+        print
+        str
+        range
+        len
+        head
+
+Yardımcı teknolojiler
+    jupyter notebook
+    

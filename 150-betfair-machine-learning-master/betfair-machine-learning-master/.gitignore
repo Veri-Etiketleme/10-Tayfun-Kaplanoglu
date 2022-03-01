@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Except python scripts
+!.gitignore
+!*.py
