@@ -1,0 +1,40 @@
+Python
+    pandas
+        read_csv
+    
+    numpy
+        log10
+    
+    math
+    matplotlib
+        pyplot
+            plot
+            legend
+            xlabel
+            ylabel
+            show
+            scatter
+    
+    sklearn
+        metrics
+            r2_score
+            mean_squared_error
+        model_selection
+            KFold
+            train_test_split
+        linear_model
+            LinearRegression
+        svm
+            SVR
+        neural_network
+            MLPRegressor
+        preprocessing
+
+    default
+        print
+        head
+        for
+        values
+Yardımcı teknolojiler
+    jupyter notebook
+    

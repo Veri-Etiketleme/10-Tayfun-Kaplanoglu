@@ -1,0 +1,81 @@
+Python
+    pandas
+        DataFrame
+        concat
+
+    sparknlp
+        base
+        annotator
+    matplotlib
+        pyplot
+            figure
+            imshow
+            axis
+            margins
+            show
+        style
+            use
+    seaborn
+        set
+        catplot
+
+    pyspark
+        sql
+            types
+            SparkSession
+            regexp_replace
+            col
+            substring
+            udf
+            functions
+
+        ml
+            Pipeline
+            evaluation
+                MulticlassClassificationEvaluator
+            feature
+                CountVectorizer
+                HashingTF
+                IDF
+                StringIndexer
+                SQLTransformer
+                IndexToString
+            classification
+                GBTClassifier
+
+    nltk
+        corpus
+            stopwords
+    collections
+        Counter
+    
+    sklearn
+        metrics
+        confusion_matrix
+    
+    spacy
+        lang
+            en
+                stop_words
+                    STOP_WORDS
+    
+    unidecode
+        unidecode
+    wordcloud
+        WordCloud
+        ImageColorGenerator 
+
+    
+    
+    default
+        list
+        isNull
+        groupBy
+        count
+        def
+        for
+        dict
+        print
+
+Yardımcı teknolojiler
+    jupyter notebook

@@ -1,0 +1,98 @@
+Python
+
+    numpy
+        linspace
+        delete
+        array
+        vstack
+        array
+        random
+            shuffle
+        linalg
+            svd
+
+    pandas
+        read_csv
+        DataFrame
+
+    requests
+        get
+
+    pylab
+        figure
+        xticks
+        plot
+        xlabel
+        show
+
+    matplotlib
+        pyplot
+            axis
+            pie
+            legend
+            savefig
+            show
+            xlabel
+            ylabel
+            xticks
+            scatter
+
+    sklearn
+        externals
+            joblib
+                load
+                dump
+        ensemble
+            GradientBoostingClassifier
+            RandomForestClassifier
+        svm
+            SVC
+        neural_network
+            MLPClassifier
+        linear_model
+            LogisticRegression
+        model_selection
+            KFold
+            GridSearchCV
+        preprocessing
+            StandardScaler
+        naive_bayes
+            MultinomialNB
+        tree
+
+    math
+        isnan
+
+    itertools
+        product
+
+    time
+        sleep
+        time
+
+    default
+        input
+        while
+        for
+        range
+        dict
+        return
+        def
+        return
+        enumerate
+        len
+        if
+        else
+        print
+        str
+        zip
+        sum
+        raise
+        str
+        break
+        max
+        min
+
+
+Yardımcı teknolojiler
+    python pickle module

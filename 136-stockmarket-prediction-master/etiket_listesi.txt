@@ -1,0 +1,55 @@
+Python
+    os
+        getcwd
+        mkdir
+    
+    numpy
+        array
+    
+    pandas
+        read_csv
+    
+    sklearn
+        preprocessing
+            MinMaxScaler
+    
+    Tensorflow
+        keras
+            models
+                Sequential
+            layers
+                LSTM
+                Dropout
+                Dense
+    
+    matplotlib
+        pyploot
+            plot
+            legend
+            savefig
+            clf
+            close
+            xlabel
+            ylabel
+    flask
+        Flask
+        render_template
+        request
+            form
+
+HTML
+
+    default
+        def
+        with
+        for
+        open
+        return
+        as
+        for
+        round
+        abs
+        legend
+        range
+        try
+        except

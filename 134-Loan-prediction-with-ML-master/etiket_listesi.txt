@@ -1,0 +1,66 @@
+Python
+    flask
+        Flask
+        render_template
+        url_for
+        request
+            form
+    flask_sqlalchemy
+
+    sklearn
+        externals
+            joblib
+                load
+                dump
+        ensemble
+            RandomForestClassifier
+        model_selection
+            train_test_split
+        metrics
+            accuracy_score
+            classification_report
+        preprocessing
+            LabelEncoder
+            Imputer
+                fit
+                transform
+        neighbors
+            KNeighborsClassifier
+        naive_bayes
+            MultinomialNB
+            GaussianNB
+        linear_model
+            LogisticRegression
+        tree
+            DecisionTreeClassifier
+
+    pandas
+        read_csv
+        DataFrame
+    numpy
+        array
+
+    matplotlib
+        pyplot
+
+    default
+        def
+        if
+        else
+        return
+        try
+        except
+        return
+        list
+        head
+        lower
+        values
+        isnull
+
+
+HTML
+CSS
+Yardımcı Teknolojijer
+    jupyter notebook
+    python pickle module
+    Markdown
