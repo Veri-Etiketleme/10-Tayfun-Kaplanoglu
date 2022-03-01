@@ -1,0 +1,64 @@
+Python
+    pandas
+        read_csv
+        DataFrame
+
+    numpy
+        random
+            seed
+        array
+        mran
+        zeros
+        arange
+        argmax
+
+
+    argparse
+        ArgumentParser
+    matplotlib
+        pyplot
+            plot
+            xlabel
+            ylabel
+            title
+            savefig
+
+    sklearn
+        ensemble
+            RandomForestClassifier
+        model_selection
+            cross_val_score
+        tree
+            export_graphviz
+    
+    graphviz
+        Source
+
+    default
+        if
+        else
+        for
+        def
+        return
+
+
+R
+    function
+    library
+    fiter
+    sum
+    any
+    if
+    else
+    colnames
+    commandArgss
+    is
+        na
+    as
+        numeric
+
+HTML
+Yardımcı teknolojiler
+    docker
+    Markdown
+    

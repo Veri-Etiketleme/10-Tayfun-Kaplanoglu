@@ -1,0 +1,1 @@
+python main.py --train 1 --test 0 --batch-size 1 --epoch 10 --team_data_type 'rank_8'

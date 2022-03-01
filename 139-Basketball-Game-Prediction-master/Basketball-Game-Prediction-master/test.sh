@@ -1,0 +1,1 @@
+python main.py --test 1 --train 0 --cuda 1 --team_data_type 'rank_8' --model_name 'epoch_9_params.pkl'

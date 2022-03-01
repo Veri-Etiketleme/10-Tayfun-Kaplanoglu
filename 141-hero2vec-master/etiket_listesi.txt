@@ -1,0 +1,83 @@
+Python
+    sys
+        argv
+    
+    pandas
+        read_csv
+
+    numpy
+        save
+        array
+        load
+        mean
+
+    matplotlib
+        pyplot
+            figure
+            subplot
+            show
+            close
+
+    os
+        path
+            isfile
+
+    pickle
+        load
+        dump
+
+    sklearn
+        decomposition
+            PCA
+                fit_transform
+                
+    torch
+        Tensor
+        LongTensor
+        max
+        matmmul
+        arange
+
+        autograd
+            Variable
+
+        cuda
+            is_available
+
+        nn
+            CrossEntropyLoss
+            Sequential
+            Embedding
+            ReLU
+            init
+                kaiming_normal
+
+        optim
+            SGD
+            
+        utils
+            data
+                DataLoader
+                sampler
+                    RandomSampler
+                    SequentialSampler
+                Dataset
+
+
+    default
+        zip
+        dict
+        for
+        if
+        else
+        print
+        divmode
+        range
+        def
+        assert
+        open
+        len
+        map
+
+Yardımcı teknolojiler
+    shell script

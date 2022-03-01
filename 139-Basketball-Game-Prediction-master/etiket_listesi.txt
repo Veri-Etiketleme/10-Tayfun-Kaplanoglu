@@ -1,0 +1,81 @@
+Python
+
+
+    torch
+        save
+        load
+        cat
+        FloatTensor
+        LongTensor
+        nn
+            MSELoss
+            CrossEntropyLoss
+            Linear
+            zeros
+            functional
+                leaky_relu
+                relu
+                softmax
+
+        autograd
+            Variable
+        optim
+            RMSprop
+
+    sklearn
+        metrics
+            roc_auc_score
+        decomposition
+            PCA
+        svm
+        externals
+            joblib
+                dump
+                load
+        preprocessing
+            StandardScaler
+        naive_bayes
+            GaussianNB
+
+    pickle
+        dump
+        load
+    xgboost
+        DMatrix
+        train
+        Booster
+
+    random
+        shuffle
+    argparse
+        ArgumentParser
+
+    Queue
+        PriorityQueue
+    pprint
+        pprint
+    numpy
+        array
+    
+    default
+        if
+        else
+        pass
+        str
+        def
+        for
+        with
+        as
+        open
+        len
+        range
+        print
+        def
+        pass
+        exit
+
+
+
+
+Yardımcı teknolojiler
+    shell script
