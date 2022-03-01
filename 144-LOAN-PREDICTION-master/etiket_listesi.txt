@@ -1,0 +1,73 @@
+Python
+    itertools
+
+    numpy
+        linspace
+        zeros
+        std
+        sqrt
+    
+
+    matplotlib
+        pyplot
+            hist
+            show
+            plot
+            fill_between
+            legend
+            ylabel
+            xlabel
+            tight_layout            
+        ticker
+            NullFormatter
+
+
+    pandas
+        read_csv
+        to_datetime
+        concat
+        get_dummies
+        DataFrame
+    
+
+    seaborn
+        FacetGrid
+    
+    sklearn
+        preprocessing
+            LabelEncoder
+            
+        model_selection
+            train_test_split
+
+        neighbors
+            KNeighborsClassifier
+
+        metrics
+            accuracy_score
+            jaccard_similarity_score
+            f1_score
+            log_loss
+        tree
+            DecisionTreeClassifier
+
+        linear_model
+            LogisticRegression
+        svm
+            SVC
+
+    default
+        sample
+        print
+        for
+        range
+        head
+        replace
+        groupby
+        value_counts
+        isna
+        sum
+
+
+Yardımcı teknolojiler
+    jupyter notebook

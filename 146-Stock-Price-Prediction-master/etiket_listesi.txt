@@ -1,0 +1,74 @@
+Python
+
+    iexfinance
+        Stock
+        get_historical_data
+
+    datetime
+        today
+
+    matplotlib
+        pyplot
+            title
+            plot
+            bar
+            show
+            figure
+            pie
+            legend
+            scatter
+            xlabel
+            ylabel
+
+
+    re
+        sub
+
+    tweepy
+        API
+        TweepError
+        OAuthHandler
+        TextBlob
+
+    sklearn
+        externals
+            joblib
+                load
+                dump
+        svm
+            SVR
+        linear_model
+            LinearRegression
+        preprocessing
+            StandardScaler
+
+    random
+        randint
+    
+    csv
+        reader
+
+    numpy
+        array
+        reshape
+
+
+
+    default
+        upper
+        def
+        return
+        try
+        except
+        print
+        if
+        else
+        round
+        input
+        for
+        len
+        split
+        open
+
+
+         

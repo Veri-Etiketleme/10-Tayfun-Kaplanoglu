@@ -1,0 +1,78 @@
+Python
+    numpy
+        arange
+        nan
+        sum
+        log
+        linspace
+        histogram
+        array
+        append
+        ones
+        argsort
+
+        random
+            seed
+    pandas
+        read_csv
+        read_table
+        get_dummies
+        MultiIndex
+            from_product
+
+    matplotlib
+        pyplot
+            subplots_adjust
+            suptitle
+            subplots
+            show
+
+    collections
+        Counter
+
+    sklearn
+        cross_validation
+            train_test_split
+        ensemble
+            RandomForestClassifier
+        grid_search
+            GridSearchCV
+        metrics
+            precision_recall_curve
+            roc_curve
+            auc
+    
+    bisect
+        bisect_left
+
+    scipy
+        stats
+            mstats
+
+    math
+
+
+
+    default
+        for
+        print
+        range
+        if
+        else
+        def
+        assert
+        return
+        len
+        sorted
+        for
+        while
+        sum
+        zip
+        min
+        enumerate
+        range
+
+
+
+Yardımcı teknolojiler
+    jupyter notebook

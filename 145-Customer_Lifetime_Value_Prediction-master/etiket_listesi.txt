@@ -1,0 +1,68 @@
+Python
+    __future__
+        division
+    
+    datetime
+        datetime
+        timedelta
+        date
+            year
+            month
+    
+    pandas
+        read_csv
+        to_datetime
+        DataFrame
+        merge
+        get_dummies
+    
+    sklearn
+        metrics
+            classification_report
+            confusion_matrix
+        cluster
+            KMeans
+                labels_
+                inertia_
+                fit_predict
+        model_selection
+            KFold
+            cross_val_score
+            train_test_split
+
+    
+    plotly
+        offline
+            init_notebook_mode
+            iplot
+        graph_objs
+            Histogram
+            Figure
+            Layout
+            Scatter
+    
+    xgboost
+        XGBClassifier
+
+    
+    default
+        head
+        value_counts
+        sort_values
+        columns
+        unique
+        for
+        range
+        list
+        values
+        groupby
+        describe
+        return
+        def
+        Revenue
+        reset_index
+        mean
+        print
+
+Yardımcı teknolojiler
+    jupyter notebook
