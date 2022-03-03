@@ -1,0 +1,68 @@
+Python
+
+    pandas
+        read_csv
+        get_dummies
+        DataFrame
+            from_records
+    numpy
+        array
+        str
+    
+    sklearn
+        externals
+            joblib
+                dump
+        preprocessing
+            LabelEncoder
+            OneHotEncoder
+            StandardScaler
+        compose
+            ColumnTransformer
+        model_selection
+            cross_val_score
+            GridSearchCV
+            train_test_split
+        metrics
+            confusion_matrix
+    
+    keras
+        models
+            Sequential
+        layers
+            Dense
+            Dropout
+        wrappers
+            scikit_learn
+                KerasClassifier
+
+    flask
+        render_template
+        Flask
+        jsonify
+        request
+            form
+                to_dict
+
+
+
+    default
+        def
+        return
+        print
+        str
+        print
+        round
+        if
+        else
+        
+
+
+YAML
+HTML
+CSS
+
+
+
+Yardımcı teknolojiler
+    Python pickle module

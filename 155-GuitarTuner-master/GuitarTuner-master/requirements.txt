@@ -1,0 +1,7 @@
+numpy~=1.22.1
+setuptools~=52.0.0
+PyAudio~=0.2.11
+py2app~=0.21
+Pillow~=9.0.0
+darkdetect~=0.1.1
+requests~=2.25.1

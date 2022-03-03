@@ -1,0 +1,70 @@
+Python
+    argparse
+        ArgumentParser
+    os
+        makedirs
+        listdir
+        walk
+        path
+            join
+            splitext
+            split
+            isfile
+    PIL
+        Image
+            open
+
+        ImageDraw
+            Draw
+        ImageFont
+
+
+    scipy
+        io
+
+    math
+        cos
+        radians
+        sin
+        ceil
+    
+    re
+        search
+
+    numpy
+        round
+
+    xml
+        etree
+            ElementTree
+                parse
+            
+    matplotlib
+        pyplot
+            subplots
+            imread
+
+    
+
+    default
+        def
+        return
+        for
+        if
+        else
+        elif
+        open
+        with
+        range
+        len
+        as
+        with
+        str
+        any
+        min
+        max
+        try
+        except
+        print
+        enumerate
+

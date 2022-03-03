@@ -1,0 +1,48 @@
+Python
+
+    requests
+        request
+    
+    os
+        system
+    time
+        sleep
+        time
+
+    RPi
+        GPIO
+            setmode
+            BCM
+            setup
+            IN
+            OUT
+            output
+            input
+            cleanup
+    
+    numpy
+    cv2
+        CascadeClassifier
+        VideoCapture
+        cvtColor
+        COLOR_BGR2GRAY
+        rectangle
+        imshow
+        waitKey
+        destroyAllWindows
+
+
+
+
+    default
+        def
+        if
+        else
+        for
+        break
+        return
+        len
+        while
+        print
+        try
+        except

@@ -1,0 +1,120 @@
+Python
+    theano
+        shared
+        config
+            floatX
+        
+        tensor
+            maximum
+            nnet
+                sigmoid
+                softmax
+                categorical_crossentropy
+                conv2d
+            signal
+                pool
+            tanh
+            mean
+            neq
+            function
+            argmax
+            cast
+            shared_randomstreams
+                RandomStreams
+            switch
+            grad
+            sqrt
+            dot
+            var
+        sandbox
+            rng_mrg
+                MRG_RandomStreams
+
+    collections
+        OrderedDict
+        OrderedDict
+
+    sklearn
+        utils
+            shuffle
+        metrics
+            f1_score
+            r2_score
+        datasets
+            fetch_mldata
+        cross_validation
+            train_test_split
+        preprocessing
+            MinMaxScaler
+
+    keras
+        layers
+            core
+                Dense
+                Activation
+                Dropout
+            recurrent
+                LSTM
+
+        models
+            Sequential
+
+
+
+
+    numpy
+        asarray
+        zeros
+        eye
+        ones
+        reshape
+        array
+        insert
+        newaxis
+        random
+            RandomState
+
+
+    subprocess
+        check_output
+    seaborn
+    pandas
+        read_csv
+    pandas_datareader
+        data
+            DataReader
+    datetime
+        datetime
+    time
+        time
+    matplolib
+        pyplot
+            title
+            fill_between
+            plot
+            show
+
+    os
+        path
+            join
+    
+    pickle
+        load
+        dump
+
+    default
+        def
+        return
+        if
+        else
+        raise
+        zip
+        for
+        with
+        print
+        range
+        len
+        enumerate
+
+Yardımcı teknolojiler
+    python pickle module

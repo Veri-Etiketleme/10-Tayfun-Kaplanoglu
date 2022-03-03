@@ -1,0 +1,125 @@
+Python
+    numpy
+        divide
+        abs
+        size
+        finfo
+        shape
+        log10
+        amax
+        zeros
+        hanning
+        convolve
+        argsort
+        argwhere
+        floor
+        insert
+        amin
+        reshape
+        mean
+        sqrt
+        sum
+        std
+
+    
+    math
+    wave
+        open
+    
+    os
+        remove
+        getcwd
+        listdir
+    
+    librosa
+        onset
+            onset_detect
+        midi_to_hz
+        autocorrelate
+        core
+            hz_to_note
+        feature
+            spectral_bandwidth
+            mfcc
+            zero_crossing_rate
+            rmse
+            spectral_centroid
+    
+    sklearn
+        svm
+            SVC
+        preprocessing
+            StandardScaler
+            LabelEncoder
+            normalize
+        model_selection
+            train_test_split
+            cross_val_score
+        neighbors
+            KNeighborsClassifier
+        metrics
+            classification_report
+            confusion_matrix
+            accuracy_score
+        model_selection
+            RepeatedKFold
+            GridSearchCV
+        neural_network
+            MLPClassifier
+        
+
+    pickle
+        load
+        dump
+    
+    struct
+        unpack
+    
+    scipy
+        signal
+            stft
+            find_peaks
+    
+    pandas
+        read_csv
+        DataFrame
+
+    essentia
+        array
+        standard
+
+    matplotlib
+        pyplot
+            specgram
+    
+    warnings
+        catch_warnings
+        simplefilter
+
+    pyAudioAnalysis
+        audioFeatureExtraction
+            stSpectralFlux
+
+    default
+        def
+        if
+        else
+        for
+        range
+        abs
+        round
+        while
+        try
+        except
+        break
+        values
+        head
+        return
+        print
+        max
+        min
+        len
+
+
+Yardımcı teknolojiler
+    python pickle module

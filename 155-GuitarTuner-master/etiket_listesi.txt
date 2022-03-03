@@ -1,0 +1,138 @@
+Python
+    os
+        system
+        path
+            dirname
+            abspath
+    
+    sys
+        platform
+        stderr
+            write
+        exc_info
+
+    getpass
+        getuser
+    
+    setuptools
+        setup
+    
+    settings
+        Settings
+            APP_NAME
+            CF_BUNDLE_IDENTIFIER
+            VERSION
+            AUTHOR
+            YEAR
+            CANVAS_SIZE
+            GITHUB_URL_README
+            ABOUT_TEXT
+
+    tkinter
+        Tk
+        Menu
+        Frame
+        Canvas
+        Label
+        CENTER
+        S
+        SW
+
+        messagebox
+            showinfo
+            askyesno
+        Tcl
+            call
+    
+    math
+        sin
+        radians
+
+    json
+        load
+        dump
+    requests
+        get
+    webbrowser
+        open
+    
+    time
+        time
+        sleep
+
+    numpy
+        zeros
+        average
+        log2
+        frombuffer
+        pad
+        ceil
+        argmax
+        fft
+            fft
+            fftfreq
+
+    
+    webbrowser
+    random
+        randint
+
+    distutils
+        version
+            StrictVersion
+    
+    smtplib
+        SMTP
+    
+    threading
+        Thread
+        Lock
+    
+    email
+        mine
+            multipart
+                MIMEMultipart
+            text
+                MIMEText
+    pyaudio
+        PyAudio
+        paInt16
+    wave
+        open    
+
+    PIL
+        Image
+            open
+            ANTIALIAS
+        ImageTk
+            PhotoImage
+
+    darkdetect
+        theme
+
+
+Json
+
+
+    default
+        type
+        def
+        if
+        else
+        pass
+        try
+        except
+        str
+        exception
+        type
+        open
+        as
+        while
+        for
+        pass
+        len
+        del
+        break
+
+
+

@@ -1,0 +1,98 @@
+Python
+    __future__
+        division
+
+    sys
+    random
+    math
+        sqrt
+        log
+    os
+    pyaudio
+        PyAudio
+        paInt16
+
+    pygame
+        init
+        display
+            set_mode
+            flip
+            update
+        event
+            get
+        font
+            Font
+        draw
+            rect
+            line
+        
+    numpy
+        sqrt
+        log
+        array
+        abs
+        where
+        sum
+        arange
+        argmax
+        mean
+        log
+        array_equalpolyfit
+        absolute
+        copy
+        empty
+        fromstring
+        fft
+            fft
+            rfft
+        add
+        multiply
+        log10
+        reshape
+        average
+    
+    scipy
+        signal
+            fftconvolve
+            kaiser
+            decimate
+        stats
+            gmean
+    time
+        time
+
+    struct
+
+
+    matplotlib
+        use
+        mlab
+            find
+    threading
+        Thread
+    pylab
+        plot
+        show
+
+    default
+        def
+        while
+        for
+        try
+        except
+        if
+        else
+        continue
+        return
+        elif
+        round
+        len
+        str
+        abs
+        range
+        sorted
+        break
+        print
+        enumerate
+        
+

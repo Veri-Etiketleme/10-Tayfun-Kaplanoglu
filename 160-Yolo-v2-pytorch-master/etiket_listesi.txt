@@ -1,0 +1,120 @@
+Python
+    os
+        makedirs
+        sep
+        path
+            join
+            isdir
+
+
+    argparse
+        ArgumentParser
+
+    random
+        uniform
+
+
+    torch
+        cat
+        zeros_like
+        FloatTensor
+        range
+        ones
+        zeros
+        Tensor
+        manual_seed
+        load
+        no_grad
+        save
+        rand
+        cuda
+            manual_seed
+            is_available
+        optim
+            SGD
+        
+        nn
+            Sequential
+            Conv2d
+            BatchNorm2d
+            MaxPool2d
+            LeakyReLU
+
+            init
+                normal_
+        utils
+            data
+                DataLoader
+                    default_collate
+                Dataset
+        autograd
+            Variable
+
+    xml
+        etree
+            ElementTree
+                parse
+
+
+    shutil
+        rmtree
+
+    pickle
+        load
+
+    cv2
+        VideoCapture
+        VideoWriter
+        VideoWriter_fourcc
+        CAP_PROP_FRAME_WIDTH
+        CAP_PROP_FPS
+        CAP_PROP_FRAME_HEIGHT
+        cvtColor
+        COLOR_BGR2RGB
+        resize
+        getTextSize
+        rectangle
+        FONT_HERSHEY_PLAIN
+        putText
+        imread
+        getTextSize
+        flip
+        COLOR_HSV2RGB
+        COLOR_RGB2HSV
+        resize
+        
+    numpy
+        copy
+        transpose
+        array
+
+    glob
+        iglob
+    json
+        load
+
+        
+    default
+        def
+        if
+        else
+        print
+        sum
+        len
+        break
+        for
+        with
+        enumerate
+        range
+        list
+        str
+        open
+        while
+        max
+        min
+        id
+        zip
+        continue
+
+Yardımcı teknolojiler
+    python pickle module
